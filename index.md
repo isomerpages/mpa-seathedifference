@@ -10,17 +10,17 @@ sections:
       title: Sea The Difference
       subtitle: Unlock a fulfilling maritime career regardless of your skillset,
         gender, or age.
-      button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Shore Or Not
+          description: Truths or myths?
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Sea the difference
+          description: 5 individuals visiting a mysterious agency to find the perfect
+            career path aka ‘the one’.
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Make A Splash
+          description: Dive into a day in the life of maritime careers
           url: /privacy/
   - infobar:
       title: Infobar title
