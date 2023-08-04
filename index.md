@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       title: Sea The Difference
-      subtitle: Hero subtitle
-      background: /images/maritime std-kv 795x380-04.jpg
+      subtitle: Unlock a fulfilling maritime career regardless of your skillset,
+        gender, or age.
       button: Contact Us
       url: /contact-us/
       key_highlights:
