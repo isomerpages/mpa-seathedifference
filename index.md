@@ -20,7 +20,7 @@ sections:
             career path aka ‘the one’.
           url: https://gmail.com
         - title: Make A Splash
-          description: Dive into a day in the life of maritime careers
+          description: Dive into the lives of maritime careers
           url: /privacy/
   - infobar:
       title: Infobar title
