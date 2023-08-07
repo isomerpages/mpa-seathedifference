@@ -22,6 +22,7 @@ sections:
         - title: Make A Splash
           description: Dive into the lives of maritime careers
           url: /privacy/
+      background: /images/maritime std-kv 03aug23-2-03.jpg
   - infobar:
       title: Infobar title
       subtitle: Subtitle
