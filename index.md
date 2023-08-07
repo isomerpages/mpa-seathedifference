@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Sea The Difference
       subtitle: Unlock a fulfilling maritime career regardless of your skillset,
         gender, or age.
       url: /contact-us/
