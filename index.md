@@ -7,8 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle: Unlock a fulfilling maritime career regardless of your skillset,
-        gender, or age.
       url: /contact-us/
       key_highlights:
         - title: Shore Or Not
@@ -22,7 +20,6 @@ sections:
           description: Dive into the lives of maritime careers
           url: /privacy/
       background: /images/maritime std-kv 03aug23-2-03.jpg
-      title: Sea The Difference
   - infobar:
       title: Infobar title
       subtitle: Subtitle
