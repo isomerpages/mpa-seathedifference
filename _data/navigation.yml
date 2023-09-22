@@ -1,8 +1,28 @@
 logo: ""
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
+  - title: The Matchmaker
+    url: /permalink
+    sublinks:
+      - title: Gianna
+        url: /permalink
+      - title: Selvam
+        url: /permalink
+      - title: Michael
+        url: /permalink
+      - title: Richard
+        url: /permalink
+  - title: Shore or Not?
     url: /example-page/
-  - title: Example Folder
+  - title: Make a Splash
     collection: example-folder
+  - title: Resources
+    url: /permalink
+    sublinks:
+      - title: Scholarships
+        url: /permalink
+      - title: "Resources? "
+        url: /permalink
+  - title: MaritimeOne
+    url: https://www.maritimeone.sg/
+  - title: MPA
+    url: https://www.mpa.gov.sg
