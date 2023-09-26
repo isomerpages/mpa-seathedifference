@@ -1,4 +1,5 @@
 collections:
   maritime-careers:
     output: true
-    order: []
+    order:
+      - Maritime Career.md
