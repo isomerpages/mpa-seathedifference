@@ -33,6 +33,18 @@ sections:
       url: https://www.viddsee.com/
       image: /images/matchmaker.png
       alt: The Matchmaker
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
