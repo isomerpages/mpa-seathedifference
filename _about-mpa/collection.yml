@@ -1,4 +1,5 @@
 collections:
   about-mpa:
     output: true
-    order: []
+    order:
+      - Mission, Vision & Values.md
