@@ -32,6 +32,7 @@ sections:
       button: watch the full film here
       url: https://www.viddsee.com/
       image: /images/matchmaker.png
+      alt: The Matchmaker
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
