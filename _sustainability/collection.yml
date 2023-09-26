@@ -2,5 +2,6 @@ collections:
   sustainability:
     output: true
     order:
+      - Maritime Singapore Decarbonisation Blueprint.md
       - Maritime Singapore Green Initiative.md
       - PORT OF THE FUTURE.md
