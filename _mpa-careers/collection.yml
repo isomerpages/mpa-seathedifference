@@ -2,5 +2,4 @@ collections:
   mpa-careers:
     output: true
     order:
-      - Why Join MPA.md
       - Get to Know MPA Staff.md
