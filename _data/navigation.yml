@@ -1,2 +1,6 @@
 logo: /images/maritime_and_port_authority_of_singapore_(logo).png
-links: []
+links:
+  - title: MPA CAREERS
+    collection: mpa-careers
+  - title: Menu Title
+    collection: mpa-careers
