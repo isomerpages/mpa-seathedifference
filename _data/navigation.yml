@@ -21,7 +21,12 @@ links:
         url: /permalink
       - title: Resources?
         url: /permalink
-  - title: MPA
-    url: https://www.mpa.gov.sg
-  - title: Start your career here
-    url: https://www.maritimeone.sg/
+  - title: MPA CAREERS
+    url: /permalink
+    sublinks:
+      - title: Why the MPA?
+        url: /permalink
+      - title: MPA Scholarships/Sponsorships
+        url: /permalink
+      - title: Get to know MPA Staff
+        url: /permalink
