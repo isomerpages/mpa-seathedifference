@@ -2,4 +2,5 @@ collections:
   maritime-careers:
     output: true
     order:
+      - Skills Framework for Sea Transport.md
       - Maritime Career.md
