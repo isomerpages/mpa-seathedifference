@@ -2,5 +2,4 @@ collections:
   about-mpa:
     output: true
     order:
-      - Maritime heritage/.keep
       - Mission, Vision & Values.md
