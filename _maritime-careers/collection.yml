@@ -2,6 +2,7 @@ collections:
   maritime-careers:
     output: true
     order:
+      - Get to Know MPA Staff.md
       - Why Join MPA.md
       - Maritime Career.md
       - SGUnited Opportunities in Sea Transport.md
