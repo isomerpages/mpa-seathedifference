@@ -1,10 +1,10 @@
 logo: /images/maritime_and_port_authority_of_singapore_(logo).png
 links:
-  - title: MARITIME CAREER
-    collection: maritime-careers
-  - title: Scholarships
-    collection: scholarships
   - title: about mpa
     collection: about-mpa
   - title: SUSTAINABILITY
     collection: sustainability
+  - title: Scholarships
+    collection: scholarships
+  - title: MARITIME CAREER
+    collection: maritime-careers
