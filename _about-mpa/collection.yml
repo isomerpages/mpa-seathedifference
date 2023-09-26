@@ -1,0 +1,4 @@
+collections:
+  about-mpa:
+    output: true
+    order: []
