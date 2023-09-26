@@ -1,5 +1,4 @@
 collections:
   mpa-careers:
     output: true
-    order:
-      - Get to Know MPA Staff.md
+    order: []
