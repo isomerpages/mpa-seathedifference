@@ -3,16 +3,17 @@ links:
   - title: The Matchmaker
     url: /permalink
     sublinks:
-      - title: Gianna
+      - title: Ep.1 Gianna
         url: /permalink
-      - title: Selvam
+      - title: Ep.2 Selvam
         url: /permalink
-      - title: Michael
+      - title: Ep.3 Michael
         url: /permalink
-      - title: Richard
+      - title: Ep.4 Richard
         url: /permalink
-  - title: Shore or Not?
-    url: /example-page/
+  - title: Shore Or Not
+    url: /permalink
+    sublinks: []
   - title: Resources
     url: /permalink
     sublinks:
@@ -20,7 +21,7 @@ links:
         url: /permalink
       - title: Resources?
         url: /permalink
-  - title: MaritimeOne
-    url: https://www.maritimeone.sg/
   - title: MPA
     url: https://www.mpa.gov.sg
+  - title: Start your career here
+    url: https://www.maritimeone.sg/
