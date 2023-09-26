@@ -2,10 +2,10 @@ collections:
   maritime-careers:
     output: true
     order:
-      - Get to Know MPA Staff.md
-      - Why Join MPA.md
       - Maritime Career.md
+      - Why Join MPA.md
       - SGUnited Opportunities in Sea Transport.md
       - Skills Framework for Sea Transport.md
       - Trainings & Certification of Seafarers.md
       - Sail Milestone Achievement Programme (SailMAP).md
+      - Get to Know MPA Staff.md
