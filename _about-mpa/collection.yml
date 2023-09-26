@@ -2,4 +2,5 @@ collections:
   about-mpa:
     output: true
     order:
+      - MPA's Milestones.md
       - Mission, Vision & Values.md
