@@ -2,8 +2,8 @@ title: Sea the Difference
 url: https://www.seathedifference.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#00aaff"
+  secondary-color: "#0000aa"
   media-colors:
     - title: media-color-one
       color: "#49759a"
