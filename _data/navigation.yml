@@ -13,8 +13,6 @@ links:
         url: /permalink
   - title: Shore or Not?
     url: /example-page/
-  - title: Make a Splash
-    collection: example-folder
   - title: Resources
     url: /permalink
     sublinks:
