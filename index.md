@@ -12,9 +12,9 @@ sections:
         - title: Shore Or Not
           description: Truths or myths?
           url: https://google.com
-        - title: Sea the difference
-          description: 5 individuals visiting a mysterious agency to find the perfect
-            career path aka ‘the one’.
+        - title: THE MATCHMAKER
+          description: 4 individuals visiting a mysterious agency to find the perfect
+            career path
           url: https://google.com
         - title: Make A Splash
           description: Dive into the lives of maritime careers
