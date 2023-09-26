@@ -23,7 +23,22 @@ sections:
           description: Key Highlight description
           url: ""
       background: /images/maritime std-kv 03aug23-2-03.jpg
-  - resources:
+  - infopic:
       title: THE MATCHMAKER
-      button: WATCH NOW
+      subtitle: FULL FILM SERIES
+      description: Navigating career crossroads, they meet an unconventional
+        matchmaker. Skepticism turns to curiosity as they journey to explore new
+        horizons.
+      button: watch the full film here
+      url: https://www.viddsee.com/
+      image: /images/matchmaker.png
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+  - resources:
+      title: LATEST NEWS
+      subtitle: LATEST NEWS
+      button: VIEW MORE
 ---
