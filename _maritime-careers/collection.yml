@@ -2,8 +2,8 @@ collections:
   maritime-careers:
     output: true
     order:
-      - Sail Milestone Achievement Programme (SailMAP).md
-      - Trainings & Certification of Seafarers.md
+      - Maritime Career.md
       - SGUnited Opportunities in Sea Transport.md
       - Skills Framework for Sea Transport.md
-      - Maritime Career.md
+      - Trainings & Certification of Seafarers.md
+      - Sail Milestone Achievement Programme (SailMAP).md
