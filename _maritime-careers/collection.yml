@@ -2,5 +2,6 @@ collections:
   maritime-careers:
     output: true
     order:
+      - SGUnited Opportunities in Sea Transport.md
       - Skills Framework for Sea Transport.md
       - Maritime Career.md
