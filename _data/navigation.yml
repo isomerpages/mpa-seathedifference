@@ -14,3 +14,7 @@ links:
     collection: scholarships
   - title: MARITIME CAREER
     collection: maritime-careers
+  - title: RESOURCES
+    resource_room: true
+  - title: Menu Title
+    url: /matchmaker-full-series/
