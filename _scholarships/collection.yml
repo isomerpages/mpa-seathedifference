@@ -1,0 +1,4 @@
+collections:
+  scholarships:
+    output: true
+    order: []
