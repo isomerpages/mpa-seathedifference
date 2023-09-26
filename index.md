@@ -23,4 +23,9 @@ sections:
   - resources:
       title: THE MATCHMAKER
       button: WATCH NOW
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
