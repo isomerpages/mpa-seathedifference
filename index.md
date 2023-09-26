@@ -15,10 +15,13 @@ sections:
         - title: Sea the difference
           description: 5 individuals visiting a mysterious agency to find the perfect
             career path aka ‘the one’.
-          url: https://gmail.com
+          url: https://google.com
         - title: Make A Splash
           description: Dive into the lives of maritime careers
-          url: /privacy/
+          url: https://google.com
+        - title: find out more
+          description: Key Highlight description
+          url: ""
       background: /images/maritime std-kv 03aug23-2-03.jpg
   - resources:
       title: THE MATCHMAKER
