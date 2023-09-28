@@ -16,3 +16,14 @@ links:
     collection: maritime-careers
   - title: RESOURCES
     resource_room: true
+  - title: Students
+    url: /permalink
+    sublinks:
+      - title: MPA Scholarships
+        url: /permalink
+      - title: Intern with MPA
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
