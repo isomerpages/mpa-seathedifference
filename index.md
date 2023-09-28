@@ -9,18 +9,8 @@ sections:
   - hero:
       url: /contact-us/
       key_highlights:
-        - title: THE MATCHMAKER
-          description: 4 individuals visiting a mysterious agency to find the perfect
-            career path
-          url: https://www.seathedifference.gov.sg/matchmaker-full-series/
-        - title: Shore Or Not
-          description: Truths or myths?
-          url: https://www.seathedifference.gov.sg/shore-or-not-full-series/
-        - title: Make A Splash
-          description: Dive into the lives of maritime careers
-          url: https://www.seathedifference.gov.sg/make-a-splash-full-series/
-        - title: find out more
-          description: Key Highlight description
+        - title: Your maritime career starts here
+          description: ""
           url: ""
       background: /images/maritime std-kv 03aug23-2-03.jpg
   - infopic:
