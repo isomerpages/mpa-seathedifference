@@ -3,13 +3,15 @@ links:
   - title: Maritime Singapore
     url: /permalink
     sublinks:
-      - title: What Maritime Singapore Offers
-        url: /permalink
-      - title: Sea the Difference
-        url: /permalink
-      - title: About MPA?
+      - title: Digitalisation
         url: /permalink
       - title: Sustainability
+        url: /permalink
+      - title: Seafaring and Offshore
+        url: /permalink
+      - title: Marine Services
+        url: /permalink
+      - title: Corporate Roles
         url: /permalink
   - title: The Matchmaker
     url: /permalink/matchmaker-full-series/
@@ -18,12 +20,10 @@ links:
         url: /permalink
       - title: Profiles?
         url: /permalink
-  - title: SHORE OR NOT
+  - title: Shore or Not
     url: /shore-or-not-full-series/
-  - title: MAKE A SPLASH
+  - title: Make a Splash
     url: /make-a-splash-full-series/
-  - title: RESOURCES
-    resource_room: true
   - title: For Students
     url: /permalink
     sublinks:
@@ -33,5 +33,16 @@ links:
         url: /permalink
       - title: Course Programmes
         url: /permalink
+  - title: For Jobseekers
+    url: /permalink
+    sublinks:
+      - title: ???
+        url: /permalink
+      - title: ???
+        url: /permalink
       - title: Submenu Title
         url: /permalink
+  - title: MPA
+    url: /permalink
+  - title: "MaritimeOne "
+    url: /permalink
