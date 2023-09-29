@@ -18,7 +18,7 @@ sections:
         - title: sth for students
           description: something catchy here
           url: ""
-      background: /images/maritime std-kv 03aug23-2-03.jpg
+      background: /images/Homepage Banners/trial gloria.png
   - infopic:
       title: THE MATCHMAKER
       subtitle: FULL FILM SERIES
