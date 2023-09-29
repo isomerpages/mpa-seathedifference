@@ -35,7 +35,7 @@ sections:
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: Infopic Title
+      title: Shore or Not
       subtitle: Infopic Subtitle
       description: Infopic description
       button: Button Text
