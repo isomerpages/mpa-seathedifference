@@ -2,8 +2,8 @@ title: Sea the Difference
 url: https://www.seathedifference.gov.sg
 favicon: /images/maritime_and_port_authority_of_singapore_(logo).png
 colors:
-  primary-color: "#00aaff"
-  secondary-color: "#0000aa"
+  primary-color: "#0000aa"
+  secondary-color: "#00aaff"
   media-colors:
     - title: media-color-one
       color: "#21c3a6"
