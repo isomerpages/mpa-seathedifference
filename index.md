@@ -10,7 +10,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Sea the Difference
-          description: ""
+          description: caption
           url: ""
         - title: Maritime Singapore
           description: SEAs the opportunity
