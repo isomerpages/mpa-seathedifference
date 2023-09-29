@@ -13,17 +13,15 @@ links:
         url: /permalink
       - title: Corporate Roles
         url: /permalink
-  - title: The Matchmaker
-    url: /permalink/matchmaker-full-series/
+  - title: Sea the Difference
+    url: /permalink
     sublinks:
-      - title: Full episodes
+      - title: The Matchmaker
         url: /permalink
-      - title: Profiles?
+      - title: Shore or Not?
         url: /permalink
-  - title: Shore or Not
-    url: /shore-or-not-full-series/
-  - title: Make a Splash
-    url: /make-a-splash-full-series/
+      - title: Make a Splash!
+        url: /permalink
   - title: For Students
     url: /permalink
     sublinks:
@@ -44,5 +42,5 @@ links:
         url: /permalink
   - title: MPA
     url: /permalink
-  - title: "MaritimeOne "
+  - title: MaritimeOne
     url: /permalink
