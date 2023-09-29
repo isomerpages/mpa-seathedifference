@@ -31,22 +31,22 @@ sections:
       alt: The Matchmaker
   - infopic:
       title: Make A Splash
-      description: what it's abt
+      description: ""
       button: Coming Soon
       alt: Image alt text
   - infopic:
       title: Shore or Not
       subtitle: Infopic Subtitle
-      description: abt the series
+      description: ""
       button: Coming soon
-      alt: Image alt text
   - infobar:
       title: Sea the Difference
       description: An initiative by the Maritime and Port Authority of Singapore, part
         of Maritime Singapore
-      button: Button Text
+      button: DISCOVER HERE
+      url: https://www.mpa.gov.sg/home
   - resources:
-      title: Social Media (relook?)
-      subtitle: The Latest on (rewrite)
+      title: On Our Socials
+      subtitle: Stay Buoyant With our Currents
       button: VIEW MORE
 ---
