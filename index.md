@@ -9,8 +9,14 @@ sections:
   - hero:
       url: /contact-us/
       key_highlights:
-        - title: Your maritime career starts here
-          description: ""
+        - title: Sea the Difference
+          description: something catchy here
+          url: ""
+        - title: Maritime Singapore
+          description: Your career/ journey/ sth
+          url: ""
+        - title: sth for students
+          description: something catchy here
           url: ""
       background: /images/maritime std-kv 03aug23-2-03.jpg
   - infopic:
