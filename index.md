@@ -31,15 +31,17 @@ sections:
       alt: The Matchmaker
   - infopic:
       title: Make A Splash
-      description: Infopic description
-      button: Button Text
+      description: what it's abt
+      button: Coming Soon
       alt: Image alt text
+      url: "   "
   - infopic:
       title: Shore or Not
       subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      description: abt the series
+      button: Coming soon
       alt: Image alt text
+      url: "    "
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
