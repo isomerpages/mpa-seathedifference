@@ -19,6 +19,7 @@ sections:
           description: something catchy here
           url: ""
       background: /images/Homepage Banners/trial gloria.png
+      button: WATCH NOW
   - infopic:
       title: THE MATCHMAKER
       subtitle: FULL FILM SERIES
@@ -31,13 +32,11 @@ sections:
       alt: The Matchmaker
   - infopic:
       title: Make A Splash
-      description: ""
       button: Coming Soon
       alt: Image alt text
   - infopic:
       title: Shore or Not
       subtitle: Infopic Subtitle
-      description: ""
       button: Coming soon
   - infobar:
       title: Sea the Difference
