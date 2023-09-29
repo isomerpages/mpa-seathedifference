@@ -30,8 +30,7 @@ sections:
       image: /images/matchmaker.png
       alt: The Matchmaker
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
+      title: Make A Splash
       description: Infopic description
       button: Button Text
       alt: Image alt text
