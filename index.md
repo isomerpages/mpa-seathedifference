@@ -10,13 +10,13 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Sea the Difference
-          description: something catchy here
+          description: ""
           url: ""
         - title: Maritime Singapore
-          description: Your career/ journey/ sth
+          description: SEAs the opportunity
           url: ""
-        - title: sth for students
-          description: something catchy here
+        - title: Internships & Scholarships
+          description: Anchor your future here
           url: ""
       background: /images/Homepage Banners/trial gloria.png
       button: WATCH NOW
