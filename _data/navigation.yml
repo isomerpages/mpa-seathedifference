@@ -1,7 +1,16 @@
 logo: /images/maritime_and_port_authority_of_singapore_(logo).png
 links:
-  - title: about mpa
-    collection: about-mpa
+  - title: Maritime Singapore
+    url: /permalink
+    sublinks:
+      - title: What Maritime Singapore Offers
+        url: /permalink
+      - title: Sea the Difference
+        url: /permalink
+      - title: About MPA?
+        url: /permalink
+      - title: Sustainability
+        url: /permalink
   - title: THE MATCHMAKER
     url: /matchmaker-full-series/
   - title: SHORE OR NOT
@@ -26,4 +35,11 @@ links:
       - title: Submenu Title
         url: /permalink
       - title: Submenu Title
+        url: /permalink
+  - title: The Matchmaker
+    url: /permalink/matchmaker-full-series/
+    sublinks:
+      - title: Full episodes
+        url: /permalink
+      - title: Profiles?
         url: /permalink
