@@ -34,18 +34,16 @@ sections:
       description: what it's abt
       button: Coming Soon
       alt: Image alt text
-      url: "   "
   - infopic:
       title: Shore or Not
       subtitle: Infopic Subtitle
       description: abt the series
       button: Coming soon
       alt: Image alt text
-      url: "    "
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
+      title: Sea the Difference
+      description: An initiative by the Maritime and Port Authority of Singapore, part
+        of Maritime Singapore
       button: Button Text
   - resources:
       title: Social Media (relook?)
