@@ -20,6 +20,8 @@ sections:
           url: ""
       background: /images/Homepage Banners/trial gloria.png
       button: WATCH NOW
+      title: See The Difference
+      subtitle: The Matchmaker, is a 4-part short film series on the maritime industry.
   - infopic:
       title: THE MATCHMAKER
       subtitle: FULL FILM SERIES
