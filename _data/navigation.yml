@@ -11,35 +11,27 @@ links:
         url: /permalink
       - title: Sustainability
         url: /permalink
-  - title: THE MATCHMAKER
-    url: /matchmaker-full-series/
-  - title: SHORE OR NOT
-    url: /shore-or-not-full-series/
-  - title: MAKE A SPLASH
-    url: /make-a-splash-full-series/
-  - title: SUSTAINABILITY
-    collection: sustainability
-  - title: Scholarships
-    collection: scholarships
-  - title: MARITIME CAREER
-    collection: maritime-careers
-  - title: RESOURCES
-    resource_room: true
-  - title: Students
-    url: /permalink
-    sublinks:
-      - title: MPA Scholarships
-        url: /permalink
-      - title: Intern with MPA
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
   - title: The Matchmaker
     url: /permalink/matchmaker-full-series/
     sublinks:
       - title: Full episodes
         url: /permalink
       - title: Profiles?
+        url: /permalink
+  - title: SHORE OR NOT
+    url: /shore-or-not-full-series/
+  - title: MAKE A SPLASH
+    url: /make-a-splash-full-series/
+  - title: RESOURCES
+    resource_room: true
+  - title: For Students
+    url: /permalink
+    sublinks:
+      - title: Scholarships
+        url: /permalink
+      - title: Internships
+        url: /permalink
+      - title: Course Programmes
+        url: /permalink
+      - title: Submenu Title
         url: /permalink
