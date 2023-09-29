@@ -47,7 +47,7 @@ sections:
       description: Infobar description
       button: Button Text
   - resources:
-      title: LATEST NEWS
-      subtitle: LATEST NEWS
+      title: Social Media (relook?)
+      subtitle: The Latest on (rewrite)
       button: VIEW MORE
 ---
