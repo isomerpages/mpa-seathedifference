@@ -1,12 +1,12 @@
 logo: /images/maritime_and_port_authority_of_singapore_(logo).png
 links:
   - title: Maritime Singapore
-    url: /permalink
+    url: /permalink/maritimesingapore
     sublinks:
       - title: Digitalisation
         url: /permalink
       - title: Sustainability
-        url: /permalink
+        url: /permalink/maritimesingapore/sustainability
       - title: Seafaring and Offshore
         url: /permalink
       - title: Marine Services
