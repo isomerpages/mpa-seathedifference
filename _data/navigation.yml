@@ -1,18 +1,18 @@
 logo: /images/microsite logo.png
 links:
   - title: Maritime Singapore
-    url: /permalink/maritimesingapore
+    url: /permalink/maritime-singapore
     sublinks:
       - title: Digitalisation
-        url: /permalink
+        url: /permalink/maritime-singapore/digitalisation
       - title: Sustainability
         url: permalink/maritime-singapore/sustainability/
       - title: Seafaring and Offshore
-        url: /permalink
+        url: /permalink/maritime-singapore/seafaring-and-offshore
       - title: Marine Services
-        url: /permalink
+        url: /permalink/maritime-singapore/marine-services
       - title: Corporate Roles
-        url: /permalink
+        url: /permalink/maritime-singapore/corporate-roles
   - title: The Matchmaker
     url: /permalink
     sublinks:
