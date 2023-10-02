@@ -2,5 +2,6 @@ collections:
   maritime-singapore:
     output: true
     order:
+      - Digitalisation.md
       - Maritime Singapore.md
       - Sustainability.md
