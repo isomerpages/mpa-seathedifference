@@ -1,4 +1,5 @@
 collections:
   shore-or-not:
     output: true
-    order: []
+    order:
+      - SHORE OR NOT.md
