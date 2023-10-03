@@ -1,0 +1,4 @@
+collections:
+  for-jobseekers:
+    output: true
+    order: []
