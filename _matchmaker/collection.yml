@@ -2,5 +2,6 @@ collections:
   matchmaker:
     output: true
     order:
+      - JUSTIN CHUA.md
       - GLADYS SEE.md
       - FULL FILM.md
