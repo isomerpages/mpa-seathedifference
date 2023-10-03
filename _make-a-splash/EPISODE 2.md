@@ -16,4 +16,4 @@ description: ""
 
 ###### Step aboard the digital revolution in maritime with Naazira, a Lead Design Engineer at Yinson Greentech. Tasked with paving the future of maritime logistics, Naazira's daily journey involves charting the digital seas, designing cutting-edge applications for Green Tech, and redefining the face of the maritime industry. Dispel the myths and dive deep into the lesser-known realm of software engineering for maritime solutions. Witness how her team, scattered across different countries, collaboratively breathes life into sustainable innovations, such as the electric vessels by Instant Green Tech in Singapore. In an industry steeped in tradition, Naazira and her team challenge the status quo, proving that maritime can sail alongside the digital age. From discussions on sustainability, to collaborative workspaces bathed in sunlight.&nbsp;
 
-join Naazira as she navigates the confluence of design, tech, and maritime in Singapore's dynamic harbor.
+**Join Naazira as she navigates the confluence of design, tech, and maritime in Singapore's dynamic harbor.**
