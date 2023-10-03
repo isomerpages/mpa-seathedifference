@@ -2,6 +2,6 @@ collections:
   for-jobseekers:
     output: true
     order:
-      - Jobs at MPA.md
+      - MPA Careers.md
       - Maritime Careers.md
       - Courses.md
