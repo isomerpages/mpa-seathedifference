@@ -2,9 +2,9 @@ collections:
   maritime-singapore:
     output: true
     order:
-      - Sustainability.md
       - Maritime Singapore.md
       - Digitalisation.md
+      - Sustainability.md
       - Seafaring and Offshore.md
       - Marine Services.md
       - Corporate Roles.md
