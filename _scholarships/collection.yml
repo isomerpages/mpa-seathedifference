@@ -2,5 +2,4 @@ collections:
   scholarships:
     output: true
     order:
-      - MaritimeONE Scholarship.md
       - MPA Scholarships.md
