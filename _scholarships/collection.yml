@@ -2,6 +2,5 @@ collections:
   scholarships:
     output: true
     order:
-      - Tripartite Maritime Scholarship.md
       - MaritimeONE Scholarship.md
       - MPA Scholarships.md
