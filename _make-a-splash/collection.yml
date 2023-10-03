@@ -2,4 +2,4 @@ collections:
   make-a-splash:
     output: true
     order:
-      - MAKE A SPLASH.md
+      - EPISODE 1.md
