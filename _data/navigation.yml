@@ -31,12 +31,12 @@ links:
   - title: For Jobseekers
     url: /permalink
     sublinks:
-      - title: ???
-        url: /permalink
-      - title: ???
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
+      - title: MPA Careers
+        url: /for-jobseekers/mpa-careers
+      - title: Maritime Careers
+        url: /for-jobseekers/maritime-careers
+      - title: Courses
+        url: /for-jobseekers/courses
   - title: MPA
     url: https://www.mpa.gov.sg
   - title: MaritimeOne
