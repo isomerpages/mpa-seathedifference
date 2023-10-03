@@ -36,14 +36,15 @@ sections:
       image: /images/matchmaker.png
       alt: The Matchmaker
   - infopic:
-      title: Make A Splash
+      title: MAKE A SPLASH
       button: Coming Soon
       alt: Image alt text
       subtitle: A day in the life of
-      description: brief copy on make a splash// hydrography, vessel traffic and
-        product design
+      description: "Dive into 'Make a Splash': our KOL explores modern maritime.
+        Steering vessels to embracing tech, it's a journey of innovation and the
+        future."
   - infopic:
-      title: Shore or Not
+      title: SHORE OR NOT?
       subtitle: Street Interviews
       button: Coming soon
       description: brief on shore or not
