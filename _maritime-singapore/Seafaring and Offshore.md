@@ -5,23 +5,30 @@ description: ""
 ---
 ![](/images/mpa_offshore_careers.jfif)
 
-#### What are some seafaring and offshore roles?
+### What are some seafaring and offshore roles?
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gO0DU-zeTzI?si=RABc-qFS6hynxmO3" height="315" width="560"></iframe>
 
-* Seafarer
-* ^ to put a one liner
-* Oil rigger
-* [Deck officer](https://www.maritimeone.sg/article-detail/deck-officer)
-* Ship welder
-* Port chemist
-* [Marine Engineer Officer](https://www.maritimeone.sg/article-detail/marine-engineer-officer)
-* Galley chef
-* and many more!
+##### Seafarer
+* One liner of job scope
+
+##### [Deck officer](https://www.maritimeone.sg/article-detail/deck-officer)
+* One liner of job scope
+
+##### Ship welder
+* One liner of job scope
+
+##### [Marine Engineer Officer](https://www.maritimeone.sg/article-detail/marine-engineer-officer)
+* One liner of job scope
+
+#### and many more!
+ 
+ <hr>
 
 ### How can you make a difference?
 
 add pointers on how offshore jobs can contribute to the society
+
 
 ### Testimonials
 
