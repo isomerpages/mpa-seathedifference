@@ -49,6 +49,6 @@ links:
       - title: Submenu Title
         url: /permalink
   - title: MPA
-    url: /https://www.mpa.gov.sg
+    url: https://www.mpa.gov.sg
   - title: MaritimeOne
-    url: /https://www.maritimeone.com.sg
+    url: https://www.maritimeone.com.sg
