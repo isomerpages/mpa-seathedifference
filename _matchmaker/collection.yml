@@ -2,8 +2,8 @@ collections:
   matchmaker:
     output: true
     order:
-      - THAYAALAN (DYLAN).md
-      - NORHAKIM SANWAN.md
-      - JUSTIN CHUA.md
-      - GLADYS SEE.md
       - FULL FILM.md
+      - GLADYS SEE.md
+      - JUSTIN CHUA.md
+      - NORHAKIM SANWAN.md
+      - THAYAALAN (DYLAN).md
