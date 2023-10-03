@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - Scholarships/MaritimeONE Scholarship.md
       - Scholarships/Tripartite Maritime Scholarship.md
       - Scholarships/.keep
       - Scholarships.md
