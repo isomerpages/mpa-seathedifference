@@ -1,0 +1,4 @@
+collections:
+  make-a-splash:
+    output: true
+    order: []
