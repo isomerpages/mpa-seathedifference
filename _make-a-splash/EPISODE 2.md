@@ -5,8 +5,7 @@ description: ""
 ---
 ## Maritime Unveiled: A Day in the Life in the Seas!
 ## 
-
-![](/images/mpa_shore%20or%20not_kv_1920x720_21aug23-01.jpg)
+[](/images/mpa_shore%20or%20not_kv_1920x720_21aug23-01.jpg)
 
 ## EPISODE 2
 ## 
