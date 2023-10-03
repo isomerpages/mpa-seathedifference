@@ -18,6 +18,6 @@ Justin's experience within the gig economy, especially in art and design, equipp
 
 "Transitioning from the gig economy to Maritime was a challenge, but it was the vastness and constant innovation within Maritime R&D that truly resonated with my love for 'doing something new'. My art and design background, rather than being a hindrance, has provided a fresh lens through which I view and address maritime challenges."
 
-**Why Justin is an Inspiration:**
+**An Inspiration:**
 
 Justin's journey showcases the boundless opportunities that await those willing to venture beyond the conventional. His transition from the gig economy to the maritime world underscores the notion that traditional barriers can be broken. For individuals questioning a career pivot, Justin stands as a reminder that skills and passion can find their rightful place in any industry, and the maritime sector is no exception.
