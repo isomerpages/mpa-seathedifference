@@ -2,6 +2,7 @@ collections:
   matchmaker:
     output: true
     order:
+      - THAYAALAN (DYLAN).md
       - NORHAKIM SANWAN.md
       - JUSTIN CHUA.md
       - GLADYS SEE.md
