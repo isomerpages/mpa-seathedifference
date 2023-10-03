@@ -2,5 +2,5 @@ collections:
   shore-or-not:
     output: true
     order:
-      - MYTH DEBUNKED.md
       - FULL EPISODES.md
+      - MYTH DEBUNKED.md
