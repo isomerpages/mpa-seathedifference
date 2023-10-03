@@ -1,5 +1,4 @@
 collections:
   scholarships:
     output: true
-    order:
-      - MPA Scholarships.md
+    order: []
