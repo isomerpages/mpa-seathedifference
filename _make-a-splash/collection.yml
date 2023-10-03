@@ -2,5 +2,6 @@ collections:
   make-a-splash:
     output: true
     order:
+      - Episode 3.md
       - EPISODE 2.md
       - EPISODE 1.md
