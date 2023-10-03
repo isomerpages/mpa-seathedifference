@@ -13,6 +13,8 @@ links:
         url: /permalink/maritime-singapore/marine-services
       - title: Corporate Roles
         url: /permalink/maritime-singapore/corporate-roles
+  - title: MATCHMAKER
+    collection: matchmaker
   - title: For Students
     url: https://www.mpa.gov.sg/events-careers/maritime-scholarships
     sublinks:
@@ -35,5 +37,3 @@ links:
     url: https://www.mpa.gov.sg
   - title: MaritimeOne
     url: https://www.maritimeone.com.sg
-  - title: MATCHMAKER
-    collection: matchmaker
