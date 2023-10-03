@@ -2,6 +2,7 @@ collections:
   maritime-singapore:
     output: true
     order:
+      - Corporate Roles.md
       - Marine Services.md
       - Maritime Singapore.md
       - Digitalisation.md
