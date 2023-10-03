@@ -19,10 +19,10 @@ sections:
           description: Anchor your future here
           url: ""
       background: /images/Homepage Banners/trial gloria.png
-      title: Sea The Difference
   - infobar:
       title: Sea the Difference
-      description: Include copy about how maritime is amazinggg
+      description: Anchored in excellence, sailing towards distinction. Welcome to
+        Singapore's maritime world.
       button: DISCOVER HERE
       url: https://www.mpa.gov.sg/home
   - infopic:
