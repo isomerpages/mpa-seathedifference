@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - Courses.md
       - Related course programmes/National University of Singapore.md
       - Related course programmes/Nanyang Technological University.md
       - Related course programmes/Singapore Polytechnic.md
