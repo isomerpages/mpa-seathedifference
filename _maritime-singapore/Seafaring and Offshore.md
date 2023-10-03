@@ -11,18 +11,20 @@ description: ""
 
 * Seafarer
 * Oil rigger
-* Onboard officer
+* [Deck officer](https://www.maritimeone.sg/article-detail/deck-officer)
 * Ship welder
 * Port chemist
+* [Marine Engineer Officer](https://www.maritimeone.sg/article-detail/marine-engineer-officer)
 * Galley chef
 * and many more!
 
 ### How can you make a difference?
 
-
+add pointers on how offshore jobs can contribute to the society
 
 ### Testimonials
 
+JPG banners of real-life offshore employees sharing their positive work experiences 
 
 ### Recent related content
 
