@@ -2,4 +2,5 @@ collections:
   matchmaker:
     output: true
     order:
+      - GLADYS SEE.md
       - FULL FILM.md
