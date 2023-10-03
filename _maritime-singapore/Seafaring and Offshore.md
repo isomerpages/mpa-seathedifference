@@ -5,11 +5,12 @@ description: ""
 ---
 ![](/images/mpa_offshore_careers.jfif)
 
-### What are some seafaring and offshore roles?
+# What are some seafaring and offshore roles?
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gO0DU-zeTzI?si=RABc-qFS6hynxmO3" height="315" width="560"></iframe>
 
 * Seafarer
+* ^ to put a one liner
 * Oil rigger
 * [Deck officer](https://www.maritimeone.sg/article-detail/deck-officer)
 * Ship welder
@@ -32,12 +33,13 @@ JPG banners of real-life offshore employees sharing their positive work experien
 
 ### Top job listings for you
 Special Limit COC Class 4 Deck Officer - [Apply here by 8 Oct 2023](https://www.maritimeone.sg/job-detail/FQD10317F3P6KSK0JDO7)
-
 Special Limit COC Class 4 Engine Driver - [Apply here by 8 Oct 2023](https://www.maritimeone.sg/job-detail/CQ6GEUDP7XSQIH594FF2)
 
 
 
 |Job Title|Apply by|How to Apply|
 | -------- | -------- | -------- |
+| Special Limit COC Class 4 Deck Officer | 8 Oct | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/FQD10317F3P6KSK0JDO7) |
+| Special Limit COC Class 4 Engine Driver | 8 Oct |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/CQ6GEUDP7XSQIH594FF2) |
 | Special Limit COC Class 4 Deck Officer | 8 Oct | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/FQD10317F3P6KSK0JDO7) |
 | Special Limit COC Class 4 Engine Driver | 8 Oct |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/CQ6GEUDP7XSQIH594FF2) |
