@@ -1,0 +1,4 @@
+collections:
+  shore-or-not:
+    output: true
+    order: []
