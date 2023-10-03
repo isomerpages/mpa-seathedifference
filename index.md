@@ -48,4 +48,9 @@ sections:
       button: Coming soon
       description: brief on shore or not
       image: /images/mpa_shore or not_kv_1920x720_21aug23-01.jpg
+  - resources:
+      title: OUR SOCIALS
+      subtitle: VISIT
+      id: resources
+      button: VIEW MORE
 ---
