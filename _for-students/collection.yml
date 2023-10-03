@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - Scholarships/.keep
       - Scholarships.md
       - Tripartite Maritime Scholarship.md
       - Related course programmes.md
