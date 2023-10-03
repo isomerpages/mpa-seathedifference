@@ -47,9 +47,10 @@ sections:
       title: SHORE OR NOT?
       subtitle: Street Interviews
       button: Coming soon
-      description: "Join Joakim Gomez on Singapore's streets, quizzing strangers on
-        maritime myths vs facts. Dive into a modern industry revelation. "
+      description: Join Joakim Gomez on Singapore's streets, quizzing strangers on
+        maritime myths vs facts. Dive into a modern industry revelation.
       image: /images/mpa_shore or not_kv_1920x720_21aug23-01.jpg
+      url: https://www.seathedifference.gov.sg/shore-or-not-full-series/
   - resources:
       title: OUR SOCIALS
       subtitle: VISIT
