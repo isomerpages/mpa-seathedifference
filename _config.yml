@@ -3,18 +3,18 @@ url: https://www.seathedifference.gov.sg
 favicon: /images/maritime_and_port_authority_of_singapore_(logo).png
 colors:
   primary-color: "#00838f"
-  secondary-color: "#f0a528"
+  secondary-color: "#00aaff"
   media-colors:
     - title: media-color-one
-      color: "#00aaff"
+      color: "#f0a528"
     - title: media-color-two
-      color: "#0f8ce6"
+      color: "#0000aa"
     - title: media-color-three
       color: "#23aa46"
     - title: media-color-four
       color: "#f0a528"
     - title: media-color-five
-      color: "#00aaff"
+      color: "#0f8ce6"
 description: ""
 permalink: none
 baseurl: ""
