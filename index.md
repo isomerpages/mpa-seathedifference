@@ -19,12 +19,15 @@ sections:
           description: Anchor your future here
           url: ""
       background: /images/Homepage Banners/trial gloria.png
-      button: WATCH NOW
-      title: See The Difference
-      subtitle: The Matchmaker, is a 4-part short film series on the maritime industry.
+      title: Sea The Difference
+  - infobar:
+      title: Sea the Difference
+      description: Include copy about how maritime is amazinggg
+      button: DISCOVER HERE
+      url: https://www.mpa.gov.sg/home
   - infopic:
       title: THE MATCHMAKER
-      subtitle: FULL FILM SERIES
+      subtitle: Short film series
       description: Navigating career crossroads, they meet an unconventional
         matchmaker. Skepticism turns to curiosity as they journey to explore new
         horizons.
@@ -36,18 +39,13 @@ sections:
       title: Make A Splash
       button: Coming Soon
       alt: Image alt text
+      subtitle: A day in the life of
+      description: brief copy on make a splash// hydrography, vessel traffic and
+        product design
   - infopic:
       title: Shore or Not
-      subtitle: Infopic Subtitle
+      subtitle: Street Interviews
       button: Coming soon
-  - infobar:
-      title: Sea the Difference
-      description: An initiative by the Maritime and Port Authority of Singapore, part
-        of Maritime Singapore
-      button: DISCOVER HERE
-      url: https://www.mpa.gov.sg/home
-  - resources:
-      title: On Our Socials
-      subtitle: Stay Buoyant With our Currents
-      button: VIEW MORE
+      description: brief on shore or not
+      image: /images/mpa_shore or not_kv_1920x720_21aug23-01.jpg
 ---
