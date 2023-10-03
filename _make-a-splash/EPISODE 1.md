@@ -4,7 +4,7 @@ permalink: /make-a-splash-full-series/episode-1/
 description: ""
 image: /images/maritime_and_port_authority_of_singapore_(logo).png
 ---
-# Maritime Unveiled: A Day in the Life in the Seas!
+## Maritime Unveiled: A Day in the Life in the Seas!
 
 ![](/images/mpa_shore%20or%20not_kv_1920x720_21aug23-01.jpg)
 
@@ -17,6 +17,3 @@ image: /images/maritime_and_port_authority_of_singapore_(logo).png
 
 Join us as we plunge into the depths of maritime hydrography, witnessing the balance of technology, teamwork, and the ceaseless dedication to safe navigation.
 ###### 
-
-# EPISODE 3
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="315" width="560"></iframe>
