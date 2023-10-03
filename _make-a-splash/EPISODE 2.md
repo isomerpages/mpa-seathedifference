@@ -3,6 +3,13 @@ title: EPISODE 2
 permalink: /make-a-splash/episode-2/
 description: ""
 ---
+## Maritime Unveiled: A Day in the Life in the Seas!
+## 
+
+![](/images/mpa_shore%20or%20not_kv_1920x720_21aug23-01.jpg)
+
+###### Join Joakim as he embark on an enlightening journey into the heart of maritime careers. This isn't just about hoisting sails or navigating treacherous waters – it's about exploring the innovative, tech-savvy, and diverse roles that the maritime industry now boasts. Dive deep, ride the waves of innovation, and discover a world where tradition meets technology.
+###### 
 ## EPISODE 2
 ## 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="315" width="560"></iframe>
