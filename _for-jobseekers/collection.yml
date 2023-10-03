@@ -2,4 +2,5 @@ collections:
   for-jobseekers:
     output: true
     order:
+      - Courses.md
       - Jobs at MPA.md
