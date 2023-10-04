@@ -1,5 +1,5 @@
 collections:
-  maritime-singapore:
+  maritime-sg:
     output: true
     order:
       - Maritime Singapore.md
