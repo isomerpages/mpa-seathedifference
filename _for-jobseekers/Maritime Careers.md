@@ -5,4 +5,4 @@ description: ""
 ---
 Download the file here
 
-  <a target="_blank" href="/path/to/excel/file.xls">Download</a>
+  <a target="_blank" href="https://go.gov.sg/xg4tv7">Download</a>
