@@ -23,14 +23,13 @@ description: ""
 
 ### How can you make a difference?
 
-add pointers on how offshore jobs can contribute to the society
-
-Our seafarers are also 
+add pointers on how offshore jobs can contribute to the society 
 
 
 ### Testimonials
 
 JPG banners of real-life offshore employees sharing their positive work experiences 
+
 
 
 ### Recent related content
