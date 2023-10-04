@@ -19,6 +19,7 @@ sections:
           description: Anchor your future here
           url: /scholarships/mpa-scholarships/
       background: /images/Homepage Banners/trial gloria.png
+      title: Sea the difference
   - infobar:
       title: Sea the Difference
       description: Anchored in excellence, sailing towards distinction. Welcome to
