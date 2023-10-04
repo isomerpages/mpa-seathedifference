@@ -9,17 +9,13 @@ description: ""
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gO0DU-zeTzI?si=RABc-qFS6hynxmO3" height="315" width="560"></iframe>
 
-##### Seafarer
-* One liner of job scope
 
 ##### [Deck officer](https://www.maritimeone.sg/article-detail/deck-officer)
-* One liner of job scope
+The job scope of a deck officer includes ensuring safe navigation of the ship, passengers, crew and cargo onboard by monitoring and maintaining procedures for fire hazard and damage control requirements.
 
-##### Ship welder
-* One liner of job scope
 
 ##### [Marine Engineer Officer](https://www.maritimeone.sg/article-detail/marine-engineer-officer)
-* One liner of job scope
+* The job scope of a marine engineer officer includes being responsible for the maintenance and operations of all mechanical and electrical equipment onboard and providing technical support to overall ship operations.
 
 #### and many more!
  
