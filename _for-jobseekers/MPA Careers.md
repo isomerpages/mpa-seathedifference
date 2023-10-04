@@ -17,7 +17,6 @@ Brief write-up on digi jobs. Indicate your interest for any of the jobs below by
 ### Sustainability
 Brief write-up on sustainability jobs. Indicate your interest for any of the jobs below by uploading your CV [here](forms.sg) .
 
-
 | Job Role | Brief Description | 
 | -------- | -------- | 
-| Sustainability Reporting & Promotion     | Text     |
+| [Sustainability Reporting & Promotion](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html#/JobDescription/13726678/2d8130da-4acd-1ede-91d5-5856edc1326b)     | You will drive the communications of MPA’s sustainability-related work, which contributes to MPA’s larger decarbonisation outcomes. You will be responsible for the profiling and reporting of MPA’s of both domestic and international sustainability and ESG (environment, social and governance) initiatives. You will also oversee the profiling of sustainability initiatives in the wider maritime sector.     |
