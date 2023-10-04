@@ -3,10 +3,10 @@ links:
   - title: About Maritime SG
     url: /permalink/maritime-singapore
     sublinks:
-      - title: Digitalisation
-        url: /permalink/maritime-singapore/digitalisation
       - title: Sustainability
         url: permalink/maritime-singapore/sustainability/
+      - title: Digitalisation
+        url: /permalink/maritime-singapore/digitalisation
       - title: Seafaring and Offshore
         url: /permalink/maritime-singapore/seafaring-and-offshore
       - title: Marine Services
