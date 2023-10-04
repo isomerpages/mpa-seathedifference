@@ -11,7 +11,7 @@ description: ""
 
 
 ##### [Deck officer](https://www.maritimeone.sg/article-detail/deck-officer)
-The job scope of a deck officer includes ensuring safe navigation of the ship, passengers, crew and cargo onboard by monitoring and maintaining procedures for fire hazard and damage control requirements.
+* The job scope of a deck officer includes ensuring safe navigation of the ship, passengers, crew and cargo onboard by monitoring and maintaining procedures for fire hazard and damage control requirements.
 
 
 ##### [Marine Engineer Officer](https://www.maritimeone.sg/article-detail/marine-engineer-officer)
