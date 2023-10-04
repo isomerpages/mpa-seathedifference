@@ -2,7 +2,6 @@ collections:
   for-students:
     output: true
     order:
-      - Internships.md
       - Scholarships.md
       - Courses.md
       - Internships/.keep
