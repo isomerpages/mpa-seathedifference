@@ -25,6 +25,8 @@ description: ""
 
 add pointers on how offshore jobs can contribute to the society
 
+Our seafarers are also 
+
 
 ### Testimonials
 
@@ -45,5 +47,7 @@ JPG banners of real-life offshore employees sharing their positive work experien
 
 ### Other related resources
 For aspiring seafarers, read more on obtaining your Certificate of Competency (CoC) or endorsement [here](https://www.mpa.gov.sg/singapore-registry-of-ships/seafarer-training-and-certification/seafarer-certification)
+
+For MPA-recognised training courses, read [here](https://www.mpa.gov.sg/singapore-registry-of-ships/seafarer-training-and-certification/training-courses)
 
 For more information, contact us here.
