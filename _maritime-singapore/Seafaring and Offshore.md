@@ -26,10 +26,8 @@ description: ""
 add pointers on how offshore jobs can contribute to the society 
 
 
-### Testimonials
-
-JPG banners of real-life offshore employees sharing their positive work experiences 
-
+### Hear from us
+![](/images/sample%20profiling%20quote.jpeg)
 
 
 ### Recent related content
