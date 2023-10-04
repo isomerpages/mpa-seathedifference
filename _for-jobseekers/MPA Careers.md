@@ -8,11 +8,17 @@ The Maritime and Port Authority offers a wide scope of job opportunities to indi
 ### Digitalisation
 Brief write-up on digi jobs. Indicate your interest for any of the jobs below by uploading your CV [here](forms.sg) .
 
-
-
 |Job Role | Brief Descrption | 
 | -------- | -------- | 
 | [IT Project Manager](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html#/JobDescription/13726621/ddd35890-ad03-1eee-98ac-30aa79f900b3 ) | You will be involved in the development and management of the smooth delivery of quality IT systems to meet business requirements of MPA and the maritime community. You will also manage the daily operations of the IT systems to ensure smooth and efficient user operations.    | -------- | -------- | 
 | [IT Project Manager](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html#/JobDescription/13726622/ddd35890-ad03-1eee-98ac-3031962f00b3)| You will collaborate with fellow product owners, scrum masters, developers, solutions architect and infra engineers to deliver leading-edge digital products to meet the business requirements of MPA and the maritime community. | | -------- | -------- | 
 | [Digital Business Analyst](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html#/JobDescription/13726623/ddd35890-ad03-1eee-98ac-30761e94a0b3) | You will collaborate with various project managers, solutions architect and infra engineers to deliver leading-edge digital solutions and services to meet the business requirements of MPA and the maritime community.
+
+### Sustainability
+Brief write-up on sustainability jobs. Indicate your interest for any of the jobs below by uploading your CV [here](forms.sg) .
+
+
+| Job Role | Brief Description | 
+| -------- | -------- | 
+| Sustainability Reporting & Promotion     | Text     | 
 
