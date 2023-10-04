@@ -17,7 +17,7 @@ sections:
           url: ""
         - title: Internships & Scholarships
           description: Anchor your future here
-          url: ""
+          url: /scholarships/mpa-scholarships/
       background: /images/Homepage Banners/trial gloria.png
   - infobar:
       title: Sea the Difference
