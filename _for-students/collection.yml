@@ -2,13 +2,13 @@ collections:
   for-students:
     output: true
     order:
-      - Internships/.keep
-      - Internships/MaritimeONE Internships.md
-      - Internships/MPA Internships.md
       - Scholarships/.keep
       - Scholarships/MPA Scholarships.md
       - Scholarships/MaritimeONE Scholarship.md
       - Scholarships/Tripartite Maritime Scholarship.md
+      - Internships/.keep
+      - Internships/MaritimeONE Internships.md
+      - Internships/MPA Internships.md
       - Courses/.keep
       - Courses/National University of Singapore.md
       - Courses/Nanyang Technological University.md
