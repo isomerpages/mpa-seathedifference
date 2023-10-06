@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Maritime Singapore.md
-      - Digitalisation/.keep
-      - Digitalisation/Opportunities @ Digitalisation.md
-      - Digitalisation/Videos and Articles.md
       - Sustainability/.keep
       - Sustainability/Opportunities @ Sustainability.md
       - Sustainability/Videos and Articles.md
+      - Digitalisation/.keep
+      - Digitalisation/Opportunities @ Digitalisation.md
+      - Digitalisation/Videos and Articles.md
       - Seafaring and Offshore/.keep
       - Seafaring and Offshore/Opportunities @ Seafaring and Offshore.md
       - Seafaring and Offshore/Videos and Articles.md
