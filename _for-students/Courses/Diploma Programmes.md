@@ -39,3 +39,4 @@ In the first two years, you will be grounded with strong fundamentals of enginee
 
 <hr>
 
+![](/images/sit-primary-logo-e1469679022131.png)
