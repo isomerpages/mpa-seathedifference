@@ -26,3 +26,6 @@ Beyond the general eligibility criteria for the CCP, applicants should also not 
 *   Shareholders of the participating company or its related entities
 *   Immediate ex-employees of the participating company or its related entities
 *   Related to the owners of the participating company
+
+
+For the full information on this programme, please refer to this [link](https://conversion.mycareersfuture.gov.sg/portal/ProgramDetails.aspx?ProgID=P00000429).
