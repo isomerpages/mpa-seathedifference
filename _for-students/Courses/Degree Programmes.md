@@ -25,3 +25,16 @@ For more information, visit the course website [here](https://www.singaporetech.
 Engineers and naval architects in the marine and offshore industry need the right set of skills to perform effectively in a fast-changing environment. The ability to address development proactively and a comprehensive knowledge of the industry is needed to retain a competitive edge.
 
 For more information, visit the course website [here](https://www.singaporetech.edu.sg/undergraduate-programmes/naval-architecture-and-marine-engineering)
+
+<hr>
+
+![](/images/smu-logo.jpg)
+
+### Maritime Business and Operations Track (MBOT)
+
+Maritime Business and Operations&nbsp;track provides you with a deep understanding of the maritime business covering the economic, legal and managerial environment, as well as the operations of their organizations up and down the maritime and trade value chain. You will be able to develop your domain knowledge in different business operational management aspects of the maritime sector such as port-focal logistics and maritime operations, shipping business, logistics and transportation and business analytics. In addition, you will be introduced to other aspects of the maritime related industry job roles through non-credit classes taught by industry practitioners that range from tanker chartering and ship brokering to applications of data analytics and how robotics and automation are applied in the maritime sector. You will also have opportunities to gain industry exposure through internships, overseas Industry Study Missions and local site visits where you will learn about the various operational intricacies which provide maritime companies their competitive edge.
+
+For more information, visit the course website [here](https://business.smu.edu.sg/disciplines/operations-management/om-major-tracks/maritime-business-and-operations-track)
+
+<hr>
+
