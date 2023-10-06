@@ -4,6 +4,7 @@ permalink: /maritime-sg/seafaring-and-offshore/videos-and-articles/
 description: ""
 third_nav_title: Seafaring and Offshore
 ---
+### Veteran Seafarer Captain Lee shares his journey
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GYJwhfpc2hc?si=kyLOCMWtTn42XUFM" height="315" width="560"></iframe>
 
   
