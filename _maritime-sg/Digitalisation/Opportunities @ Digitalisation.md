@@ -12,8 +12,8 @@ third_nav_title: Digitalisation
 * Using state of the art Vessel Traffic Information System (VTIS), our Vessel Traffic Officers play a vital role in managing busy port traffic for the safe and efficient navigation of vessels transiting through the Singapore Strait.
 
 
-##### [Marine Engineer Officer](https://www.maritimeone.sg/article-detail/marine-engineer-officer)
-* The job scope of a marine engineer officer includes being responsible for the maintenance and operations of all mechanical and electrical equipment onboard and providing technical support to overall ship operations.
+##### [Data Scientist/Analyst](https://www.maritimesgconnect.com/article-detail/conversations-with-a-maritime-data-scientist)
+* The job scope of a maritime data analyst includes developing and monitoring data processing tools, as well as providing business intelligence solutions in the maritime industry.
 
 #### and many more!
  
@@ -28,10 +28,10 @@ third_nav_title: Digitalisation
 
 | Job Title | Apply by | How to Apply |
 | -------- | -------- | -------- |
-| Special Limit COC Class 4 Deck Officer | 8 Oct | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/FQD10317F3P6KSK0JDO7) |
-| Special Limit COC Class 4 Engine Driver | 8 Oct |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/CQ6GEUDP7XSQIH594FF2) |
-| Special Limit COC Class 4 Deck Officer | 8 Oct | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/FQD10317F3P6KSK0JDO7) |
-| Special Limit COC Class 4 Engine Driver | 8 Oct |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/CQ6GEUDP7XSQIH594FF2) |
+| Vessel Traffic Officer | 30 Oct | [Careers@GOV Portal](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=vessel#/JobDescription/13561653/ddd35890-ad03-1eee-98ac-2efc816b00b3) |
+| System Specialist | 21 Oct |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/SX3O3GSKHPYJX6LGAAO1) |
+| Technical Support Specialist (1st Level Technical Support) | 29 Oct | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/9X3NG06PSPI7J26BUU34) |
+| Field Service Engineer | 1 Dec |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/D1XTUWMAZYR9SR2A5XW9) |
 
 
  
