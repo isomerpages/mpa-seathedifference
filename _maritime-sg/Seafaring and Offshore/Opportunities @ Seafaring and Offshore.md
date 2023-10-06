@@ -25,7 +25,7 @@ third_nav_title: Seafaring and Offshore
  <hr>
 
 ### Top job listings for you
-|Job Title|Apply by|How to Apply|
+| Job Title | Apply by | How to Apply |
 | -------- | --------- | -------- |
 | Special Limit COC Class 4 Deck Officer | 8 Oct | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/FQD10317F3P6KSK0JDO7) |
 | Special Limit COC Class 4 Engine Driver | 8 Oct |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/CQ6GEUDP7XSQIH594FF2) |
