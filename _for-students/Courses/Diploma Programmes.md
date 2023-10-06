@@ -37,4 +37,6 @@ For more information on Diploma in Nautical Studies, visit the course site [here
 ### Diploma in Marine &amp; Offshore Technology
 In the first two years, you will be grounded with strong fundamentals of engineering, together with naval architecture, marine engineering and offshore design technology. In your final year, you will intern at a host company in the marine and offshore industry for six months.
 
+For more information on Diploma in Marine &amp; Offshore Technology, visit the course site [here](https://www.np.edu.sg/schools-courses/academic-schools/school-of-engineering/diploma-in-marine-offshore-technology)
+
 <hr>
