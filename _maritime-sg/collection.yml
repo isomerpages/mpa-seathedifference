@@ -2,7 +2,7 @@ collections:
   maritime-sg:
     output: true
     order:
-      - Digitalisation/Digitalisation.md
+      - Digitalisation/Opportunities @ Digitalisation.md
       - Digitalisation/.keep
       - Maritime Singapore.md
       - Sustainability.md
