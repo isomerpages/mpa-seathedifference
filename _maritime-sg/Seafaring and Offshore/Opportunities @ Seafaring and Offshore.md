@@ -25,14 +25,15 @@ third_nav_title: Seafaring and Offshore
  <hr>
 
 ### Top job listings for you
+
 | Job Title | Apply by | How to Apply |
-| -------- | --------- | -------- |
+| -------- | -------- | -------- |
 | Special Limit COC Class 4 Deck Officer | 8 Oct | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/FQD10317F3P6KSK0JDO7) |
 | Special Limit COC Class 4 Engine Driver | 8 Oct |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/CQ6GEUDP7XSQIH594FF2) |
 | Special Limit COC Class 4 Deck Officer | 8 Oct | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/FQD10317F3P6KSK0JDO7) |
 | Special Limit COC Class 4 Engine Driver | 8 Oct |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/CQ6GEUDP7XSQIH594FF2) |
- 
- <hr>
+
+
  
 ### Other related resources
 For aspiring seafarers, read more on obtaining your Certificate of Competency (CoC) or endorsement [here](https://www.mpa.gov.sg/singapore-registry-of-ships/seafarer-training-and-certification/seafarer-certification)
