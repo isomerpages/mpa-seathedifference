@@ -1,14 +1,14 @@
 logo: /images/microsite logo.png
 links:
   - title: About Maritime SG
-    url: /permalink/maritime-singapore
+    url: /maritime-singapore
     sublinks:
       - title: Sustainability
         url: permalink/maritime-singapore/sustainability/
       - title: Digitalisation
         url: /permalink/maritime-singapore/digitalisation
       - title: Seafaring and Offshore
-        url: /permalink/maritime-singapore/seafaring-and-offshore
+        url: /maritime-singapore/seafaring-and-offshore/opportunities
       - title: Marine Services
         url: /permalink/maritime-singapore/marine-services
       - title: Corporate Roles
