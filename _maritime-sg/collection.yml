@@ -2,9 +2,9 @@ collections:
   maritime-sg:
     output: true
     order:
-      - Marine Services/Example Title.md
-      - Marine Services/Opportunities @ Marine Services.md
       - Marine Services/.keep
+      - Marine Services/Opportunities @ Marine Services.md
+      - Marine Services/Example Title.md
       - Maritime Singapore.md
       - Digitalisation/.keep
       - Digitalisation/Opportunities @ Digitalisation.md
