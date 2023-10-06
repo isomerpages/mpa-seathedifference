@@ -8,8 +8,8 @@ third_nav_title: Digitalisation
 
 ### What are some digitalisation roles?
 
-##### [Deck Officer](https://www.maritimeone.sg/article-detail/deck-officer)
-* The job scope of a deck officer includes ensuring safe navigation of the ship, passengers, crew and cargo onboard by monitoring and maintaining procedures for fire hazard and damage control requirements.
+##### [Vessel Traffic Officer](https://www.maritimeone.sg/article-detail/deck-officer)
+* Using state of the art Vessel Traffic Information System (VTIS), our Vessel Traffic Officers play a vital role in managing busy port traffic for the safe and efficient navigation of vessels transiting through the Singapore Strait.
 
 
 ##### [Marine Engineer Officer](https://www.maritimeone.sg/article-detail/marine-engineer-officer)
