@@ -8,7 +8,7 @@ third_nav_title: Digitalisation
 
 ### What are some digitalisation roles?
 
-##### [Vessel Traffic Officer](https://www.maritimeone.sg/article-detail/deck-officer)
+##### [Vessel Traffic Officer](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=vessel#/JobDescription/13561653/ddd35890-ad03-1eee-98ac-2efc816b00b3)
 * Using state of the art Vessel Traffic Information System (VTIS), our Vessel Traffic Officers play a vital role in managing busy port traffic for the safe and efficient navigation of vessels transiting through the Singapore Strait.
 
 
