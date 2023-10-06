@@ -29,13 +29,13 @@ links:
       - title: Courses
         url: /courses/diploma-programmes/
   - title: For Jobseekers
-    url: /permalink
+    url: /for-jobseekers/mpa-careers/
     sublinks:
       - title: MPA Careers
         url: /for-jobseekers/mpa-careers
       - title: Maritime Careers
         url: /for-jobseekers/maritime-careers
       - title: Career Conversion Programme
-        url: /for-jobseekers/courses
+        url: /for-jobseekers/ccp
   - title: Contact Us
     url: /contact-us/
