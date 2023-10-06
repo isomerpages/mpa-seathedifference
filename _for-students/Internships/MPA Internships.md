@@ -4,10 +4,8 @@ permalink: /internships/mpainternships/
 description: ""
 third_nav_title: Internships
 ---
-![](/images/maritime_and_port_authority_of_singapore_(logo).png)
 
-### About MPA Internship
-Short synopsis on MPA internship
+## About MPA Internship
 
 ### Benefits
 MPA interns can look forward to the following:
@@ -18,7 +16,7 @@ MPA interns can look forward to the following:
 Certificate of Completion
 
 ### Testimonials
-insert testimonial quotes here
+![](/images/sample%20profiling%20quote.jpeg)
 
 ### Find an internship that best suits you!
-For internships at CnC, click [here](/permalink/internshipsatcnc)
+Internship opportunities are available at your respective institution's career portal. Otherwise, kindly submit your resume to Cai Hong at yap_cai_hong@mpa.gov.sg.
