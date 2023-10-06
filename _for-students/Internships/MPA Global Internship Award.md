@@ -49,4 +49,4 @@ Please prepare the following documents and combine them into 1 single attachmen
 You will also be required to provide a 100-word personal statement on why you wish to apply for the MPA GIA during the online application.
 
 
-To view the full programme timeline and past awardees' testimonials, click [here](https://safe.menlosecurity.com/https://www.mpa.gov.sg/events-careers/education-and-scholarships/maritime-attachments/mpa-global-internship-award)
+To view the full programme timeline and past awardees' testimonials, click [here](https://www.mpa.gov.sg/events-careers/education-and-scholarships/maritime-attachments/mpa-global-internship-award)
