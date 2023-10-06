@@ -29,9 +29,8 @@ third_nav_title: Sustainability
 | Job Title | Apply by | How to Apply |
 | -------- | -------- | -------- |
 | Sustainability Manager | 19 Oct | [MyCareersFuture Portal](https://www.mycareersfuture.gov.sg/job/environment/maritime-sustainability-manager-t-s-global-procurement-company-f74ee217789103071a7224e1995fc942?source=MCF&amp;event=Search) |
-| Sustainability Manager | 30 Oct |[Careers@Gov Portal](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=sustainability#/JobDescription/13863152/ddd35890-ad03-1eee-98ac-2b117ec2c0b3) |
-| Technical Support Specialist (1st Level Technical Support) | 29 Oct | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/9X3NG06PSPI7J26BUU34) |
-| Field Service Engineer | 1 Dec |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/D1XTUWMAZYR9SR2A5XW9) |
+| Sustainability Reporting Manager | 30 Oct |[Careers@Gov Portal](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=sustainability#/JobDescription/13863152/ddd35890-ad03-1eee-98ac-2b117ec2c0b3) |
+| Project Manager (New Marine Fuels) | 1 Nov |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/DOC5H31URBKLO91KNS94) |
 
 
  
