@@ -2,6 +2,7 @@ collections:
   maritime-sg:
     output: true
     order:
+      - Marine Services/Marine Services.md
       - Marine Services/.keep
       - Maritime Singapore.md
       - Digitalisation/.keep
