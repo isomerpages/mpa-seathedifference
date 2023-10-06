@@ -2,8 +2,6 @@ collections:
   maritime-sg:
     output: true
     order:
-      - Corporate Roles/Corporate Roles.md
-      - Corporate Roles/.keep
       - Maritime Singapore.md
       - Digitalisation/.keep
       - Digitalisation/Opportunities @ Digitalisation.md
@@ -17,3 +15,5 @@ collections:
       - Marine Services/.keep
       - Marine Services/Opportunities @ Marine Services.md
       - Marine Services/Videos and Articles.md
+      - Corporate Roles/.keep
+      - Corporate Roles/Corporate Roles.md
