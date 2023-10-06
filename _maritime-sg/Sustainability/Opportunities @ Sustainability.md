@@ -35,6 +35,10 @@ third_nav_title: Sustainability
 
  
 ### Other related resources
+To read up on the Maritime Singapore Green Initiative, view [here](https://www.mpa.gov.sg/maritime-singapore/sustainability)
+
+To read up on the Maritime Singapore Decarbonisation Blueprint, view [here](https://www.mpa.gov.sg/maritime-singapore/sustainability/maritime-singapore-decarbonisation-blueprint)
+
 For MPA-recognised training courses, read [here](https://www.mpa.gov.sg/singapore-registry-of-ships/seafarer-training-and-certification/training-courses)
 
 For more information, contact us [here](/contact-us/).
