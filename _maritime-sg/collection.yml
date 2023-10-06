@@ -2,9 +2,6 @@ collections:
   maritime-sg:
     output: true
     order:
-      - Marine Services/.keep
-      - Marine Services/Opportunities @ Marine Services.md
-      - Marine Services/Videos and Articles.md
       - Maritime Singapore.md
       - Digitalisation/.keep
       - Digitalisation/Opportunities @ Digitalisation.md
@@ -15,4 +12,7 @@ collections:
       - Seafaring and Offshore/.keep
       - Seafaring and Offshore/Opportunities @ Seafaring and Offshore.md
       - Seafaring and Offshore/Videos and Articles.md
+      - Marine Services/.keep
+      - Marine Services/Opportunities @ Marine Services.md
+      - Marine Services/Videos and Articles.md
       - Corporate Roles.md
