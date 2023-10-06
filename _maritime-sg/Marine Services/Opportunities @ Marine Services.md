@@ -8,12 +8,14 @@ third_nav_title: Marine Services
 
 ### What are some marine services roles?
 
-##### Sustainability Reporting &amp; Promotion Manager
-* The job scope of a sustainability reporting and promotion manager includes being responsible for the profiling and reporting of sustainability and ESG (environment, social and governance) initiatives. You will also oversee the profiling of sustainability initiatives in the wider maritime sector.
+##### [Ship Broker](https://www.maritimeone.sg/article-detail/shipbroker)
+* The Shipbroker acts as an intermediary between two parties in the shipping industry. There are two types of Shipbrokers - **Chartering Brokers** and **Sales and Purchase Brokers**.
+* A **Chartering Broker** acts as an intermediary between charterers and cargo owners, whose key role is to arrange the transport of goods and commodities by sea, and the employment of vessels for that purposes. He/She monitors freight, ship hire and cargo rates and analyses reports on sales and freight earnings to monitor the business' key performance indicators and results.
+* A **Sales and Purchase Broker** acts as an intermediary between buyers and sellers of ships and is responsible for overseeing the sale and purchase of ships on behalf of clients. He/She assesses the viability and risks of pursuing new business opportunities and analyses risk management data to highlight potential areas of concern to management.
 
 
-##### Sustainability Manager
-* The job scope of a sustainability manager includes formulating sustainability strategies, identify sustainability related solutions and work with other agencies and internal stakeholders to formulate policies to drive maritime sustainability and decarbonisation efforts.
+##### [Ship Charterer](https://www.maritimeone.sg/article-detail/ship-charterer)
+* The Ship Charterer supports the organisation's chartering operations by liaising with ship-owners, traders, or charterers through a shipbroker to ensure that ships deliver the cargo safely in the most cost-effective manner. He/She also supports client account management by addressing issues arising in the pre- and post-fixture process.
 
 #### and many more!
  
@@ -28,17 +30,13 @@ third_nav_title: Marine Services
 
 | Job Title | Apply by | How to Apply |
 | -------- | -------- | -------- |
-| Sustainability Manager | 19 Oct | [MyCareersFuture Portal](https://www.mycareersfuture.gov.sg/job/environment/maritime-sustainability-manager-t-s-global-procurement-company-f74ee217789103071a7224e1995fc942?source=MCF&amp;event=Search) |
-| Sustainability Reporting Manager | 30 Oct |[Careers@Gov Portal](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=sustainability#/JobDescription/13863152/ddd35890-ad03-1eee-98ac-2b117ec2c0b3) |
-| Project Manager (New Marine Fuels) | 1 Nov |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/DOC5H31URBKLO91KNS94) |
+| Trainee Shipbroker | 1 Nov | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/NWTS3QBNYW279BTSEM82) |
+| Chartering Executive | 1 Dec |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/SGGYEETBCR75PRDW4AC0) |
+| Chartering Manager | 1 Dec |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/26W7J5NR4OGC47ABK4W5) |
 
 
  
 ### Other related resources
-To read up on the Maritime Singapore Green Initiative, view [here](https://www.mpa.gov.sg/maritime-singapore/sustainability)
-
-To read up on the Maritime Singapore Decarbonisation Blueprint, view [here](https://www.mpa.gov.sg/maritime-singapore/sustainability/maritime-singapore-decarbonisation-blueprint)
-
 For MPA-recognised training courses, read [here](https://www.mpa.gov.sg/singapore-registry-of-ships/seafarer-training-and-certification/training-courses)
 
 For more information, contact us [here](/contact-us/).
