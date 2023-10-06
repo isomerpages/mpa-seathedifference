@@ -4,8 +4,8 @@ permalink: /maritime-singapore/corporate-roles/videos-and-articles/
 description: ""
 third_nav_title: Corporate Roles
 ---
-### Innovation for Maritime Sustainability
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Lfqk1nmNaMg?si=vFMVvXn62sS4pvpc" height="315" width="560"></iframe>
+### Life a Ship Charterer
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Ny-wWq85PeM?si=MtmZizr2XdQJU2PV" height="315" width="560"></iframe>
 
 
 ### Recent related content
