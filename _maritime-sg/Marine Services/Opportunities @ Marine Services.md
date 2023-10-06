@@ -8,14 +8,12 @@ third_nav_title: Marine Services
 
 ### What are some marine services roles?
 
-##### [Ship Broker](https://www.maritimeone.sg/article-detail/shipbroker)
-* The Shipbroker acts as an intermediary between two parties in the shipping industry. There are two types of Shipbrokers - **Chartering Brokers** and **Sales and Purchase Brokers**.
-* A **Chartering Broker** acts as an intermediary between charterers and cargo owners, whose key role is to arrange the transport of goods and commodities by sea, and the employment of vessels for that purposes. He/She monitors freight, ship hire and cargo rates and analyses reports on sales and freight earnings to monitor the business' key performance indicators and results.
-* A **Sales and Purchase Broker** acts as an intermediary between buyers and sellers of ships and is responsible for overseeing the sale and purchase of ships on behalf of clients. He/She assesses the viability and risks of pursuing new business opportunities and analyses risk management data to highlight potential areas of concern to management.
+##### [Shipping Financier](https://www.maritimeone.sg/article-detail/shipping-financier)
+* Relationship Managers are required to have a firm grasp of them all in order to provide the best solutions to help meet the financing needs of their shipping customers.
 
 
-##### [Ship Charterer](https://www.maritimeone.sg/article-detail/ship-charterer)
-* The Ship Charterer supports the organisation's chartering operations by liaising with ship-owners, traders, or charterers through a shipbroker to ensure that ships deliver the cargo safely in the most cost-effective manner. He/She also supports client account management by addressing issues arising in the pre- and post-fixture process.
+##### [Shipping Lawyer](https://www.maritimeone.sg/article-detail/maritime-lawyer)
+* To work as a maritime lawyer, one needs to have a thorough understanding of the maritime laws as laid down in the country in which one practices, as well as a general understanding of the various international conventions ratified by states across the globe.
 
 #### and many more!
  
@@ -30,9 +28,8 @@ third_nav_title: Marine Services
 
 | Job Title | Apply by | How to Apply |
 | -------- | -------- | -------- |
-| Trainee Shipbroker | 1 Nov | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/NWTS3QBNYW279BTSEM82) |
-| Chartering Executive | 1 Dec |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/SGGYEETBCR75PRDW4AC0) |
-| Chartering Manager | 1 Dec |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/26W7J5NR4OGC47ABK4W5) |
+| Broker (Marine Insurance) | 1 Nov | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/2Q0AP7O03X409UYNPWG9) |
+| Executive Assistant/Account Executive (Marine Broking) | 1 Dec | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/BP6TFZAPY1AFM8B23QW2) |
 
 
  
