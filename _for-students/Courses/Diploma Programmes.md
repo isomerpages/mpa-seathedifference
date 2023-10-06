@@ -38,5 +38,3 @@ For more information on Diploma in Nautical Studies, visit the course site [here
 In the first two years, you will be grounded with strong fundamentals of engineering, together with naval architecture, marine engineering and offshore design technology. In your final year, you will intern at a host company in the marine and offshore industry for six months.
 
 <hr>
-
-![](/images/sit-primary-logo-e1469679022131.png)
