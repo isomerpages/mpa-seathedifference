@@ -2,5 +2,4 @@ collections:
   socials:
     output: true
     order:
-      - Instagram/Example Title.md
       - Instagram/.keep
