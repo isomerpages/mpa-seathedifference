@@ -1,0 +1,4 @@
+collections:
+  socials:
+    output: true
+    order: []
