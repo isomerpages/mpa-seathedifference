@@ -44,6 +44,8 @@ sections:
       description: "Dive into 'Make a Splash': our KOL explores modern maritime.
         Steering vessels to embracing tech, it's a journey of innovation and the
         future."
+      url: Make A Splash
+      image: /images/mpa_shore or not_kv_1200x630_3oct23-2 (1).jpg
   - infopic:
       title: SHORE OR NOT?
       subtitle: Street Interviews
@@ -52,6 +54,7 @@ sections:
         maritime myths vs facts. Dive into a modern industry revelation.
       image: /images/mpa_shore or not_kv_1200x630_3oct23-2 (1).jpg
       url: https://www.seathedifference.gov.sg/shore-or-not-full-series/
+      alt: Shore or Not
   - resources:
       title: OUR SOCIALS
       subtitle: VISIT
