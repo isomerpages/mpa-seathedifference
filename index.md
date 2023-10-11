@@ -55,6 +55,12 @@ sections:
       image: /images/mpa_shore or not_kv_1200x630_3oct23-2 (1).jpg
       url: https://www.seathedifference.gov.sg/shore-or-not-full-series/
       alt: Shore or Not
+  - infopic:
+      title: LET'S GET SOCIAL
+      subtitle: See what's up on our socials
+      id: infopic
+      button: Button Text
+      alt: Image alt text
   - resources:
       title: OUR SOCIALS
       subtitle: VISIT
