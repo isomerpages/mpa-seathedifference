@@ -1,5 +1,4 @@
 collections:
   socials:
     output: true
-    order:
-      - INSTAGRAM.md
+    order: []
