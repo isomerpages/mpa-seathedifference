@@ -37,8 +37,6 @@ links:
         url: /for-jobseekers/maritime-careers
       - title: Career Conversion Programme
         url: /for-jobseekers/ccp
-  - title: Contact Us
-    url: /contact-us/
   - title: Let's Get Social
     url: https://www.instagram.com/maritime_sg/
     sublinks:
@@ -56,3 +54,5 @@ links:
         url: https://www.tiktok.com/@maritimesg
       - title: Telegram
         url: https://t.me/MPASingapore
+  - title: Contact Us
+    url: /contact-us/
