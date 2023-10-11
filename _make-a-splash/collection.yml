@@ -2,6 +2,6 @@ collections:
   make-a-splash:
     output: true
     order:
-      - EPISODE 1.md
+      - SeaTech Secrets.md
       - EPISODE 2.md
       - EPISODE 3.md
