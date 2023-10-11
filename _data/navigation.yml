@@ -39,3 +39,20 @@ links:
         url: /for-jobseekers/ccp
   - title: Contact Us
     url: /contact-us/
+  - title: Let's Get Social
+    url: https://www.instagram.com/maritime_sg/
+    sublinks:
+      - title: Instagram
+        url: https://www.instagram.com/maritime_sg/
+      - title: Facebook
+        url: https://www.facebook.com/MPA.SG
+      - title: Twitter
+        url: https://twitter.com/mpa_singapore
+      - title: Youtube
+        url: https://www.youtube.com/c/MPASingaporeOfficial
+      - title: LinkedIn
+        url: https://www.linkedin.com/company/mpasingapore
+      - title: TikTok
+        url: https://www.tiktok.com/@maritimesg
+      - title: Telegram
+        url: https://t.me/MPASingapore
