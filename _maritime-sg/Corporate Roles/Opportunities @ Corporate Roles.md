@@ -14,8 +14,13 @@ Corporate roles in the maritime industry in Singapore play a critical role in sh
 * A shipping analyst assists in the formulation of strategic plans by providing critical input on market developments in the shipping market.
 
 
-##### Ship Charterer
+##### Human Resources
 * The Ship Charterer supports the organisation's chartering operations by liaising with ship-owners, traders, or charterers through a shipbroker to ensure that ships deliver the cargo safely in the most cost-effective manner. He/She also supports client account management by addressing issues arising in the pre- and post-fixture process.
+
+##### Marketing
+
+
+
 
 #### and many more!
  
