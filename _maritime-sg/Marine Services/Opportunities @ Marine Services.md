@@ -4,7 +4,7 @@ permalink: /maritime-singapore/marine-services/opportunities/
 description: ""
 third_nav_title: Marine Services
 ---
-![](/images/mpa_offshore_careers.jfif)
+![](/images/marina%20services.png)
 
 ### What are some marine services roles?
 
@@ -25,7 +25,7 @@ Marine services roles hold paramount importance in Singapore's maritime industry
  <hr>
 
 ### Hear from us
-![](/images/sample%20profiling%20quote.jpeg)
+![](/images/sample%20profilling%20banner%20(ms).png)
 
  <hr>
 
