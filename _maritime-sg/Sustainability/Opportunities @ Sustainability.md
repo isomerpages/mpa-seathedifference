@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Sustainability
 ---
 ![](/images/mpa_offshore_careers.jfif)
-
 ### What are some sustainability roles?
+Sustainability roles in the maritime industry play a pivotal role in shaping the future of Singapore's maritime sector. With the city-state's strategic location as one of the world's busiest ports, it is imperative that environmental responsibility is at the forefront of maritime operations. In essence, sustainability roles in the maritime industry are not just a necessity, but a strategic imperative for Singapore's continued success in the global shipping landscape.
 
 ##### Sustainability Reporting &amp; Promotion Manager
 * The job scope of a sustainability reporting and promotion manager includes being responsible for the profiling and reporting of sustainability and ESG (environment, social and governance) initiatives. You will also oversee the profiling of sustainability initiatives in the wider maritime sector.
