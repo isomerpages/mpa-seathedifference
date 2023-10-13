@@ -4,7 +4,7 @@ permalink: /maritime-singapore/corporate-roles/opportunities/
 description: ""
 third_nav_title: Corporate Roles
 ---
-![](/images/mpa_offshore_careers.jfif)
+![](/images/corporate%20roles%20banner.png)
 
 ### What are some corporate roles?
 
