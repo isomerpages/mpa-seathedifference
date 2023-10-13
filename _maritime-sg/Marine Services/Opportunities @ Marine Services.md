@@ -17,6 +17,9 @@ Marine services roles hold paramount importance in Singapore's maritime industry
 ##### [Shipping Lawyer](https://www.maritimeone.sg/article-detail/maritime-lawyer)
 * To work as a maritime lawyer, one needs to have a thorough understanding of the maritime laws as laid down in the country in which one practices, as well as a general understanding of the various international conventions ratified by states across the globe.
 
+##### Ship Charterer
+* The Ship Charterer supports the organisation's chartering operations by liaising with ship-owners, traders, or charterers through a shipbroker to ensure that ships deliver the cargo safely in the most cost-effective manner. He/She also supports client account management by addressing issues arising in the pre- and post-fixture process.
+
 #### and many more!
  
  <hr>
