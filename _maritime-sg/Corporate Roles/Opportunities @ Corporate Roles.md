@@ -8,6 +8,8 @@ third_nav_title: Corporate Roles
 
 ### What are some corporate roles?
 
+Corporate roles in the maritime industry in Singapore play a critical role in shaping the sector's success and global competitiveness. As a major maritime hub, Singapore's corporate sector is responsible for strategic decision-making, investment, and policy formulation that underpin the industry's growth. These roles contribute to fostering an environment of innovation and efficiency through strategic partnerships, financial management, and global market access. Corporate leaders in Singapore also actively engage in sustainability initiatives, aligning with global efforts to reduce the industry's environmental impact. By ensuring that Singapore remains a maritime center of excellence, corporate roles are pivotal in sustaining the country's economic prosperity and leadership in the ever-evolving world of maritime trade and transport.
+
 ##### Shipping Analyst
 * A shipping analyst assists in the formulation of strategic plans by providing critical input on market developments in the shipping market.
 
