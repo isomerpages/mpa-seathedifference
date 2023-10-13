@@ -15,10 +15,10 @@ Corporate roles in the maritime industry in Singapore play a critical role in sh
 
 
 ##### Human Resources
-* The Ship Charterer supports the organisation's chartering operations by liaising with ship-owners, traders, or charterers through a shipbroker to ensure that ships deliver the cargo safely in the most cost-effective manner. He/She also supports client account management by addressing issues arising in the pre- and post-fixture process.
+* A human resource role in the maritime industry is primarily responsible for recruiting, training, and managing the workforce essential for the industry's smooth operation. It involves sourcing qualified seafarers, engineers, port personnel, and administrative staff, ensuring compliance with international maritime regulations.
 
 ##### Marketing
-
+* A marketing role is instrumental in promoting services, solutions, and products related to shipping, logistics, and maritime technology. Marketing professionals work to enhance a company's visibility, attract clients, and establish brand presence within a highly competitive global market.
 
 
 
@@ -35,9 +35,9 @@ Corporate roles in the maritime industry in Singapore play a critical role in sh
 
 | Job Title | Apply by | How to Apply |
 | -------- | -------- | -------- |
-| Digital Marketing Manager | 7 Oct | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/SIA7842LBH4EIX2QQQI4) |
-| Trainee Shipbroker | 1 Nov |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/NWTS3QBNYW279BTSEM82) |
-| Chartering Executive | 1 Dec |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/SGGYEETBCR75PRDW4AC0) |
+| Digital Marketing Manager | 2 Nov | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/SIA7842LBH4EIX2QQQI4) |
+| Senior Executive, Marketing and Membership | 1 Dec |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/1FUB77HJ669P57I515T1) |
+| Accounts Executive | 31 Oct |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/19X3BB8ETP5O1L0JJ287) |
 
 
  
