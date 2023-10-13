@@ -4,7 +4,8 @@ permalink: /maritime-singapore/sustainability/opportunities/
 description: ""
 third_nav_title: Sustainability
 ---
-![](/images/mpa_offshore_careers.jfif)
+![](/images/sustainability.png)
+
 ### What are some sustainability roles?
 Sustainability roles in the maritime industry play a pivotal role in shaping the future of Singapore's maritime sector. With the city-state's strategic location as one of the world's busiest ports, it is imperative that environmental responsibility is at the forefront of maritime operations. In essence, sustainability roles in the maritime industry are not just a necessity, but a strategic imperative for Singapore's continued success in the global shipping landscape.
 
@@ -20,7 +21,7 @@ Sustainability roles in the maritime industry play a pivotal role in shaping the
  <hr>
 
 ### Hear from us
-![](/images/sample%20profiling%20quote.jpeg)
+![](/images/sample%20profilling%20banner%20(sustainability).png)
 
  <hr>
 
