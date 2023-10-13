@@ -27,8 +27,7 @@ Corporate roles in the maritime industry in Singapore play a critical role in sh
  <hr>
 
 ### Hear from us
-![](/images/sample%20profiling%20quote.jpeg)
-
+![](/images/sample%20profilling%20banner.png)
  <hr>
 
 ### Top job listings for you
