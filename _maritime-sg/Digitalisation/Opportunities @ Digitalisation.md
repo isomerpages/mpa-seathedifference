@@ -6,9 +6,10 @@ third_nav_title: Digitalisation
 ---
 ![](/images/digitalisation.png)
 
-### What are some digitalisation roles?
+
 As one of the world's leading maritime hubs, Singapore recognises the transformative power of digital technologies in enhancing efficiency, safety, and sustainability across the entire maritime supply chain. Digitalisation roles encompass areas such as data analytics, IoT integration, blockchain, and autonomous shipping systems. These technologies enable real-time tracking, predictive maintenance, and streamlined logistics, thus optimising operations and reducing costs. Moreover, in a post-pandemic world, digitalisation plays a crucial role in enabling remote operations and data-driven decision-making. Embracing digitalisation not only keeps Singapore at the forefront of maritime innovation but also positions it to address emerging challenges in a rapidly evolving global shipping landscape.
 
+#### Some roles in digitalisation include... 
 ##### [Vessel Traffic Officer](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=vessel#/JobDescription/13561653/ddd35890-ad03-1eee-98ac-2efc816b00b3)
 * Using state of the art Vessel Traffic Information System (VTIS), our Vessel Traffic Officers play a vital role in managing busy port traffic for the safe and efficient navigation of vessels transiting through the Singapore Strait.
 
