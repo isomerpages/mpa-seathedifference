@@ -26,7 +26,7 @@ In other words, you will be embarking on an amazing career at the heart of MPA, 
 *   Monthly maintenance allowance
 *   Other allowance e.g. pre studies allowance
 *   Opportunity for sponsorship of approved student exchange/summer school programme
-*   Internship opportunties before and during studies for exposure to the culture of and work in MPA as well as gain insights into the maritime industry
+*   Internship opportunities before and during studies for exposure to the culture of and work in MPA as well as gain insights into the maritime industry
 
 To help you understand the maritime industry better, we will also be updating you on the latest developments in the industry as well as within MPA during your studies.
 
@@ -51,10 +51,7 @@ You may apply via [](https://brightsparks.com.sg/profile/mpa/mpa-scholarship-pr
 We will contact shortlisted applicants within 2 weeks after the application closing date.
 
 **_Featured Scholars_**
-
-*   [Putra Mohammad Danish](https://brightsparks.com.sg/profile/mpa/images/putra-danish-mpa.pdf) [Putra Mohammad Danish Bin Mohd Rafee, IT Manager (IT Infrastructure & Services)](https://brightsparks.com.sg/profile/mpa/images/putra-danish-mpa.pdf)
-*   [Lim Chu Rui,](https://brightsparks.com.sg/magazine/july-2020/mpa-engineering-the-future-port.php) [Lim Chu Rui, Engineer (Design & Contract Management)](https://brightsparks.com.sg/magazine/july-2020/mpa-engineering-the-future-port.php)
-*   [Shen Wanling,](https://www.scholarschoice.com.sg/experience/374/steering_the_maritime_industry_through_the_winds_of_change) [Deputy Director (International)](https://www.scholarschoice.com.sg/experience/374/steering_the_maritime_industry_through_the_winds_of_change)
+![](/images/mpa%20scholars.png)
 
 MPA Sponsorships
 ================
