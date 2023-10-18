@@ -9,17 +9,21 @@ sections:
   - hero:
       url: /contact-us/
       key_highlights:
-        - title: JOB OPENINGS
-          description: Start your career today
+        - title: The Matchmaker
+          description: short film ssss
           url: https://www.maritimesgconnect.com/home
-        - title: Maritime Singapore
-          description: SEAs the opportunity
+        - title: Shore or Not
+          description: "street interviews... "
           url: https://www.mpa.gov.sg/home
-        - title: Internships & Scholarships
-          description: Anchor your future here
+        - title: Make a Splash
+          description: "day in the life of... "
           url: /scholarships/mpa-scholarships/
       background: /images/Homepage Banners/trial gloria.png
-      title: Sea the difference
+      title: Sea The Difference
+      variant: center
+      button: Find out what Maritime Singapore has to offer
+      subtitle: Navigating career crossroads, they meet an unconventional matchmaker.
+        Skepticism turns to curiosity as they journey to explore new horizons.
   - infobar:
       title: Sea the Difference
       description: Anchored in excellence, sailing towards distinction. Welcome to
