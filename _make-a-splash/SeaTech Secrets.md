@@ -4,7 +4,6 @@ permalink: /make-a-splash-full-series/episode-1/
 description: ""
 image: /images/maritime_and_port_authority_of_singapore_(logo).png
 ---
-
 ![](/images/mpa_shore%20or%20not_kv_1200x630_3oct23-2%20(1).jpg)
 
 
@@ -14,6 +13,13 @@ image: /images/maritime_and_port_authority_of_singapore_(logo).png
 
 ##### Join us as we plunge into the depths of maritime hydrography, witnessing the balance of technology, teamwork, and the ceaseless dedication to safe navigation.
 
-![2](https://i.ibb.co/ZB06GtD/2.png)
+<br>
+<br>
+
+| Job Role | Brief Descrption | &nbsp; |
+| --- | --- | --- |
+| [Assistant / Technical Superintendent](https://www.maritimesgconnect.com/job-detail/85KQ8OX6W8XJT5A6Y1A3) | You will oversee vessel maintenance and operations ensuring safety, minimal downtime, and adherence to regulations. Additionally, you'll manage inventories, supervise repairs, provide technical support in emergencies, handle budgeting for assigned vessels, and assist in the training and evaluation of onboard engineers and crew, while ensuring compliance with audits and legislation. | &nbsp; |
+| [Technical Support Specialist](https://www.maritimesgconnect.com/job-detail/0HW96DUQIKN3QTH9R6N1) | As a Technical Support Specialist, you'll provide real-time support to internal and external customers, improving response times and offering pre-sales support to sales teams, thereby enhancing StormGeo's brand image in technology. Additionally, you'll mentor local teams to foster their technical expertise. | &nbsp; |
+| [Technical Superintendent](https://www.maritimesgconnect.com/job-detail/IJDDDJFEBXHCMU3E5I39) | You'll ensure vessels meet technical standards and performance, maintain their certification, and implement the company’s maintenance system. Additionally, you'll manage class and statutory surveys, dry-dockings, repairs, and crew performance, oversee the vessels' technical budget, and handle other assigned tasks. |
 
 [APPLY TODAY](https://www.maritimesgconnect.com/job-listing?keyword=Technical%20Executive&amp;jobfunction=)
