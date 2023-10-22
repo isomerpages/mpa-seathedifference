@@ -4,7 +4,7 @@ permalink: /matchmaker/norhakimsanwan/
 description: ""
 image: /images/microsite logo.png
 ---
-inert norhakim photo
+insert norhakim photo
 
 **About Norhakim:**
 
