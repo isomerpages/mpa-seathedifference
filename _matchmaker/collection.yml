@@ -2,9 +2,9 @@ collections:
   matchmaker:
     output: true
     order:
-      - Test/Gladys See.md
-      - Test/.keep
       - Full Film.md
+      - Test/.keep
+      - Test/Gladys See.md
       - Justin Chua.md
       - Norhakim Sanwan.md
       - Thayaalan (Dylan).md
