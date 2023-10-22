@@ -2,12 +2,12 @@ collections:
   matchmaker:
     output: true
     order:
-      - Alvin/Thayaalan (Dylan).md
-      - Alvin/.keep
-      - Michael/Norhakim Sanwan.md
-      - Michael/.keep
-      - Selvam/Justin Chua.md
-      - Selvam/.keep
       - Full Film.md
       - Gianna/.keep
       - Gianna/Gladys See.md
+      - Selvam/.keep
+      - Selvam/Justin Chua.md
+      - Alvin/.keep
+      - Alvin/Thayaalan (Dylan).md
+      - Michael/.keep
+      - Michael/Norhakim Sanwan.md
