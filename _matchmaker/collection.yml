@@ -2,7 +2,7 @@ collections:
   matchmaker:
     output: true
     order:
-      - FULL FILM.md
+      - Full Film.md
       - GLADYS SEE.md
       - JUSTIN CHUA.md
       - NORHAKIM SANWAN.md
