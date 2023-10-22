@@ -1,7 +1,0 @@
----
-title: GLADYS SEE
-permalink: /matchmaker/gladyssee/
-description: ""
-image: /images/microsite logo.png
----
-![Blue-Illustrated-Path-Design-Process-Timeline-Infographic](https://i.ibb.co/NnrQBRd/Blue-Illustrated-Path-Design-Process-Timeline-Infographic.png)
