@@ -4,7 +4,6 @@ permalink: /make-a-splash-full-series/episode-1/
 description: ""
 image: /images/maritime_and_port_authority_of_singapore_(logo).png
 ---
-## Maritime Unveiled: A Day in the Life in the Seas!
 
 ![](/images/mpa_shore%20or%20not_kv_1200x630_3oct23-2%20(1).jpg)
 
