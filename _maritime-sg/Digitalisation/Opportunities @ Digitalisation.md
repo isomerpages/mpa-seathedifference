@@ -30,7 +30,7 @@ As one of the world's leading maritime hubs, Singapore recognises the transforma
 
 | Job Title | Apply by | How to Apply |
 | -------- | -------- | -------- |
-| Vessel Traffic Officer | 30 Oct | [Careers@GOV Portal](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=vessel#/JobDescription/13561653/ddd35890-ad03-1eee-98ac-2efc816b00b3) |
+| Business Analyst/Senior Business Analyst (Digital Solutions, Digitalisation) | 31 Dec | [Jurong Port](https://ephv.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/48/?utm_medium=jobshare) |
 | System Specialist | 21 Oct |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/SX3O3GSKHPYJX6LGAAO1) |
 | Engineer (Autonomous Vehicle) | 31 Dec | [PSA Careers](https://psacareers.singaporepsa.com/en/job/493427/engineer-autonomous-vehicle) |
 | Cyber Security Network Engineer | 31 Dec |[PSA Careers](https://psacareers.singaporepsa.com/en/job/493388/cyber-security-network-engineer) |
