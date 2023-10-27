@@ -4,7 +4,6 @@ permalink: /maritime-singapore/seafaring-and-offshore/opportunities/
 description: ""
 third_nav_title: Seafaring and Offshore
 ---
-
 ![](/images/offshore.png)
 ### What are some seafaring and offshore roles?
 
@@ -31,9 +30,9 @@ Offshore and seafaring roles are undeniably pivotal in Singapore's maritime indu
 | Job Title | Apply by | How to Apply |
 | -------- | -------- | -------- |
 | Special Limit COC Class 4 Deck Officer | 8 Oct | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/FQD10317F3P6KSK0JDO7) |
-| Special Limit COC Class 4 Engine Driver | 8 Oct |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/CQ6GEUDP7XSQIH594FF2) |
-| Special Limit COC Class 4 Deck Officer | 8 Oct | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/FQD10317F3P6KSK0JDO7) |
-| Special Limit COC Class 4 Engine Driver | 8 Oct |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/CQ6GEUDP7XSQIH594FF2) |
+| Surveyors | 16 Oct |[MyCareersFuture](https://www.mycareersfuture.gov.sg/job/engineering/land-surveyor-united-surveyors-91e623dae9d54ec09ec6a2b18d6027e3) |
+| Technical Superintendent | 31 Dec | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/85KQ8OX6W8XJT5A6Y1A3) |
+| Marine Superintendents | 31 Dec |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/90PNUFPU6LQPUG8XXP19) |
 
 
  
