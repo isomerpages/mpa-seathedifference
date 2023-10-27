@@ -32,8 +32,8 @@ As one of the world's leading maritime hubs, Singapore recognises the transforma
 | -------- | -------- | -------- |
 | Vessel Traffic Officer | 30 Oct | [Careers@GOV Portal](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=vessel#/JobDescription/13561653/ddd35890-ad03-1eee-98ac-2efc816b00b3) |
 | System Specialist | 21 Oct |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/SX3O3GSKHPYJX6LGAAO1) |
-| Technical Support Specialist (1st Level Technical Support) | 29 Oct | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/9X3NG06PSPI7J26BUU34) |
-| Field Service Engineer | 1 Dec |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/D1XTUWMAZYR9SR2A5XW9) |
+| Engineer (Autonomous Vehicle) | 31 Dec | [PSA Careers](https://psacareers.singaporepsa.com/en/job/493427/engineer-autonomous-vehicle) |
+| Cyber Security Network Engineer | 31 Dec |[PSA Careers](https://psacareers.singaporepsa.com/en/job/493388/cyber-security-network-engineer) |
 
 
  
