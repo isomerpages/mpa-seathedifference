@@ -13,12 +13,12 @@ sections:
           description: short film ssss
           url: https://www.maritimesgconnect.com/home
         - title: Shore or Not
-          description: "street interviews... "
+          description: street interviews...
           url: https://www.mpa.gov.sg/home
         - title: Make a Splash
-          description: "day in the life of... "
+          description: day in the life of...
           url: /scholarships/mpa-scholarships/
-      background: /images/Homepage Banners/trial gloria.png
+      background: /images/hero graphic poster - illustration group_page-0001.jpg
       title: Sea The Difference
       variant: center
       button: Find out what Maritime Singapore has to offer
