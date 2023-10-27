@@ -18,10 +18,10 @@ sections:
         - title: Make a Splash
           description: day in the life of...
           url: /scholarships/mpa-scholarships/
-      background: /images/mpa_see-the-difference_hero-group-kv_1200x630_1_page-0001.jpg
+      background: /images/Homepage Banners/untitled design.png
       title: Sea The Difference
       variant: center
-      button: "Find out what Maritime "
+      button: Find out what Maritime
       subtitle: Navigating career crossroads, they meet an unconventional matchmaker.
         Skepticism turns to curiosity as they journey to explore new horizons.
   - infobar:
