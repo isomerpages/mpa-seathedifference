@@ -21,9 +21,7 @@ sections:
       background: /images/Homepage Banners/untitled design.png
       title: Sea The Difference
       variant: center
-      button: Find out what Maritime
-      subtitle: Navigating career crossroads, they meet an unconventional matchmaker.
-        Skepticism turns to curiosity as they journey to explore new horizons.
+      button: Find out what Maritime has to offer
   - infobar:
       title: Sea the Difference
       description: Anchored in excellence, sailing towards distinction. Welcome to
