@@ -31,7 +31,7 @@ Sustainability roles in the maritime industry play a pivotal role in shaping the
 | -------- | -------- | -------- |
 | Sustainability Manager | 19 Oct | [MyCareersFuture Portal](https://www.mycareersfuture.gov.sg/job/environment/maritime-sustainability-manager-t-s-global-procurement-company-f74ee217789103071a7224e1995fc942?source=MCF&amp;event=Search) |
 | Sustainability Reporting Manager | 30 Oct |[Careers@Gov Portal](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=sustainability#/JobDescription/13863152/ddd35890-ad03-1eee-98ac-2b117ec2c0b3) |
-| Project Manager (New Marine Fuels) | 1 Nov |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/DOC5H31URBKLO91KNS94) |
+| Senior Engineer (Energy Infrastructure) | 31 Dec |[PSA Careers](https://psacareers.singaporepsa.com/cw/en/job/493068/principal-senior-electrical-engineer-energy-infrastructure) |
 
 
  
