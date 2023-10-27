@@ -21,7 +21,7 @@ sections:
       background: /images/mpa_see-the-difference_hero-group-kv_1200x630_1_page-0001.jpg
       title: Sea The Difference
       variant: center
-      button: Find out what Maritime Singapore has to offer
+      button: "Find out what Maritime "
       subtitle: Navigating career crossroads, they meet an unconventional matchmaker.
         Skepticism turns to curiosity as they journey to explore new horizons.
   - infobar:
