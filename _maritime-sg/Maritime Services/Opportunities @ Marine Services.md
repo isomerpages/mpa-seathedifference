@@ -33,9 +33,9 @@ Marine services roles hold paramount importance in Singapore's maritime industry
 
 | Job Title | Apply by | How to Apply |
 | -------- | -------- | -------- |
-| Broker (Marine Insurance) | 1 Nov | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/2Q0AP7O03X409UYNPWG9) |
-| Executive Assistant/Account Executive (Marine Broking) | 1 Dec | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/BP6TFZAPY1AFM8B23QW2) |
-
+| Shipbroker (Dry Cargo) | 1 Nov | [MyCareersFuture](https://www.mycareersfuture.gov.sg/job/others/shipbroker-starz-advise-management-7b6181c88f543676b219c41a823f35f8?source=MCF&amp;event=Search) |
+| Junior Shipbroker | 1 Dec | [MyCareersFuture](https://www.mycareersfuture.gov.sg/job/others/operations-junior-shipbroker-jarsin-shipbrokers-0b57a02a0c6fae25be4995c59df2dd98?source=MCF&amp;event=Search) |
+| Chartering Manager (Dry Bulk)| 1 Dec | [MyCareersFuture](https://www.mycareersfuture.gov.sg/job/logistics/chartering-manager-rs-recruitment-agency-d63b08de00c4383cd46f64c2c1ed6497?source=MCF&amp;event=Search) |
 
  
 ### Other related resources
