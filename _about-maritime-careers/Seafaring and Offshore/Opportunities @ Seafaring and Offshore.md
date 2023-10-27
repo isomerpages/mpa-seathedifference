@@ -4,7 +4,7 @@ permalink: /maritime-singapore/seafaring-and-offshore/opportunities/
 description: ""
 third_nav_title: Seafaring and Offshore
 ---
-![](/images/offshore.png)
+
 ### What are some seafaring and offshore roles?
 
 Offshore and seafaring roles are undeniably pivotal in Singapore's maritime industry. The country's strategic location as a global maritime hub has made it reliant on skilled seafarers who navigate vessels through its bustling ports and international waters. These professionals are crucial for maintaining smooth trade and transportation links. Additionally, offshore roles, including offshore drilling, offshore wind farms, and oil and gas exploration, contribute significantly to the nation's energy security and economic growth. The development of offshore wind energy projects, in particular, aligns with Singapore's commitment to sustainability. In summary, both offshore and seafaring roles are integral components of Singapore's maritime industry, ensuring its continued economic vitality and environmental responsibility in the global maritime landscape.
