@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Digitalisation
 ---
 ### Maritime Data Scientist
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TgIvfvwDjLU?si=dySXME6603BUENxS" height="315" width="540"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TgIvfvwDjLU?si=dySXME6603BUENxS" height="480" width="854"></iframe>
 
 ### Maritime Data Analyst
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/2e9oMzZHff4?si=hIfrEFNkzvqyzkxE" height="315" width="540"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/2e9oMzZHff4?si=hIfrEFNkzvqyzkxE" height="480" width="854"></iframe>
   
 
 ### Title of IG post?
