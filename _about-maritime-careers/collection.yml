@@ -2,6 +2,7 @@ collections:
   about-maritime-careers:
     output: true
     order:
+      - Operations and Marine Services/Operations and Marine Services.md
       - Operations and Marine Services/.keep
       - Maritime Singapore.md
       - Sustainability/.keep
