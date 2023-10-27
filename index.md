@@ -19,7 +19,7 @@ sections:
           description: A day-in-the-life
           url: /scholarships/mpa-scholarships/
         - title: Career Opportunities
-          description: "Start your maritime journey "
+          description: Start your maritime journey
           url: ""
       background: /images/Homepage Banners/untitled design.png
       title: Sea The Difference
@@ -49,15 +49,14 @@ sections:
       title: SHORE OR NOT?
       subtitle: Street Interviews
       button: Coming soon
-      description: "Join Joakim Gomez on Singapore's streets, as he quizzes strangers
-        on maritime misconceptions. "
+      description: Join Joakim Gomez on Singapore's streets, as he quizzes strangers
+        on maritime misconceptions.
       image: /images/mpa_shore or not_kv_1200x630_3oct23-2 (1).jpg
       url: https://www.seathedifference.gov.sg/shore-or-not-full-series/
       alt: Shore or Not
   - infobar:
       title: Sea the Difference
-      description: Anchored in excellence, sailing towards distinction. Welcome to
-        Singapore's maritime world.
+      description: "Use this section for the contest? "
       button: DISCOVER HERE
       url: https://www.mpa.gov.sg/home
 ---
