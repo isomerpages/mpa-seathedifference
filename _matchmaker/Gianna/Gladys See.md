@@ -5,4 +5,4 @@ description: ""
 image: /images/microsite logo.png
 third_nav_title: Gianna
 ---
-![Blue-Illustrated-Path-Design-Process-Timeline-Infographic](https://i.ibb.co/NnrQBRd/Blue-Illustrated-Path-Design-Process-Timeline-Infographic.png)
+<img border="0" alt="Gladys" src="https://i.ibb.co/MCPWgx1/Gladys.png">
