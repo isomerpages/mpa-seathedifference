@@ -18,7 +18,7 @@ sections:
         - title: Make a Splash
           description: day in the life of...
           url: /scholarships/mpa-scholarships/
-      background: /images/hero graphic poster - illustration group_page-0001.jpg
+      background: /images/mpa_see-the-difference_hero-group-kv_1200x630_1_page-0001.jpg
       title: Sea The Difference
       variant: center
       button: Find out what Maritime Singapore has to offer
