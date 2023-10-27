@@ -14,18 +14,18 @@ image: /images/microsite logo.png
 
 #### Selvam
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="315" width="100%"></iframe>
 
 ###### Selvam, poised to start a family and seeking a stable career, visits Gloria's office with reservations about the maritime sector. Through wit, playful banter, and a real-life example of professional Justin Chua, Gloria showcases how the maritime world is more tech-forward than Selvam imagined. In this light-hearted encounter, Selvam realizes there's more to maritime than just hard hats and traditions. Dive in to discover how the old meets the new in this evolving industry.
 
 #### Michael
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="315" width="100%"></iframe>
 
 ###### Journey alongside Michael, once a high-flying attendant who's tasted the allure of every continent, as he finds grounding in an unexpected place—amidst the maritime waves. After a yoga session, a serendipitous chat with Gloria, our seasoned Matchmaker, unveils his hidden penchant for tech. With tales of Norhakim, a sailor-turned-tech innovator, Gloria nudges Michael to reevaluate his notions about the maritime world. Dive into this narrative where the vastness of the sky converges with the depths of the sea. Discover where Michael's true calling lies.
 
 #### Richard 
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="315" width="100%"></iframe>
 
 ###### Facing the abrupt end of his corporate journey and the silent weight of secrets from loved ones, Alvin stumbles upon 'The Matchmaker.' Amidst the neon buzz of technological advances and job demands, Alvin's vast experience feels overshadowed until Gloria introduces him to a world he's never considered before. Discover Alvin's poignant journey from the shadows of uncertainty to the illuminating possibilities of Maritime.
