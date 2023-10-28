@@ -7,8 +7,8 @@ description: ""
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="385" width="100%"></iframe>
 
-###### Join Joakim Gomez as he dives into the bustling heart of Yinson Green Tech with Naazira, the Lead Design Engineer, in the first episode of **Make A Splash**. Uncover the digital revolution sweeping through the maritime industry, one innovative solution at a time.
-
+Join Joakim Gomez as he dives into the bustling heart of Yinson Green Tech with Naazira, the Lead Design Engineer, in the first episode of **Make A Splash**. Uncover the digital revolution sweeping through the maritime industry, one innovative solution at a time.
+# 
 ### **Journey Highlights:**
 <img border="0" alt="1" src="https://i.ibb.co/6NGxrFk/1.jpg">
 <br>
