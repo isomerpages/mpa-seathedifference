@@ -3,15 +3,28 @@ title: EcoTech Voyage
 permalink: /make-a-splash/episode-2/
 description: ""
 ---
-## Maritime Unveiled: A Day in the Life in the Seas!
-## 
-
 ![](/images/mpa_shore%20or%20not_kv_1200x630_3oct23-2%20(1).jpg)
-## EPISODE 1
-##
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="365" width="560"></iframe>
 
-##### Step aboard the digital revolution in maritime with Naazira, a Lead Design Engineer at Yinson Greentech. Tasked with paving the future of maritime logistics, Naazira's daily journey involves charting the digital seas, designing cutting-edge applications for Green Tech, and redefining the face of the maritime industry. Dispel the myths and dive deep into the lesser-known realm of software engineering for maritime solutions. Witness how her team, scattered across different countries, collaboratively breathes life into sustainable innovations, such as the electric vessels by Instant Green Tech in Singapore. In an industry steeped in tradition, Naazira and her team challenge the status quo, proving that maritime can sail alongside the digital age. From discussions on sustainability, to collaborative workspaces bathed in sunlight.&nbsp;
-###### 
-##### **Join Naazira as she navigates the confluence of design, tech, and maritime in Singapore's dynamic harbor.**
+###### Join Joakim Gomez as he dives into the bustling heart of Yinson Green Tech with Naazira, the Lead Design Engineer, in the first episode of **Make A Splash**. Uncover the digital revolution sweeping through the maritime industry, one innovative solution at a time.
+
+### **Journey Highlights:**
+<img border="0" alt="1" src="https://i.ibb.co/6NGxrFk/1.jpg">
+<br>
+Embark on a digital maritime expedition with Naazira as she shares her trailblazing work on Digital Electric Vehicles and maritime digital logistics, aimed at making sea-bound deliveries as efficient as a click of a button.
+<br>
+<br>
+<img border="0" alt="3" src="https://i.ibb.co/vz3nsQG/3.jpg">
+<img border="0" alt="4" src="https://i.ibb.co/3STLprT/4.jpg">
+
+Naazira and Joakim in a design sprint addressing a common maritime challenge: the paper-based Proof of Deliveries. Uncover how digital solutions can streamline processes, cut down delays, and foster a win-win outcome for all stakeholders involved.
+
+### **Role Requirements and Opportunities**
+### 
+With a background in product design and logistics, Naazira sheds light on the immense potential the maritime industry holds for individuals with a design background. Discover how design thinking is instrumental in driving the industry towards a smarter and more eco-friendly frontier.
+
+Intrigued to learn more? Set sail to other episodes of **Make A Splash** and explore diverse maritime professions that are steering the industry into a new era
+
+
+
