@@ -35,4 +35,4 @@ description: ""
 
 <img border="0" alt="8" src="https://i.ibb.co/mh692Q8/8.png">
 
-#####  <center>Maritime Singapore is committed to sustainable practices and is actively investing in green technologies and solutions to minimize its carbon footprint. Efforts include cleaner fuels, energy-efficient vessels, and initiatives to protect marine biodiversity</center></center></center></center></center></center></center></center></center>
+##### <center>Maritime Singapore is committed to sustainable practices and is actively investing in green technologies and solutions to minimize its carbon footprint. Efforts include cleaner fuels, energy-efficient vessels, and initiatives to protect marine biodiversity. </center></center></center></center></center></center></center></center></center>
