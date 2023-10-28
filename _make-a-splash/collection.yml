@@ -1,0 +1,7 @@
+collections:
+  make-a-splash:
+    output: true
+    order:
+      - EcoTech Voyage.md
+      - SeaTech Secrets.md
+      - Waterway Watcher.md

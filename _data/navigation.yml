@@ -1,0 +1,41 @@
+logo: /images/microsite logo.png
+links:
+  - title: About Maritime Careers
+    url: /maritime-singapore/
+    sublinks:
+      - title: Sustainability
+        url: /maritime-singapore/sustainability/opportunities
+      - title: Digitalisation
+        url: /maritime-singapore/digitalisation/opportunities
+      - title: Seafaring and Offshore
+        url: /maritime-singapore/seafaring-and-offshore/opportunities
+      - title: Maritime Services
+        url: /maritime-singapore/maritime-services/opportunities/
+      - title: Corporate Roles
+        url: /maritime-singapore/corporate-roles/opportunities
+  - title: the MATCHMAKER
+    collection: matchmaker
+  - title: SHORE OR NOT
+    collection: shore-or-not
+  - title: MAKE A SPLASH
+    collection: make-a-splash
+  - title: For Students
+    url: /scholarships/mpa-scholarships/
+    sublinks:
+      - title: Scholarships
+        url: /scholarships/mpa-scholarships/
+      - title: Internships
+        url: /internships/gia/
+      - title: Courses
+        url: /courses/diploma-programmes/
+  - title: For Jobseekers
+    url: /for-jobseekers/mpa-careers/
+    sublinks:
+      - title: MPA Careers
+        url: /for-jobseekers/mpa-careers
+      - title: Maritime Careers
+        url: /for-jobseekers/maritime-careers
+      - title: Career Conversion Programme
+        url: /for-jobseekers/ccp
+  - title: Contact Us
+    url: /contact-us/

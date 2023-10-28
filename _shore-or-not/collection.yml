@@ -1,0 +1,6 @@
+collections:
+  shore-or-not:
+    output: true
+    order:
+      - Full Episodes.md
+      - Myth Debunked.md
