@@ -7,7 +7,7 @@ description: ""
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="385" width="100%"></iframe>
 
-##### <center>Join Joakim Gomez as he dives into the bustling heart of Yinson Green Tech with Naazira, the Lead Design Engineer, in the first episode of **Make A Splash**. Uncover the digital revolution sweeping through the maritime industry, one innovative solution at a time.<center>
+##### Join Joakim Gomez as he dives into the bustling heart of Yinson Green Tech with Naazira, the Lead Design Engineer, in the first episode of **Make A Splash**. Uncover the digital revolution sweeping through the maritime industry, one innovative solution at a time.
 
 ### **Journey Highlights:**
 <img border="0" alt="1" src="https://i.ibb.co/6NGxrFk/1.jpg">
@@ -30,4 +30,4 @@ Intrigued to learn more? Set sail to other episodes of **Make A Splash** and exp
 | [Technical Support Specialist](https://www.maritimesgconnect.com/job-detail/0HW96DUQIKN3QTH9R6N1) | As a Technical Support Specialist, you'll provide real-time support to internal and external customers, improving response times and offering pre-sales support to sales teams, thereby enhancing StormGeo's brand image in technology. Additionally, you'll mentor local teams to foster their technical expertise. | &nbsp; |
 | [Technical Superintendent](https://www.maritimesgconnect.com/job-detail/IJDDDJFEBXHCMU3E5I39) | You'll ensure vessels meet technical standards and performance, maintain their certification, and implement the company’s maintenance system. Additionally, you'll manage class and statutory surveys, dry-dockings, repairs, and crew performance, oversee the vessels' technical budget, and handle other assigned tasks. |
 
-[APPLY TODAY](https://www.maritimesgconnect.com/job-listing?keyword=Technical%20Executive&amp;jobfunction=)</center></center>
+[APPLY TODAY](https://www.maritimesgconnect.com/job-listing?keyword=Technical%20Executive&amp;jobfunction=)
