@@ -10,4 +10,4 @@ image: /images/microsite logo.png
 
 ##### Faced with pivotal career decisions, a group of individuals stumble upon a mystifying matchmaking agency helmed by an enigmatic matchmaker. Initially skeptical, they're steered towards a field that holds little allure. Yet, as the matchmaker unveils a distinctive proposition, they embark on a transformative journey, delving into a realm of unforeseen opportunities.
 
-[WATCH THE FULL SERIES HERE]()
+[Watch the full series here](https://www.seathedifference.gov.sg/matchmaker/gladyssee/)
