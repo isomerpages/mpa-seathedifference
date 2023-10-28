@@ -20,11 +20,14 @@ Embark on a digital maritime expedition with Naazira as she shares her trailblaz
 
 Naazira and Joakim in a design sprint addressing a common maritime challenge: the paper-based Proof of Deliveries. Uncover how digital solutions can streamline processes, cut down delays, and foster a win-win outcome for all stakeholders involved.
 
-### **Role Requirements and Opportunities**
-### 
 With a background in product design and logistics, Naazira sheds light on the immense potential the maritime industry holds for individuals with a design background. Discover how design thinking is instrumental in driving the industry towards a smarter and more eco-friendly frontier.
 
 Intrigued to learn more? Set sail to other episodes of **Make A Splash** and explore diverse maritime professions that are steering the industry into a new era
 
+| Job Role | Brief Descrption | &nbsp; |
+| --- | --- | --- |
+| [Assistant / Technical Superintendent](https://www.maritimesgconnect.com/job-detail/85KQ8OX6W8XJT5A6Y1A3) | You will oversee vessel maintenance and operations ensuring safety, minimal downtime, and adherence to regulations. Additionally, you'll manage inventories, supervise repairs, provide technical support in emergencies, handle budgeting for assigned vessels, and assist in the training and evaluation of onboard engineers and crew, while ensuring compliance with audits and legislation. | &nbsp; |
+| [Technical Support Specialist](https://www.maritimesgconnect.com/job-detail/0HW96DUQIKN3QTH9R6N1) | As a Technical Support Specialist, you'll provide real-time support to internal and external customers, improving response times and offering pre-sales support to sales teams, thereby enhancing StormGeo's brand image in technology. Additionally, you'll mentor local teams to foster their technical expertise. | &nbsp; |
+| [Technical Superintendent](https://www.maritimesgconnect.com/job-detail/IJDDDJFEBXHCMU3E5I39) | You'll ensure vessels meet technical standards and performance, maintain their certification, and implement the company’s maintenance system. Additionally, you'll manage class and statutory surveys, dry-dockings, repairs, and crew performance, oversee the vessels' technical budget, and handle other assigned tasks. |
 
-
+[APPLY TODAY](https://www.maritimesgconnect.com/job-listing?keyword=Technical%20Executive&amp;jobfunction=)
