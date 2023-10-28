@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Trailer.md
-      - Gianna/Episode 1.md
+      - Gianna/Meet Gianna.md
       - Gianna/.keep
       - Gianna/Gladys Journey.md
       - Selvam/.keep
