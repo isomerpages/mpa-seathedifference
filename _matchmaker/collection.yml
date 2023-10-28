@@ -2,7 +2,7 @@ collections:
   matchmaker:
     output: true
     order:
-      - Full Film.md
+      - Trailer.md
       - Gianna/.keep
       - Gianna/Gladys See.md
       - Selvam/.keep
