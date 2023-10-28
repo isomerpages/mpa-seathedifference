@@ -4,7 +4,6 @@ permalink: /shore-or-not/mythdebunked/
 description: ""
 ---
 #### Maritime Singapore is a global trade powerhouse, often misunderstood as just about ship-handling. These myths mask its diverse opportunities and vibrant career paths. Whether eyeing a career switch or just curious, let's embark on a voyage to unveil its dynamic essence.
-<br>
 
 <img border="0" alt="1" src="https://i.ibb.co/V9TSsnN/1.png">
 <br>
