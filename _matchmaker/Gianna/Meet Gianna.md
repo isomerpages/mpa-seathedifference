@@ -9,18 +9,18 @@ third_nav_title: Gianna
 
 **In a whirlwind of fate, coffee mix-ups, and insightful conversations, Gianna, a young professional feeling out of place in her first job, encounters Gloria, a well-traveled, experienced individual in the maritime industry. Over a forgotten book titled IKIGAI, the two delve into the hidden depths of the maritime sector.**
 
-### <center>MEET GIANNA
+### <p></p><center>MEET GIANNA</center><p>
 <img border="0" alt="2" src="https://i.ibb.co/GTDFLDh/2.jpg">
 
 A disillusioned young business executive finds herself at a professional crossroad, ensnared in a cycle of stagnation that veils her path to self-fulfillment and ikigai. The past years have been a monochrome of limited growth, while her ambitions color her dreams with the promise of broader horizons in her career trajectory.
 
  A mix-up at a local coffee shop intertwines her path with Gloria, a seasoned maritime professional whose journeys have mapped the contours of the open sea. Their conversation flutters around a forgotten book on ‘IKIGAI’, left behind on the cafe table. As the maritime world unfurls through Gloria's tales, Gianna finds herself voyaging through stories of individuals like Gladys See.
 
-### <p></p><center>INSPIRED BY REAL PEOPLE</center><p></p>
+### </p><p></p><center>INSPIRED BY REAL PEOPLE</center><p></p>
 
 <img border="0" alt="1" src="https://i.ibb.co/WvWgNhw/1.png">
 
 Meet Gladys See, a shipbroker at Howe Robinson Partners. Gladys See's career transition showcases the potential of diversifying one's professional horizon. Initially rooted in the Food &amp; Beverage and marketing domains, her venture into the maritime sector broke traditional molds. The analytical and networking capabilities acquired from her previous endeavors became invaluable assets, setting her apart in her newfound maritime journey.
 <br>
 
-[See Gladys Journey Here]()</center>
+[See Gladys Journey Here]()
