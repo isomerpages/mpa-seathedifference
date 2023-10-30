@@ -4,10 +4,12 @@ permalink: /maritime-singapore/sustainability/opportunities/
 description: ""
 third_nav_title: Sustainability
 ---
-## Be part of something something 2030 targets
+## Be part of helping Singapore achieve net zero emissions by 2030
+Climate change is undoubtedly one of the most pressing issue of our&nbsp;generation. Sustainability is taking care of the way resources are being used so that the needs of our future generations can continue to be met. With Singapore being one of the world’s busiest ports, it plays an important role in ensuring environmental responsibility is at the forefront of maritime operations.
+
 
 ### Sustainability is great! 
-Play a pivotal role in shaping the future of Singapore's maritime sector. With the city-state's strategic location as one of the world's busiest ports, it is imperative that environmental responsibility is at the forefront of maritime operations. In essence, sustainability roles in the maritime industry are not just a necessity, but a strategic imperative for Singapore's continued success in the global shipping landscape.
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="314" width="840" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FMPA.SG%2Fvideos%2F355910216074315%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
 
 #### Some jobs in this area include 
 
