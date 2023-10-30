@@ -26,5 +26,3 @@ MPA’s vessel traffic operators are the true unsung heroes. They work tirelessl
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
-
-
