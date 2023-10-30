@@ -24,5 +24,3 @@ third_nav_title: Maritime Services
 
 ##### Ship Charterer
 * The Ship Charterer supports the organisation's chartering operations by liaising with ship-owners, traders, or charterers through a shipbroker to ensure that ships deliver the cargo safely in the most cost-effective manner. He/She also supports client account management by addressing issues arising in the pre- and post-fixture process.
-
-
