@@ -7,16 +7,13 @@ third_nav_title: Digitalisation
 ### Passionate about data and technology innovation? 
 As one of the world's leading maritime hubs, Singapore recognises the transformative power of digital technologies in enhancing efficiency, safety, and sustainability across the entire maritime supply chain. Digitalisation roles encompass areas such as data analytics, IoT integration, blockchain, and autonomous shipping systems. These technologies enable real-time tracking, predictive maintenance, and streamlined logistics, thus optimising operations and reducing costs. Moreover, in a post-pandemic world, digitalisation plays a crucial role in enabling remote operations and data-driven decision-making. 
 
-### What do maritime data scientists do?
+### What do Maritime Data Scientists do? Zheng Yang shares more
+As a Maritime Data Scientist, Zheng Yang helps the industry unlock the most energy efficient ways to get their ships from point-to-point, and reducing their carbon emissions through data-driven solutions. 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/8wTYE-d1NYc?si=5YxxuhAlzi9UgfB1" height="480" width="854"></iframe>
 
-
-#### Some roles in digitalisation include... 
-##### [Vessel Traffic Officer](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=vessel#/JobDescription/13561653/ddd35890-ad03-1eee-98ac-2efc816b00b3)
-* Using state of the art Vessel Traffic Information System (VTIS), our Vessel Traffic Officers play a vital role in managing busy port traffic for the safe and efficient navigation of vessels transiting through the Singapore Strait.
-
-##### [Data Scientist/Analyst](https://www.maritimesgconnect.com/article-detail/conversations-with-a-maritime-data-scientist)
-* The job scope of a maritime data analyst includes developing and monitoring data processing tools, as well as providing business intelligence solutions in the maritime industry.
+### Meet Shao Wei, a Maritime Data Analyst
+Interested in developing data processing tools to enable maritime companies to make  Develop and monitor data processing tools as well as provide business intelligence solutions os other companies can 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/2e9oMzZHff4?si=hIfrEFNkzvqyzkxE" height="480" width="854"></iframe>
 
 ### Top job listings for you
 
