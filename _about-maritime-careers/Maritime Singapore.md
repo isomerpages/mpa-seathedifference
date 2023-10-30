@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/microsite%20logo.png)
 
-### Home to more tha
+### Home to more than 170 international shipping groups
 Today, Maritime Singapore is home to more than 170 international shipping groups, not only in the traditional container, bulk and tanker sectors but also in the offshore and LNG markets. Besides a high concentration of international shipping groups, Maritime Singapore offers a comprehensive range of both technical and commercial maritime services such as finance, broking, insurance, surveying, legal and arbitration. 
 
 Located at the heart of the East-West trade routes along the Straits of Malacca and Singapore, Singapore is a natural gateway to many major growth economies as well as the world’s largest commodity consumers and producers.
