@@ -21,7 +21,7 @@ sections:
         - title: Career Opportunities
           description: Start your maritime journey
           url: ""
-      background: /images/Homepage Banners/untitled design.png
+      background: /images/Homepage Banners/noname.png
       variant: center
       button: Find out what Maritime has to offer
   - infopic:
