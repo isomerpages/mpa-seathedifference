@@ -22,7 +22,6 @@ sections:
           description: Start your maritime journey
           url: ""
       background: /images/Homepage Banners/untitled design.png
-      title: Sea The Difference
       variant: center
       button: Find out what Maritime has to offer
   - infopic:
@@ -56,7 +55,7 @@ sections:
       alt: Shore or Not
   - infobar:
       title: Sea the Difference
-      description: "Use this section for the contest? "
+      description: Use this section for the contest?
       button: DISCOVER HERE
       url: https://www.mpa.gov.sg/home
 ---
