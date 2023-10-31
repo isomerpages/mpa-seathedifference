@@ -23,7 +23,7 @@ sections:
           url: ""
       background: /images/noname.png
       variant: center
-      button: Find out what Maritime has to offer
+      button: Explore Maritime's offerings
   - infopic:
       title: THE MATCHMAKER
       subtitle: Short film series
