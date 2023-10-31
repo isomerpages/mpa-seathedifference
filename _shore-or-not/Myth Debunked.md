@@ -3,8 +3,9 @@ title: Myth Debunked
 permalink: /shore-or-not/mythdebunked/
 description: ""
 ---
-#### Maritime Singapore is a global trade powerhouse, often misunderstood as just about ship-handling. These myths mask its diverse opportunities and vibrant career paths. Whether eyeing a career switch or just curious, let's embark on a voyage to unveil its dynamic essence.
+###### Maritime Singapore is a global trade powerhouse, often misunderstood as just about ship-handling. These myths mask its diverse opportunities and vibrant career paths. Whether eyeing a career switch or just curious, let's embark on a voyage to unveil its dynamic essence.
 
+##### Is Maritime Singapore solely about ship handling and physical labour?
 <img border="0" alt="1" src="https://i.ibb.co/V9TSsnN/1.png">
 <br>
 
@@ -12,7 +13,7 @@ description: ""
 <br>
 <img border="0" alt="2" src="https://i.ibb.co/s6x4vc1/2.png">
 	
-##### While there are roles such as seafaring that involve long voyages and require you to be on board, many positions in Maritime Singapore are shore-based, offering a work-life balance similar to other industries.
+### While there are roles such as seafaring that involve long voyages and require you to be on board, many positions in Maritime Singapore are shore-based, offering a work-life balance similar to other industries.
 <br>
 <img border="0" alt="4" src="https://i.ibb.co/CnfVtF6/4.png">
 
