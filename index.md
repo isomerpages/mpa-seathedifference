@@ -2,7 +2,7 @@
 layout: homepage
 title: Sea the Difference
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/maritime_and_port_authority_of_singapore_(logo).png
 permalink: /
 notification: ""
 sections:
