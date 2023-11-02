@@ -39,23 +39,23 @@ sections:
       button: Coming Soon
       alt: Image alt text
       subtitle: explore jobs in maritime
-      description: "Dive into 'Make a Splash': Joakim Gomez explores modern maritime.
-        Steering vessels to embracing tech, it's a journey of innovation and the
-        future."
+      description: "Dive in and 'Make a Splash': Joakim Gomez explores modern
+        maritime. From steering vessels to embracing tech, it's a journey of
+        innovation and the future."
       url: Make A Splash
       image: /images/mpa_shore or not_kv_1200x630_3oct23-2 (1).jpg
   - infopic:
       title: SHORE OR NOT?
       subtitle: Street Interviews
       button: Coming soon
-      description: Join Joakim Gomez on Singapore's streets, as he quizzes strangers
-        on maritime misconceptions.
+      description: What are some common misconceptions about maritime? Join Joakim
+        Gomez, as he hits Singapore's streets to find out.
       image: /images/mpa_shore or not_kv_1200x630_3oct23-2 (1).jpg
       url: https://www.seathedifference.gov.sg/shore-or-not-full-series/
       alt: Shore or Not
   - infobar:
-      title: Sea the Difference
-      description: Use this section for the contest?
+      title: Sea the Difference?
+      description: Find out about more about maritime careers here
       button: DISCOVER HERE
       url: https://www.mpa.gov.sg/home
 ---
