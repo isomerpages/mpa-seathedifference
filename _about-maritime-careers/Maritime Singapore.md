@@ -2,8 +2,9 @@
 title: Maritime Singapore
 permalink: /maritime-singapore/
 description: ""
+variant: markdown
 ---
-![](/images/microsite%20logo.png)
+![](/images/Homepage%20Banners/maritime%20std-kv%20795x380-04.jpg)
 
 ### Home to more than 170 international shipping groups
 Today, Maritime Singapore is home to more than 170 international shipping groups, not only in the traditional container, bulk and tanker sectors but also in the offshore and LNG markets. Besides a high concentration of international shipping groups, Maritime Singapore offers a comprehensive range of both technical and commercial maritime services such as finance, broking, insurance, surveying, legal and arbitration. 
