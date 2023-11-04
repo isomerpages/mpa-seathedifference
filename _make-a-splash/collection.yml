@@ -2,6 +2,7 @@ collections:
   make-a-splash:
     output: true
     order:
+      - A day in life of.md
       - EcoTech Voyage.md
       - SeaTech Secrets.md
       - Waterway Watcher.md
