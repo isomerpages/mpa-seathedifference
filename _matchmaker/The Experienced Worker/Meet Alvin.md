@@ -9,8 +9,8 @@ third_nav_title: The Experienced Worker
 
 **In a whirlwind of fate, coffee mix-ups, and insightful conversations, Gianna, a young professional feeling out of place in her first job, encounters Gloria, a well-traveled, experienced individual in the maritime industry. Over a forgotten book titled IKIGAI, the two delve into the hidden depths of the maritime sector.**
 
-### MEET GIANNA
-<img border="0" alt="2" src="https://i.ibb.co/GTDFLDh/2.jpg">
+### MEET ALVIN
+<img border="0" alt="1" src="https://i.ibb.co/12TC1YD/1.png">
 
 A disillusioned young business executive finds herself at a professional crossroad, ensnared in a cycle of stagnation that veils her path to self-fulfillment and ikigai. The past years have been a monochrome of limited growth, while her ambitions color her dreams with the promise of broader horizons in her career trajectory.
 
@@ -18,9 +18,6 @@ A disillusioned young business executive finds herself at a professional crossro
 
 ### INSPIRED BY REAL PEOPLE
 
-<img border="0" alt="1" src="https://i.ibb.co/WvWgNhw/1.png">
+<img border="0" alt="2" src="https://i.ibb.co/5c04nvj/2.png">
 
 Meet Gladys See, a shipbroker at Howe Robinson Partners. Gladys See's career transition showcases the potential of diversifying one's professional horizon. Initially rooted in the Food &amp; Beverage and marketing domains, her venture into the maritime sector broke traditional molds. The analytical and networking capabilities acquired from her previous endeavors became invaluable assets, setting her apart in her newfound maritime journey.
-<br>
-
-[See Gladys Journey Here]()
