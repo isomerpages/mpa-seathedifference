@@ -20,4 +20,3 @@ One day, a quirky ad leads him to Gloria, a maritime veteran with a whimsy for t
 
 <img border="0" alt="2" src="https://i.ibb.co/H7bcTj2/2.png">
 
-Meet Gladys See, a shipbroker at Howe Robinson Partners. Gladys See's career transition showcases the potential of diversifying one's professional horizon. Initially rooted in the Food &amp; Beverage and marketing domains, her venture into the maritime sector broke traditional molds. The analytical and networking capabilities acquired from her previous endeavors became invaluable assets, setting her apart in her newfound maritime journey.
