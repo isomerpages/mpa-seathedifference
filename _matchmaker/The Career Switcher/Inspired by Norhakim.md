@@ -6,7 +6,7 @@ image: /images/microsite logo.png
 third_nav_title: The Career Switcher
 variant: markdown
 ---
-<img border="0" alt="Norhakim" src="https://i.ibb.co/60tMLrC/Norhakim.png">
+<img border="0" alt="Norhakim" src="https://i.ibb.co/VgpJ85S/Norhakim.png">
 
 The maritime sector is a vast expanse that beckons the curious and the innovative. Our tale weaves through the lives of Michael, a high-flying senior flight attendant with a keen interest in technology, and Norhakim, a seafarer who harnessed his maritime experience to address vessel-port communication challenges through digital solutions.
 
