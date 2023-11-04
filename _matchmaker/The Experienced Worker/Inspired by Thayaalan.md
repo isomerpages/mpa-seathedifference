@@ -6,7 +6,7 @@ image: /images/microsite logo.png
 third_nav_title: The Experienced Worker
 variant: markdown
 ---
-<img border="0" alt="Dylan" src="https://i.ibb.co/sg1Nmx3/Dylan.png">
+<img border="0" alt="Dylan" src="https://i.ibb.co/ws8N8ng/Dylan.png">
 
 Navigating Through Change: The maritime sector casts a wide net, offering a harbor of opportunities not only to those with sea legs but also to individuals from various backgrounds. Here, we parallel the stories of Richard, a seasoned professional facing an unexpected career storm, and Dylan, a former army regular who charted a new course in maritime.
 
