@@ -4,7 +4,8 @@ permalink: /make-a-splash/journey-highlights/
 variant: markdown
 description: ""
 ---
-### **Journey Highlights:**
+### **A day in life with Naazira**
+
 <img border="0" alt="1" src="https://i.ibb.co/6NGxrFk/1.jpg">
 <br>
 Naazira sharing her trailblazing work on Digital Electric Vehicles and maritime digital logistics, aimed at making sea-bound deliveries as efficient as a click of a button.
