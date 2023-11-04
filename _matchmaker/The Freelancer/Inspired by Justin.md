@@ -6,7 +6,7 @@ image: /images/microsite logo.png
 third_nav_title: The Freelancer
 variant: markdown
 ---
-<img border="0" alt="Justin" src="https://i.ibb.co/qDYbrYd/Justin.png">
+<img border="0" alt="Justin" src="https://i.ibb.co/JCzN055/Justin.png">
 
 The maritime sector isn't just about navigating the vast oceans; it's also about navigating the vast potential of technology. Here, we share the stories of Selvam, a creative mind yearning for stability, and Justin Chua, a tech aficionado who found his calling in maritime technology.
 
