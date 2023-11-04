@@ -17,3 +17,5 @@ Naazira sharing her trailblazing work on Digital Electric Vehicles and maritime 
 Naazira and Joakim in a design sprint addressing a common maritime challenge: the paper-based Proof of Deliveries. Uncover how digital solutions can streamline processes, cut down delays, and foster a win-win outcome for all stakeholders involved.
 
 With a background in product design and logistics, Naazira sheds light on the immense potential the maritime industry holds for individuals with a design background. Discover how design thinking is instrumental in driving the industry towards a smarter and more eco-friendly frontier.
+
+### **A day in life with Syakir**
