@@ -3,16 +3,15 @@ title: Hydrographic Surveyor
 permalink: /make-a-splash-full-series/hydrographic-surveyor/
 description: ""
 image: /images/maritime_and_port_authority_of_singapore_(logo).png
-variant: tiptap
+variant: markdown
 ---
-![](/images/mpa_shore%20or%20not_kv_1200x630_3oct23-2%20(1).jpg)
-
+##### Join Joakim Gomez as he sails the Singapore waters with Syakir Taib, a Technical Executive at the Maritime and Port Authority of Singapore, in the second episode of Make A Splash. Discover the unseen depths of maritime navigation and the pivotal role of hydrography in ensuring safe voyages, one sonar wave at a time.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="315" width="560"></iframe>
 
-##### Dive into the intricate world of underwater surveys with Syakir, Senior Technical Executive in Hydrography at MPA. Through detailed surveys, Syakir ensures ships safely navigate Singapore's bustling ports. Discover the blend of technology and marine know-how as we follow him using advanced equipment like multibeam systems and ROVs. From unveiling secrets of the seabed, updating navigational charts, to his department's symbiotic relationship with cartography, we'll get an immersive view into the dynamic waters of Singapore. Whether it's detecting tiny objects underwater or navigating through a digitized age in hydrography, Syakir represents the evolving maritime landscape. 
+Dive into the intricate world of underwater surveys with Syakir, Senior Technical Executive in Hydrography at MPA. Through detailed surveys, Syakir ensures ships safely navigate Singapore's bustling ports. Discover the blend of technology and marine know-how as we follow him using advanced equipment like multibeam systems and ROVs. 
 
-##### Join us as we plunge into the depths of maritime hydrography, witnessing the balance of technology, teamwork, and the ceaseless dedication to safe navigation.
+From unveiling secrets of the seabed, updating navigational charts, to his department's symbiotic relationship with cartography, we'll get an immersive view into the dynamic waters of Singapore. Whether it's detecting tiny objects underwater or navigating through a digitized age in hydrography, Syakir represents the evolving maritime landscape. 
 
 <br>
 <br>
