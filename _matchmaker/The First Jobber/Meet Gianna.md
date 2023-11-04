@@ -4,7 +4,7 @@ permalink: /matchmaker/gianna/episode-1/
 description: ""
 image: /images/microsite logo.png
 third_nav_title: The First Jobber
-variant: tiptap
+variant: markdown
 ---
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="385" width="100%"></iframe>
 
@@ -22,6 +22,3 @@ A disillusioned young business executive finds herself at a professional crossro
 <img border="0" alt="1" src="https://i.ibb.co/WvWgNhw/1.png">
 
 Meet Gladys See, a shipbroker at Howe Robinson Partners. Gladys See's career transition showcases the potential of diversifying one's professional horizon. Initially rooted in the Food &amp; Beverage and marketing domains, her venture into the maritime sector broke traditional molds. The analytical and networking capabilities acquired from her previous endeavors became invaluable assets, setting her apart in her newfound maritime journey.
-<br>
-
-[See Gladys Journey Here]()
