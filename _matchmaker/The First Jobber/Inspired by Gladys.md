@@ -4,7 +4,7 @@ permalink: /matchmaker/gladys/
 description: ""
 image: /images/microsite logo.png
 third_nav_title: The First Jobber
-variant: tiptap
+variant: markdown
 ---
 <img border="0" alt="Gladys" src="https://i.ibb.co/SBjXFht/Gladys.png">
 
@@ -21,5 +21,3 @@ Gianna, feeling stuck in her corporate job, finds hope and inspiration in the ma
 #### Connecting Dreams
 
 The maritime industry can be a starting point for different individuals, whether you're looking for a fresh start or a new adventure. Their journeys highlight the variety of opportunities waiting for anyone ready to explore new waters.
-
-[Catch the next episode here]()
