@@ -2,7 +2,7 @@ collections:
   matchmaker:
     output: true
     order:
-      - Trailer.md
+      - Short Film Series.md
       - Gianna/Meet Gianna.md
       - Gianna/.keep
       - Gianna/Gladys Journey.md
