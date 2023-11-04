@@ -2,6 +2,7 @@ collections:
   make-a-splash:
     output: true
     order:
+      - Behind The Scenes.md
       - A Day In Life Of.md
       - Design Engineer.md
       - Hydrographic Surveyor.md
