@@ -6,7 +6,7 @@ variant: markdown
 ---
 ##### Join Joakim Gomez as he sails the Singapore waters with Tan Yong Gang, a Technical Executive at the Maritime and Port Authority of Singapore, in the final episode of Make A Splash. 
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="385" width="100%"></iframe>
 
 Dive into the intricate world of underwater surveys with Syakir, Senior Technical Executive in Hydrography at MPA. Through detailed surveys, Syakir ensures ships safely navigate Singapore's bustling ports. Discover the blend of technology and marine know-how as we follow him using advanced equipment like multibeam systems and ROVs. 
 
