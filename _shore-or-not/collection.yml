@@ -2,6 +2,7 @@ collections:
   shore-or-not:
     output: true
     order:
+      - Public Perspectives.md
       - Professional Insights.md
       - Student Voices.md
       - Street Interviews.md
