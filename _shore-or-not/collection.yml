@@ -2,9 +2,9 @@ collections:
   shore-or-not:
     output: true
     order:
+      - Street Interviews.md
+      - Student Voices.md
       - Public Perspectives.md
       - Professional Insights.md
-      - Student Voices.md
-      - Street Interviews.md
       - Full Episodes.md
       - True or False?.md
