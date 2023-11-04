@@ -14,8 +14,8 @@ The maritime sector isn't just about navigating the vast oceans; it's also about
 
 Selvam, a freelancer hopping from one gig to another, sought a full-time venture where his creativity could flourish. The maritime industry, with its embrace of technology, became the vessel carrying his aspirations towards a stable yet inventive future.
 
-##### Justin Chua: Coding the Maritime Future 
-Justin transitioned from a freelance realm to a full-time maritime tech professional, where his code now contributes to innovative solutions. His story is a reflection of how maritime welcomes tech enthusiasts to contribute to its modernization.
+##### Justin Chua: Propelling the Maritime Future 
+Justin transitioned from a freelance realm to a full-time maritime tech professional, where his experiences now contributes to innovative solutions. His story is a reflection of how maritime welcomes tech enthusiasts to contribute to its modernization.
 
 ##### Bridging Waves with Technology: 
-The maritime industry serves as a vast ocean where tech-driven minds like Selvam and Justin can sail towards fulfilling careers. Their stories symbolize the industry's openness to diverse skills, with technology acting as the bridge connecting creative and analytical minds to real-world maritime solutions. Whether you are a creator like Selvam or a coder like Justin, the maritime domain is wide open, ready to harness the synergy of technology and creativity for a modernized voyage ahead.
+The maritime industry serves as a vast ocean where tech-driven minds like Selvam and Justin can sail towards fulfilling careers. Their stories symbolize the industry's openness to diverse skills, with technology acting as the bridge connecting creative and analytical minds to real-world maritime solutions. Whether you are a creator like Selvam or Justin, the maritime domain is wide open, ready to harness the synergy of technology and creativity for a modernized voyage ahead.
