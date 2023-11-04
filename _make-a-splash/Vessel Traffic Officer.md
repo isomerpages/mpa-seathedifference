@@ -4,13 +4,13 @@ permalink: /make-a-splash/vessel-traffic-officer/
 description: ""
 variant: markdown
 ---
-##### Join Joakim Gomez as he sails the Singapore waters with Tan Yong Gang, a Technical Executive at the Maritime and Port Authority of Singapore, in the final episode of Make A Splash. 
+##### JJoin Joakim Gomez in the final episode of Make A Splash, unravel the crucial role of ensuring safe vessel navigation amidst the bustling maritime traffic of the Singapore Strait.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="385" width="100%"></iframe>
 
-Dive into the intricate world of underwater surveys with Syakir, Senior Technical Executive in Hydrography at MPA. Through detailed surveys, Syakir ensures ships safely navigate Singapore's bustling ports. Discover the blend of technology and marine know-how as we follow him using advanced equipment like multibeam systems and ROVs. 
+Embark on a voyage of discovery with Yong Gang, a former Navy regular turned Vessel Traffic Officer, orchestrating the safe passage of vessels through the bustling Singapore Strait. Under his vigilant eye and clear communication, ships navigate safely amidst high traffic intensity and complex navigational conditions.
 
-From unveiling secrets of the seabed, updating navigational charts, to his department's symbiotic relationship with cartography, we'll get an immersive view into the dynamic waters of Singapore. Whether it's detecting tiny objects underwater or navigating through a digitized age in hydrography, Syakir represents the evolving maritime landscape. 
+With Joakim as his trainee, Yong Gang unveils the intricacies of maritime radio communication and the demanding yet rewarding role of a Vessel Traffic Officer. Through rigorous training sessions, role-play scenarios, and real-time challenges, Joakim gets a taste of the decisive actions required to prevent "close quarters situations" - potential collisions in the maritime language.
 
 Intrigued to learn more? Set sail to other episodes of&nbsp;**Make A Splash**&nbsp;and explore diverse maritime professions that are steering the industry into a new era
 
