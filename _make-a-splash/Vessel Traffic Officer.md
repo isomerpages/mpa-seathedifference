@@ -4,7 +4,7 @@ permalink: /make-a-splash/vessel-traffic-officer/
 description: ""
 variant: markdown
 ---
-##### JJoin Joakim Gomez in the final episode of Make A Splash, unravel the crucial role of ensuring safe vessel navigation amidst the bustling maritime traffic of the Singapore Strait.
+##### Join Joakim Gomez in the final episode of Make A Splash, unravel the crucial role of ensuring safe vessel navigation amidst the bustling maritime traffic of the Singapore Strait.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="385" width="100%"></iframe>
 
