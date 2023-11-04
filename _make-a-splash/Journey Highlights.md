@@ -20,4 +20,15 @@ With a background in product design and logistics, Naazira sheds light on the im
 
 ### **A day in life with Syakir**
 
+<img border="0" alt="3" src="https://i.ibb.co/YP5qW4B/3.png">
+<img border="0" alt="2" src="https://i.ibb.co/MgmRpj3/2.png">
+
+A mix of excitement and focus envelops Joakim as he gets hands-on experience operating the USV under Syakir’s guidance.
+
+<a href="https://ibb.co/GRh6kLq"><img border="0" alt="1" src="https://i.ibb.co/gJn2wpx/1.png"></a>
+<img border="0" alt="5" src="https://i.ibb.co/g6hT39v/5.png">
+
+Joakim and Syakir are seen conducting a bathymetric survey over the sunken remains of the historic Mano wreck. The ghostly silhouette of the M.V. “Mano No. 11,” which met its tragic fate on 2 Jan 1979 after a fatal collision with the M.T. “Majestic Pride,” looms beneath them as they maneuver their equipment.
+
+
 ### **A day in life with Yong Gang**
