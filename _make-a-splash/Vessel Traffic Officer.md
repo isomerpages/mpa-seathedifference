@@ -4,7 +4,7 @@ permalink: /make-a-splash/vessel-traffic-officer/
 description: ""
 variant: markdown
 ---
-##### Join Joakim Gomez as he sails the Singapore waters with Syakir Taib, a Technical Executive at the Maritime and Port Authority of Singapore, in the second episode of Make A Splash. 
+##### Join Joakim Gomez as he sails the Singapore waters with Tan Yong Gang, a Technical Executive at the Maritime and Port Authority of Singapore, in the final episode of Make A Splash. 
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="315" width="560"></iframe>
 
