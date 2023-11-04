@@ -5,7 +5,7 @@ description: ""
 image: /images/maritime_and_port_authority_of_singapore_(logo).png
 variant: markdown
 ---
-##### Join Joakim Gomez as he sails the Singapore waters with Syakir Taib, a Technical Executive at the Maritime and Port Authority of Singapore, in the second episode of Make A Splash. Discover the unseen depths of maritime navigation and the pivotal role of hydrography in ensuring safe voyages, one sonar wave at a time.
+##### Join Joakim Gomez as he sails the Singapore waters with Syakir Taib, a Technical Executive at the Maritime and Port Authority of Singapore, in the second episode of Make A Splash. 
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="315" width="560"></iframe>
 
