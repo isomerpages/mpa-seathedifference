@@ -7,20 +7,17 @@ third_nav_title: The Career Switcher
 ---
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="385" width="100%"></iframe>
 
-**In a whirlwind of fate, coffee mix-ups, and insightful conversations, Gianna, a young professional feeling out of place in her first job, encounters Gloria, a well-traveled, experienced individual in the maritime industry. Over a forgotten book titled IKIGAI, the two delve into the hidden depths of the maritime sector.**
+**In a serendipitous blend of yoga stretches and casual banter, Michael, a seasoned flight attendant with a flair for tech, crosses paths with Gloria, a maritime veteran with a treasure trove of stories. Amidst the gentle hum of a cooling fan, the two delve into a refreshing dialogue, unearthing the vibrant fusion of technology and tradition in the maritime sector.**
 
-### MEET GIANNA
-<img border="0" alt="2" src="https://i.ibb.co/GTDFLDh/2.jpg">
+### MEET MICHAEL
+<img border="0" alt="3" src="https://i.ibb.co/KmtnTm0/3.png">
 
-A disillusioned young business executive finds herself at a professional crossroad, ensnared in a cycle of stagnation that veils her path to self-fulfillment and ikigai. The past years have been a monochrome of limited growth, while her ambitions color her dreams with the promise of broader horizons in her career trajectory.
+Amid the bustling skies and the transient halls of airports, Michael, a seasoned flight attendant, has sailed the clouds, met faces from every walk of life, and tucked away tales from across the globe. Yet, amidst the routine hum of jet engines, a whisper of curiosity beckons, nudging him towards the unexplored terrains of his tech-savvy essence. The years have flown by, yet the reflections in the window panes echo with a resonance of something more, something awaiting amidst the waves of change.
 
- A mix-up at a local coffee shop intertwines her path with Gloria, a seasoned maritime professional whose journeys have mapped the contours of the open sea. Their conversation flutters around a forgotten book on ‘IKIGAI’, left behind on the cafe table. As the maritime world unfurls through Gloria's tales, Gianna finds herself voyaging through stories of individuals like Gladys See.
+A casual stretch on the yoga mat unfolds the first chapter of a new narrative as Gloria, a maritime maestro with a knack for tech, steps into his frame. Their camaraderie blossoms amidst gentle laughter and shared whims about technology, unfolding a canvas where Michael's tech inklings find a new horizon.
 
 ### INSPIRED BY REAL PEOPLE
 
-<img border="0" alt="1" src="https://i.ibb.co/WvWgNhw/1.png">
+<img border="0" alt="2" src="https://i.ibb.co/cyKv4B4/2.png">
 
-Meet Gladys See, a shipbroker at Howe Robinson Partners. Gladys See's career transition showcases the potential of diversifying one's professional horizon. Initially rooted in the Food &amp; Beverage and marketing domains, her venture into the maritime sector broke traditional molds. The analytical and networking capabilities acquired from her previous endeavors became invaluable assets, setting her apart in her newfound maritime journey.
-<br>
-
-[See Gladys Journey Here]()
+Meet Norhakim, the visionary behind Mascon Technologies, a venture designed to bridge the communication gap between vessels and ports. His narrative unfolds from the deck of commercial oil tankers, where the whispering waves ignited a spark to enhance vessel-port dialogues. Transitioning from a seafarer to a digital navigator, he now steers the helm of Mascon Technologies, awaiting the venture-funded tide to propel his maritime-focused startup into the digital horizon.
