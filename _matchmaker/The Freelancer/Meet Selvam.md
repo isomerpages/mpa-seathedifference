@@ -20,3 +20,4 @@ One day, a quirky ad leads him to Gloria, a maritime veteran with a whimsy for t
 
 <img border="0" alt="2" src="https://i.ibb.co/H7bcTj2/2.png">
 
+Meet Justin Chua, an applications and operations specialist at eLSA. Transitioning from various gig jobs to a structured role in maritime, Justin found a realm where his artistic flair meets the logical core of maritime operations. His journey, punctuated with continuous learning and mentoring in a novel field, reflects the dynamic opportunities within maritime, especially for those with unconventional backgrounds. 
