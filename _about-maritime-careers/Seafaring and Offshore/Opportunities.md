@@ -24,7 +24,6 @@ The job scope of a deck officer includes ensuring safe navigation of the ship, p
 
 | Job Title | Apply by | How to Apply |
 | -------- | -------- | -------- |
-| Special Limit COC Class 4 Deck Officer | 8 Oct | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/FQD10317F3P6KSK0JDO7) |
 | Surveyors | 16 Oct |[MyCareersFuture](https://www.mycareersfuture.gov.sg/job/engineering/land-surveyor-united-surveyors-91e623dae9d54ec09ec6a2b18d6027e3) |
 | Technical Superintendent | 31 Dec | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/85KQ8OX6W8XJT5A6Y1A3) |
 | Marine Superintendents | 31 Dec |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/90PNUFPU6LQPUG8XXP19) |
