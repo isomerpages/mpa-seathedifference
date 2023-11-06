@@ -10,6 +10,9 @@ Tripartite Maritime Scholarship
 ===============================
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5ki-9aeWgfA?si=4-fFWCazthdRl7NB" height="315" width="560"></iframe>
 
+### Watch the MaritimeONE and TMSS Scholarships Awards Ceremony 2022
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/EE5BCJq0QW8?si=4znKeQg7E4Gt1hv8" height="315" width="560"></iframe>
+
 **Your first step towards a career at sea…**
 
 The Tripartite Maritime Scholarship (TMSS) offers an opportunity to jump-start your seafaring career. This scholarship, sponsored by the Maritime and Port Authority of Singapore (MPA), the Singapore Maritime Officers’ Union (SMOU), the Singapore Organisation of Seamen (SOS) and shipping companies, grooms promising students to become Ship Captains or Chief Engineers of ocean-going merchant ships and to be future leaders of Singapore’s maritime industry.
