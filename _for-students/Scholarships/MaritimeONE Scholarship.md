@@ -4,11 +4,11 @@ permalink: /scholarships/maritimeone-scholarship/
 description: ""
 image: /images/maritime_and_port_authority_of_singapore_(logo).png
 third_nav_title: Scholarships
+variant: markdown
 ---
 MaritimeONE Scholarship
 =======================
 
-![MaritimeOne-Scholarship-1](https://www.mpa.gov.sg/images/mpalibraries/mpa-library/events-careers/maritime-careers/maritimeone-scholarship-1.png?sfvrsn=e7a679a_2 "MaritimeOne-Scholarship-1")
 
 The MaritimeONE scholarship and other maritime-related scholarships for students interested in working in the maritime industry.
 
