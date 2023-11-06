@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Maritime Services
 variant: markdown
 ---
-### Charting a Course in Marine Services
+## Charting a Course in Marine Services
 
 Marine services careers offer diverse opportunities in ship financing, maritime law, ship broking and ship chartering. Whether ensuring safe navigation or contributing to global trade, these roles provide an exciting and impactful career path. Join this dynamic industry and set sail on a fulfilling journey in the world of marine services.
 
