@@ -3,12 +3,13 @@ title: More Resources
 permalink: /maritime-singapore/maritime-services/more-resources/
 description: ""
 third_nav_title: Maritime Services
+variant: markdown
 ---
 ### Life of a Marine Insurance Broker
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/R2tgSThQGyw?si=fDrpJmGUJbXGQO7c" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/R2tgSThQGyw?si=fDrpJmGUJbXGQO7c" height="480" width="854"></iframe>
 
 ### Financial, legal, insurance services in the spotlight
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/IBpiwcBhYJ4?si=5rQT_kzxFsXeRX0I" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/IBpiwcBhYJ4?si=5rQT_kzxFsXeRX0I" height="480" width="854"></iframe>
   
 
 ### Recent related content
