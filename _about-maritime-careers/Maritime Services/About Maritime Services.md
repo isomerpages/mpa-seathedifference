@@ -3,19 +3,19 @@ title: About Maritime Services
 permalink: /maritime-singapore/maritime-services/about/
 description: ""
 third_nav_title: Maritime Services
-variant: tiptap
+variant: markdown
 ---
-### think of catchy title
+### Charting a Course in Marine Services
 
-Maritime services encompass a wide range of functions, from (need to rewrite this - this is for maritime services, not marine services)
+Marine services careers offer diverse opportunities in ship financing, maritime law, ship broking and ship chartering. Whether ensuring safe navigation or contributing to global trade, these roles provide an exciting and impactful career path. Join this dynamic industry and set sail on a fulfilling journey in the world of marine services.
 
 #### Chih Chwen, Ship Financier
 As a ship financier, CC works closely with his clients to work out the best debt or equity solutions in the buying and selling of ships. This not only requires him to be analytical and attentive to geopolitical changes but also to exercise great interpersonal skills when cutting out high-stakes deals with clients.
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Se3Xy8XhMyg?si=FjZdn4LeFDlO5hT8" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Se3Xy8XhMyg?si=FjZdn4LeFDlO5hT8" height="480" width="854"></iframe>
 
 #### Maritime Lawyer 
 From disputes to ship collisions, ship arrests and facilitating financing deals, Fahmy ensures justice is served to the letter of maritime law. In an ever-changing industry, where disputes are common and minutes make a difference, he advises clients on the best course of action
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/43vB98x66jg?si=EN-pEGmAfY_xWvjX" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/43vB98x66jg?si=EN-pEGmAfY_xWvjX" height="480" width="854"></iframe>
 
  <hr>
 
