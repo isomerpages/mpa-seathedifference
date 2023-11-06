@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - MPA Internships/.keep
       - Scholarships/MPA Scholarships.md
       - Scholarships/.keep
       - Scholarships/MaritimeONE Scholarship.md
