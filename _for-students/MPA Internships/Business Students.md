@@ -17,4 +17,4 @@ some generic text first?
 
 More details can be found here (insert PDF)
 
-Submit your CV [here](go.gov.sg/mpa-internships-application) to apply! 
+Submit your CV [here](go.gov.sg/mpa-internships-application) to apply!
