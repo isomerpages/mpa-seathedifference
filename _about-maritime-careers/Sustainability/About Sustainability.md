@@ -10,6 +10,10 @@ Climate change is undoubtedly one of the most pressing issue of our&nbsp;generat
 
 
 ### Why is sustainablity important?
+Climate change is undoubtedly one of the most pressing issue of our generation.
+
+Let’s hear from MPA&nbsp;Chief Sustainability Officer Er. Tham Wai Wah as well as staff involved in the Tuas Port project about how&nbsp;MaritimeSG&nbsp;is tackling the threat of&nbsp;climate change, to create a greener and more&nbsp;sustainable future for the&nbsp;maritime&nbsp;sector.
+
 <iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="480" width="854" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FMPA.SG%2Fvideos%2F355910216074315%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
 
 #### Some jobs in this area include 
