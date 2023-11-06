@@ -13,4 +13,4 @@ Maritime 5G coverage is coming! MPA Director for Port Systems, Dennis, shares ho
 In this video, we look at what are some of the challenges faced in the industry when it comes to ship delivery process, port operations and bunkering services, as well as the concerns in maritime sustainability, security and safety.
 
 [](https://www.youtube.com/@MPASingaporeOfficial)
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/_xRJdQoMkJc?si=cf-23LpCowBfY9_i" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/_xRJdQoMkJc?si=cf-23LpCowBfY9_i" height="480" width="854"></iframe>
