@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Maritime Services
 variant: markdown
 ---
-## Charting a Course in Marine Services
+## Charting a Course in Maritime Services
 
-Marine services careers offer diverse opportunities in ship financing, maritime law, ship broking and ship chartering. Whether ensuring safe navigation or contributing to global trade, these roles provide an exciting and impactful career path. Join this dynamic industry and set sail on a fulfilling journey in the world of marine services.
+Maritime services are essential to the smooth and efficient operation of the global maritime industry - a critical component of international trade and commerce. From managing logistics and supply chains to providing essential services to ships and vessels, this field offers a dynamic and challenging environment that requires adaptability, problem-solving skills, and a commitment to excellence. Working in maritime services means being part of a global network that connects people, goods, and ideas across the world.
 
 #### Chih Chwen, Ship Financier
 As a ship financier, CC works closely with his clients to work out the best debt or equity solutions in the buying and selling of ships. This not only requires him to be analytical and attentive to geopolitical changes but also to exercise great interpersonal skills when cutting out high-stakes deals with clients.
