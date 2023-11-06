@@ -3,8 +3,9 @@ title: About Digitalisation
 permalink: /maritime-singapore/digitalisation/about/
 description: ""
 third_nav_title: Digitalisation
+variant: markdown
 ---
-### Passionate about data and technology innovation? 
+## Passionate about data and technology innovation? 
 As one of the world's leading maritime hubs, Singapore recognises the transformative power of digital technologies in enhancing efficiency, safety, and sustainability across the entire maritime supply chain. Digitalisation roles encompass areas such as data analytics, IoT integration, blockchain, and autonomous shipping systems. These technologies enable real-time tracking, predictive maintenance, and streamlined logistics, thus optimising operations and reducing costs. Moreover, in a post-pandemic world, digitalisation plays a crucial role in enabling remote operations and data-driven decision-making. 
 
 ### What do Maritime Data Scientists do? Zheng Yang shares more
