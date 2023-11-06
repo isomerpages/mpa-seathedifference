@@ -15,7 +15,7 @@ The job scope of a deck officer includes ensuring safe navigation of the ship, p
 
 
 ##### [Marine Engineer Officer](https://www.maritimeone.sg/article-detail/marine-engineer-officer)
-#Add MeetMyMariFam video here	
+#Add New MeetMyMariFam video here	
 
 
  <hr>
@@ -29,11 +29,3 @@ The job scope of a deck officer includes ensuring safe navigation of the ship, p
 | Technical Superintendent | 31 Dec | [MaritimeONE Portal](https://www.maritimeone.sg/job-detail/85KQ8OX6W8XJT5A6Y1A3) |
 | Marine Superintendents | 31 Dec |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/90PNUFPU6LQPUG8XXP19) |
 
-
- 
-### Other related resources
-For aspiring seafarers, read more on obtaining your Certificate of Competency (CoC) or endorsement [here](https://www.mpa.gov.sg/singapore-registry-of-ships/seafarer-training-and-certification/seafarer-certification)
-
-For MPA-recognised training courses, read [here](https://www.mpa.gov.sg/singapore-registry-of-ships/seafarer-training-and-certification/training-courses)
-
-For more information, contact us [here](/contact-us/).
