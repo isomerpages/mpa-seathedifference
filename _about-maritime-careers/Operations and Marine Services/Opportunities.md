@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Operations and Marine Services
 variant: markdown
 ---
-## Ready to Dive Deeper into Our Operations and Marine Services?
-Embark on an exciting career in operations and marine services, where the maritime world meets endless possibilities. Whether you're passionate about logistics, vessel management, or the complex intricacies of maritime operations, this field offers a dynamic and challenging environment. From ensuring smooth port operations to managing vessels, there are diverse roles waiting for you. Join us in shaping the future of the maritime industry and chart a course toward a fulfilling and rewarding career.
+## Looking for a dynamic and challenging role? 
+As one of the busiest straits in the world, Singapore's maritime industry is critical to the global economy. Whether you're passionate about logistics, vessel management, or the complex intricacies of maritime operations, this field offers a dynamic and challenging environment. From ensuring smooth port operations to managing vessels, there are diverse roles waiting for you. 
 
 #### Juliah, Marine Personnel Executive
 With a bubbly personality and passion for people, Crew Personnel Executive, Juliah Mamat manages ship crews all over the world. Discover how she ensures every voyage is smooth-sailing.
