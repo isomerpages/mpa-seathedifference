@@ -4,11 +4,13 @@ permalink: /scholarships/tripartite-maritime-scholarship/
 description: ""
 image: /images/maritime_and_port_authority_of_singapore_(logo).png
 third_nav_title: Scholarships
+variant: markdown
 ---
 Tripartite Maritime Scholarship
 ===============================
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5ki-9aeWgfA?si=4-fFWCazthdRl7NB" height="315" width="560"></iframe>
 
-**Your first step towards a career at sea …**
+**Your first step towards a career at sea…**
 
 The Tripartite Maritime Scholarship (TMSS) offers an opportunity to jump-start your seafaring career. This scholarship, sponsored by the Maritime and Port Authority of Singapore (MPA), the Singapore Maritime Officers’ Union (SMOU), the Singapore Organisation of Seamen (SOS) and shipping companies, grooms promising students to become Ship Captains or Chief Engineers of ocean-going merchant ships and to be future leaders of Singapore’s maritime industry.
 
@@ -36,14 +38,14 @@ For existing students at the Singapore Maritime Academy (SMA)
 
 **APPLICATION FOR TMSS**
 
-• Please [click here](https://form.gov.sg/640ed3eaeb5f8e0011c759d6) to apply.
+• Please&nbsp;[click here](https://form.gov.sg/640ed3eaeb5f8e0011c759d6)&nbsp;to apply.
 
 **TMSS Milestone Achievement Bonuses**
 
-Eligible TMSS scholars who have received their Certificate of Competencies (COC) may request their milestone bonus at this [link](https://form.gov.sg/5da0114f458d72001f8ee0d8). Please take note of the following timelines for disbursement as follows:
+Eligible TMSS scholars who have received their Certificate of Competencies (COC) may request their milestone bonus at this&nbsp;[link](https://form.gov.sg/5da0114f458d72001f8ee0d8). Please take note of the following timelines for disbursement as follows:
 
-• For Certificate of Competencies (COC) attained from Jan to June, please submit the claim form by 15 July to enable disbursement to be made to you by Sep of the same year.
+• For Certificate of Competencies (COC) attained from&nbsp;Jan to June, please submit the claim form by&nbsp;15 July&nbsp;to enable disbursement to be made to you by Sep of the same year.
 
-• For Certificate of Competencies (COC) attained from Jul to Dec, please submit the claim form by 15 January to enable disbursement to be made to you by Mar of the following year.
+• For Certificate of Competencies (COC) attained from&nbsp;Jul to Dec, please submit the claim form by&nbsp;15 January&nbsp;to enable disbursement to be made to you by Mar of the following year.
 
-For enquiries, please email [mhc@mpa.gov.sg](mailto:mhc@mpa.gov.sg) or call +65 6375 1941.
+For enquiries, please email&nbsp;[mhc@mpa.gov.sg](mailto:mhc@mpa.gov.sg)&nbsp;or call +65 6375 1941.
