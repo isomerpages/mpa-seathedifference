@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Scholarships/.keep
-      - Scholarships/MPA Scholarships.md
       - Scholarships/MaritimeONE Scholarship.md
       - Scholarships/Tripartite Maritime Scholarship.md
       - Internships/.keep
