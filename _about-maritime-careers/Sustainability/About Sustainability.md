@@ -3,7 +3,7 @@ title: About Sustainability
 permalink: /maritime-singapore/sustainability/about/
 description: ""
 third_nav_title: Sustainability
-variant: tiptap
+variant: markdown
 ---
 ## Be part of helping Singapore achieve net zero emissions by 2030
 Climate change is undoubtedly one of the most pressing issue of our&nbsp;generation. Sustainability is taking care of the way resources are being used so that the needs of our future generations can continue to be met. With Singapore being one of the world’s busiest ports, it plays an important role in ensuring environmental responsibility is at the forefront of maritime operations.
@@ -14,7 +14,7 @@ Climate change is undoubtedly one of the most pressing issue of our&nbsp;generat
 
 #### Some jobs in this area include 
 
-#### Sustainability Reporting &amp; Promotion Manager
+##### Sustainability Reporting &amp; Promotion Manager
 *  Responsible for the profiling and reporting of sustainability and ESG (environment, social and governance) initiatives, you will also oversee the profiling of sustainability initiatives in the wider maritime sector.
 
 ##### Sustainability Manager
