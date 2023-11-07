@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - MPA Internships/Computing and Analytics.md
-      - MPA Internships/Engineering Students.md
+      - MPA Internships/Engineering.md
       - MPA Internships/Business Students.md
       - MPA Internships/.keep
       - Scholarships/MPA Scholarships.md
