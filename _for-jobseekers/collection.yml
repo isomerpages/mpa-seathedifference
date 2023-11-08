@@ -2,6 +2,7 @@ collections:
   for-jobseekers:
     output: true
     order:
+      - MPA Careers/Operations and Marine Services.md
       - MPA Careers/Sustainability.md
       - MPA Careers/Digitalisation.md
       - MPA Careers/.keep
