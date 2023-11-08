@@ -2,12 +2,12 @@ collections:
   for-jobseekers:
     output: true
     order:
-      - MPA Careers/Corporate.md
-      - MPA Careers/Maritime Services.md
-      - MPA Careers/Operations and Marine Services.md
+      - MPA Careers/.keep
       - MPA Careers/Sustainability.md
       - MPA Careers/Digitalisation.md
-      - MPA Careers/.keep
+      - MPA Careers/Operations and Marine Services.md
+      - MPA Careers/Maritime Services.md
+      - MPA Careers/Corporate.md
       - old MPA Careers.md
       - Maritime Careers.md
       - Career Conversion Programme (CCP).md
