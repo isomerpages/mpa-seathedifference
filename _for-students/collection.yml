@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - MPA Internships/MPA Global Internship Award.md
       - MPA Internships/.keep
       - MPA Internships/Business.md
       - MPA Internships/Computing and Analytics.md
