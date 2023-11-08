@@ -2,7 +2,6 @@ collections:
   for-students:
     output: true
     order:
-      - Internships @ MPA/.keep
       - Internships/MPA Global Internship Award.md
       - Internships/.keep
       - Internships/Business.md
