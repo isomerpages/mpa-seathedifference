@@ -2,6 +2,7 @@ collections:
   for-jobseekers:
     output: true
     order:
+      - MPA Careers/.keep
       - old MPA Careers.md
       - Maritime Careers.md
       - Career Conversion Programme (CCP).md
