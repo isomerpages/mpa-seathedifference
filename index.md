@@ -55,7 +55,7 @@ sections:
       alt: Shore or Not
   - infobar:
       title: Sea the Difference?
-      description: Find out about more about maritime careers here
-      button: DISCOVER HERE
+      description: Ready to start your maritime career journey?
+      button: Start Here
       url: /maritime-singapore
 ---
