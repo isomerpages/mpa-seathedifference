@@ -8,7 +8,7 @@ third_nav_title: MPA Careers
 The Maritime and Port Authority offers a wide scope of job opportunities to individuals who want be part of the team that drives Singapore as a leading international maritime centre and global hub port.
 
 ### Sustainability
-Indicate your interest for any of the jobs below by uploading your CV [here](forms.sg) or clicking on the links below.
+Indicate your interest for any of the jobs below by uploading your CV [here](go.gov.sg/mpa-job-application) or clicking on the links below.
 
 |Job Role | Brief Description | 
 | -------- | -------- | 
