@@ -3,7 +3,7 @@ title: MPA Internships
 permalink: /for-students/mpa-internships/
 description: ""
 third_nav_title: Internships
-variant: tiptap
+variant: markdown
 ---
 ## About MPA Internship
 
