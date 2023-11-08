@@ -5,10 +5,10 @@ variant: markdown
 description: ""
 third_nav_title: MPA Careers
 ---
-The Maritime and Port Authority offers a wide scope of job opportunities to individuals who want be part of the team that drives Singapore as a leading international maritime centre and global hub port.
+One of the most vital roles in keeping the maritime industry moving, operations and marine services roles provide you a dynamic and challenging environment at work. The results are often incredibly satisfying when you manage to ensure a smooth port operation and vessel management.
 
 ### Operations and Marine Services
-Indicate your interest for any of the jobs below by uploading your CV [here](forms.sg) .
+Indicate your interest for any of the jobs below by uploading your CV [here](https://go.gov.sg/mpa-job-application) or clicking on the links below.
 
 |Job Role | Brief Description | 
 | -------- | -------- | 
@@ -18,4 +18,4 @@ Indicate your interest for any of the jobs below by uploading your CV [here](for
 | Marine Investigator | You will join a team of marine professionals conducting inquiries on marine incidents to determine their causes and assess compliance with regulations. You should have a Deck/Motorship Class 1 Certificate of Competency and at least 3 years of experience on ocean-going vessels, along with knowledge of national and international codes and legislation. | 
 | Examiner (Seafarers Skills Upgrading, Certification and Accreditation) | You will join a team managing Singapore's maritime standards, education, and seafarer certification. Requirements include a Class 1 Master Mariner Certificate, 2 years of senior officer experience on ocean-going vessels, and familiarity with IMO/ILO instruments and legislation. Experience as a Master on foreign-going vessels or marine superintendent is a plus. | 
 | Vessel Traffic Officer | You will be part of the vibrant and dynamic team of VTIS officers, communicating with vessels on VHF radio to provide traffic information to these vessels. Other duties include distress watch keeping and attending to marine incidents. | 
-| Port Inspector | You will be part of the team to carry out enforcement duties at sea to ensure vessels and craft in the Singapore waters comply with international as well as local rules and regulations, thereby safeguarding life, property and marine environment. | 
+| Port Inspector | You will be part of the team to carry out enforcement duties at sea to ensure vessels and craft in the Singapore waters comply with international as well as local rules and regulations, thereby safeguarding life, property and marine environment. |
