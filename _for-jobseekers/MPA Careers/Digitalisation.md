@@ -5,11 +5,10 @@ variant: markdown
 description: ""
 third_nav_title: MPA Careers
 ---
-The Maritime and Port Authority offers a wide scope of job opportunities to individuals who want be part of the team that drives Singapore as a leading international maritime centre and global hub port.
+Digitalisation in the maritime industry enhances safety, efficiency, and sustainability through data-driven decision-making and streamlined operations. 
 
-### Digitalisation
-Indicate your interest for any of the jobs below by uploading your CV [here](forms.sg) .
-
+### Available Positions in Digitalisation
+Indicate your interest for any of the jobs below by uploading your CV [here](https://go.gov.sg/mpa-job-application) or clicking on the links below.
 |Job Role | Brief Description | 
 | -------- | -------- | 
 | Engineer (Cloud Operations & Engineering) | You will be part of the team who will utilise native cloud tools to monitor the health and performance of the production and UAT environments, and automate the alerts as part of the incident reporting framework. | 
