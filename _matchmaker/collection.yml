@@ -2,7 +2,7 @@ collections:
   matchmaker:
     output: true
     order:
-      - Short Film Series.md
+      - A Short Film Series.md
       - The First Jobber/Meet Gianna.md
       - The First Jobber/.keep
       - The First Jobber/Inspired by Gladys.md
