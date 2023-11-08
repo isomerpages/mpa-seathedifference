@@ -12,9 +12,9 @@ Indicate your interest for any of the jobs below by uploading your CV [here](for
 
 |Job Role | Brief Description | 
 | -------- | -------- | 
-| x | x | 
-| x | x | 
-| x | x | 
+| Technical Executive (Hydrography Survey) | You will be part of a team that conducts hydrographic surveys in Singapore waters and processes data generated. Training will be provided. |
+| Technical Executive (Cartographic) | You will produce and maintain nautical charts, electronic navigational charts and charlets. You will also prepare and produce Singapore Tide Tables, Singapore Port Information and Notices to Mariners. Training will be provided. | 
+| Assistant Hydrographer | You will supervise a team of officers, including the planning and deployment of survey teams and provide technical advice on strategic hydrographic survey matters. You will also promote Singapore's interests at international Hydrographic fora. | 
 | x | x | 
 | x | x | 
 | x | x | 
