@@ -7,11 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /contact-us/
+      url: /maritime-singapore/
       key_highlights:
         - title: The Matchmaker
-          description: Short film series
-          url: ""
+          description: A short film series
+          url: /matchmaker
         - title: Shore or Not
           description: Misconceptions about maritime
           url: https://www.mpa.gov.sg/home
