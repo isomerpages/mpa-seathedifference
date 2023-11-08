@@ -7,7 +7,7 @@ third_nav_title: MPA Careers
 ---
 One of the most vital roles in keeping the maritime industry moving, operations and marine services roles provide you a dynamic and challenging environment at work. The results are often incredibly satisfying when you manage to ensure a smooth port operation and vessel management.
 
-### Available Positions in Operations and Marine Services
+### Available Positions 
 Indicate your interest for any of the jobs below by uploading your CV [here](https://go.gov.sg/mpa-job-application) or clicking on the links below.
 
 |Job Role | Brief Description | 
