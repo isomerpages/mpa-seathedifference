@@ -5,9 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: MPA Careers
 ---
-The Maritime and Port Authority offers a wide scope of job opportunities to individuals who want be part of the team that drives Singapore as a leading international maritime centre and global hub port.
+Sustainability is taking care of the way resources are being used so that the needs of our future generations can continue to be met. With Singapore being one of the world’s busiest ports, it plays an important role in ensuring environmental responsibility is at the forefront of maritime operations.
 
-### Sustainability
+### Available Positions in Sustainability
 Indicate your interest for any of the jobs below by uploading your CV [here](go.gov.sg/mpa-job-application) or clicking on the links below.
 
 |Job Role | Brief Description | 
