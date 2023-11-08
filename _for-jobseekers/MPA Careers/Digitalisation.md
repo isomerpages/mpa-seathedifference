@@ -12,5 +12,5 @@ Indicate your interest for any of the jobs below by uploading your CV [here](for
 
 |Job Role | Brief Description | 
 | -------- | -------- | 
-| Sustainability Manager | You will be a key part of our strategic team, formulating sustainability strategies, identifying solutions, and shaping maritime sustainability policies. | 
-| Assistant Director (Sustainability Reporting and Promotion) | You will lead communication efforts for MPA's sustainability work, supporting our decarbonization goals. Your role includes profiling MPA's domestic and international sustainability and ESG initiatives, as well as highlighting sustainability efforts in the maritime sector, involving collaboration with various stakeholders. | 
+| Engineer (Cloud Operations & Engineering) | You will be part of the team who will utilise native cloud tools to monitor the health and performance of the production and UAT environments, and automate the alerts as part of the incident reporting framework. | 
+| Engineer (Maritime Systems and Technology) | You will be part of the capability development team to drive and implement MPA's next generation mission critical port systems |
