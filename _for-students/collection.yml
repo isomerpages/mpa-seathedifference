@@ -2,20 +2,20 @@ collections:
   for-students:
     output: true
     order:
-      - Internships New/MPA Global Internship Award.md
-      - Internships New/.keep
-      - Internships New/Business.md
-      - Internships New/Computing and Analytics.md
-      - Internships New/Engineering.md
-      - Internships New/Operations.md
-      - Internships New/Sciences.md
+      - Internships/MPA Global Internship Award.md
+      - Internships/.keep
+      - Internships/Business.md
+      - Internships/Computing and Analytics.md
+      - Internships/Engineering.md
+      - Internships/Operations.md
+      - Internships/Sciences.md
       - Scholarships/MPA Scholarships.md
       - Scholarships/.keep
       - Scholarships/MaritimeONE Scholarship.md
       - Scholarships/Tripartite Maritime Scholarship.md
-      - Internships New/.keep
-      - Internships New/Internships in MPA (OLD).md
-      - Internships New/MaritimeONE Internships.md
+      - Internships/.keep
+      - Internships/Internships in MPA (OLD).md
+      - Internships/MaritimeONE Internships.md
       - Courses/.keep
       - Courses/Diploma Programmes.md
       - Courses/Degree Programmes.md
