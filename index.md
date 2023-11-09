@@ -30,7 +30,7 @@ sections:
       description: Navigating career crossroads, they meet an unconventional
         matchmaker. Skepticism turns to curiosity as they journey to explore new
         horizons.
-      button: watch the full film here
+      button: More Here
       url: /matchmaker/short-film-series/
       image: /images/matchmaker.png
       alt: The Matchmaker
