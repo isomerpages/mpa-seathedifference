@@ -5,7 +5,7 @@ description: ""
 image: /images/maritime_and_port_authority_of_singapore_(logo).png
 variant: markdown
 ---
-##### Join Joakim Gomez as he sails the Singapore waters with Syakir Taib, a Technical Executive at the Maritime and Port Authority of Singapore, in the second episode of Make A Splash. 
+#### Meet Syakir Taib - Senior Technical Executive, Maritime and Port Authority of Singapore
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="385" width="100%"></iframe>
 
