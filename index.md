@@ -31,7 +31,7 @@ sections:
         matchmaker. Skepticism turns to curiosity as they journey to explore new
         horizons.
       button: watch the full film here
-      url: https://www.viddsee.com/
+      url: /matchmaker/short-film-series/
       image: /images/matchmaker.png
       alt: The Matchmaker
   - infopic:
