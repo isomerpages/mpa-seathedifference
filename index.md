@@ -14,7 +14,7 @@ sections:
           url: /matchmaker/short-film-series
         - title: Shore or Not
           description: Misconceptions about maritime
-          url: https://www.mpa.gov.sg/home
+          url: /shore-or-not/street-interview-series/
         - title: Make a Splash
           description: A day-in-the-life
           url: /make-a-splash/a-day-in-life-of/
@@ -47,11 +47,11 @@ sections:
   - infopic:
       title: SHORE OR NOT?
       subtitle: Street Interviews
-      button: Coming soon
+      button: More here
       description: What are some common misconceptions about maritime? Join Joakim
         Gomez, as he hits Singapore's streets to find out.
       image: /images/mpa_shore or not_kv_1200x630_3oct23-2 (1).jpg
-      url: /shore-or-not
+      url: /shore-or-not/street-interview-series/
       alt: Shore or Not
   - infobar:
       title: Sea the Difference?
