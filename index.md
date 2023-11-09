@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: The Matchmaker
           description: A short film series
-          url: /matchmaker
+          url: /matchmaker/short-film-series
         - title: Shore or Not
           description: Misconceptions about maritime
           url: https://www.mpa.gov.sg/home
         - title: Make a Splash
           description: A day-in-the-life
-          url: /scholarships/mpa-scholarships/
+          url: /make-a-splash/a-day-in-life-of/
         - title: Career Opportunities
           description: Start your maritime journey
           url: ""
@@ -36,13 +36,13 @@ sections:
       alt: The Matchmaker
   - infopic:
       title: MAKE A SPLASH
-      button: Coming Soon
+      button: More Here
       alt: Image alt text
       subtitle: explore jobs in maritime
       description: "Dive in and 'Make a Splash': Joakim Gomez explores modern
         maritime. From steering vessels to embracing tech, it's a journey of
         innovation and the future."
-      url: /make-a-splash
+      url: /make-a-splash/a-day-in-life-of/
       image: /images/mpa_shore or not_kv_1200x630_3oct23-2 (1).jpg
   - infopic:
       title: SHORE OR NOT?
