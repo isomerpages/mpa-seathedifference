@@ -20,7 +20,7 @@ sections:
           url: /make-a-splash/a-day-in-life-of/
         - title: Career Opportunities
           description: Start your maritime journey
-          url: ""
+          url: /for-jobseekers/mpa-careers/sustainability/
       background: /images/Homepage Banners/noname2.png
       variant: center
       button: Explore Maritime's offerings
