@@ -54,8 +54,8 @@ sections:
       url: /shore-or-not/street-interview-series/
       alt: Shore or Not
   - infobar:
-      title: Sea the Difference?
-      description: Ready to start your maritime career journey?
+      title: Seen the Difference?
+      description: Are you ready to kickstart your maritime career?
       button: Start Here
       url: /maritime-singapore
 ---
