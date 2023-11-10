@@ -9,7 +9,7 @@ variant: markdown
 Climate change is undoubtedly one of the most pressing issue of our&nbsp;generation. Sustainability is taking care of the way resources are being used so that the needs of our future generations can continue to be met. With Singapore being one of the world’s busiest ports, it plays an important role in ensuring environmental responsibility is at the forefront of maritime operations.
 
 
-### Why is sustainablity important?
+### Why is sustainability important?
 Climate change is undoubtedly one of the most pressing issues of our generation.
 
 Let’s hear from MPA&nbsp;Chief Sustainability Officer Er. Tham Wai Wah, as well as staff involved in the Tuas Port project about how&nbsp;MaritimeSG&nbsp;is tackling the threat of&nbsp;climate change, to create a greener and more&nbsp;sustainable future for the&nbsp;maritime&nbsp;sector.
