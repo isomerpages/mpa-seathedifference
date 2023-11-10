@@ -9,20 +9,20 @@ sections:
   - hero:
       url: /maritime-singapore/
       key_highlights:
-        - title: The Matchmaker
+        - title: Watch The Matchmaker
           description: A short film series
           url: /matchmaker/short-film-series
-        - title: Shore or Not
-          description: Misconceptions about maritime
+        - title: Shore or Not?
+          description: Maritime myths debunked
           url: /shore-or-not/street-interview-series/
-        - title: Make a Splash
+        - title: Make a Splash!
           description: A day-in-the-life
           url: /make-a-splash/a-day-in-life-of/
-        - title: Career Opportunities
+        - title: Explore Maritime's offerings
           description: Start your maritime journey
-          url: /for-jobseekers/mpa-careers/sustainability/
+          url: /maritime-singapore/
       background: /images/Homepage Banners/noname2.png
-      variant: center
+      variant: image
       button: Explore Maritime's offerings
   - infopic:
       title: THE MATCHMAKER
