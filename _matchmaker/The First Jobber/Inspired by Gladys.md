@@ -14,7 +14,7 @@ The maritime industry is a world full of possibilities, not just for the seasone
 
 Gladys transitioned from a career in Food &amp; Beverage and marketing to become a shipbroker at Howe Robinson Partners. Her story shows how the maritime industry welcomes different skills and backgrounds, making it a great place for a fresh start.
 
-#### Gianna: Setting Sail Towards Passion
+#### Gianna: Setting Sail Towards Passion &gt;&gt; work Gianna's mentions into the copy, not a separate para
 
 Gianna, feeling stuck in her corporate job, finds hope and inspiration in the maritime world. A chance meeting with a maritime professional opens her eyes to a field full of opportunities. Inspired by real-life stories like that of Gladys, Gianna is now eager to explore what the maritime industry has to offer.
 
