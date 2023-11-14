@@ -10,4 +10,4 @@ variant: markdown
 
 From conceptualising eco-friendly designs to bringing them to life, Naazira's maritime voyage is a testament to the boundless possibilities the digital revolution holds. Through her eyes, we uncover how a blend of innovation and design thinking can move the industry to be greener and more sustainable maritime industry.
 
-Intrigued to learn more? Set sail to other episodes of **Make A Splash** and explore diverse maritime professions that are steering the industry into a new era
+Intrigued to learn more? Set sail to other episodes of **Make A Splash** and explore diverse maritime professions that are steering the industry into a new era.
