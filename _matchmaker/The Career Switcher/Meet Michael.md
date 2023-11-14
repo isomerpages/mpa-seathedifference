@@ -19,4 +19,4 @@ A flight attendant with a keen interest in problem-solving, Michael has develope
 
 <img border="0" alt="2" src="https://i.ibb.co/cyKv4B4/2.png">
 
-Meet Norhakim, the visionary behind Mascon Technologies, a venture aimed at bridging the communication gap between vessels and ports. Drawing on his years of seafaring experience, Hakim hopes that his company will develop innovative solutions to tackle the challenges he has observed firsthand. With his unique perspective and passion for improving the maritime industry, Norhakim is poised to make a significant impact in the field. 
+Meet Norhakim, the visionary behind Mascon Technologies, a venture aimed at bridging the communication gap between vessels and ports. Like Michael, Hakim’s penchant for problem-solving, along with his years of seafaring experience, has led him to start a company that is developing innovative solutions to tackle the challenges he has observed firsthand. With his unique perspective and passion for improving the maritime industry, Norhakim is poised to make a significant impact in the field. 
