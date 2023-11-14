@@ -18,4 +18,4 @@ Selvam is a food delivery rider, who enjoys the flexibility  his job but feels t
 
 <img border="0" alt="2" src="https://i.ibb.co/H7bcTj2/2.png">
 
-Justin Chua is an applications and operations specialist at eLSA. Like Selvam, Justin moved between various gig jobs (being a plumber, bartender and tattoo artist) before he found a more structured role in maritime, where he was able to use his talents to serve the industry’s needs.  His journey involved continuous learning, demonstrating the dynamic opportunities offered in maritime.
+Justin Chua is an applications and operations specialist at eLSA. Like Selvam, Justin moved between various gig jobs (being a plumber, bartender and tattoo artist) before he found a more structured role in maritime, where he was able to use his talents to serve the industry’s needs. In maritime, every day is a new learning opportunity for Justin. 
