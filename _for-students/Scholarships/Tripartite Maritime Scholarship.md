@@ -8,10 +8,6 @@ variant: markdown
 ---
 Tripartite Maritime Scholarship
 ===============================
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5ki-9aeWgfA?si=4-fFWCazthdRl7NB" height="315" width="560"></iframe>
-
-### Watch the MaritimeONE and TMSS Scholarships Awards Ceremony 2022
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/EE5BCJq0QW8?si=4znKeQg7E4Gt1hv8" height="315" width="560"></iframe>
 
 **Your first step towards a career at sea…**
 
