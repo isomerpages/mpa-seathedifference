@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: MPA Careers
 ---
-Sustainability is taking care of the way resources are being used so that the needs of our future generations can continue to be met. With Singapore being one of the world’s busiest ports, it plays an important role in ensuring environmental responsibility is at the forefront of maritime operations.
+Sustainability is taking care of the way resources are being used so that the needs of our future generations can continue to be met.
 
 ### Available Positions 
 Indicate your interest for any of the jobs below by uploading your CV [here](https://go.gov.sg/mpa-job-application) or clicking on the links below.
