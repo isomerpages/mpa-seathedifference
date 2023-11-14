@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: MPA Careers
 ---
-The maritime industry requires maritime services in order to ensure a smooth and efficient operation in its international trade and commerce operations. Be a part of the world's top maritime hub today!
+If you are interested in policy making, international relations or developing an innovative maritime ecosystem, you can support the maritime services sector in these jobs.
 
 ### Available Positions 
 Indicate your interest for any of the jobs below by uploading your CV [here](https://go.gov.sg/mpa-job-application) or clicking on the links below.
