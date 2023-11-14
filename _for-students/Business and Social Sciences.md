@@ -28,13 +28,14 @@ Check out our current available internships placements below:
 | International 2 (IN2) | Research and Analysis; Communication; Political Science; Global Studies; Maritime Studies  | You will be part of the International 2 team to assist in green shipping related research and analysis on ASEAN countries on green topics. |
 | International 2 (IN2) | Communications; Global Studies; International Relations; relevant experience in event management and planning | You will be part of the International 2 team to assist in the preparation for the hosting of high-level government representatives at the 1st GA, as well as Singapore's campaign for our IALA Council candidature, including the lobbying of the IALA National Members, in the run up to the IALA Assembly. |
 | International 2 (IN2) | Research and Analysis; Sustainability; International policy-related disciplines | You will be part of the International 1 (IN1) team to assist in the development of green and digital shipping corridors by conducting research on potential partners in this field. |
-| Crisis Planning, Security & Safety Hub (CPSSH) | Text | Text |
-| Text | Text | Text |
-| Text | Text | Text |
-| Text | Text | Text |
-| Text | Text | Text |
-| Text | Text | Text |
-| Text | Text | Text |
+| Crisis Planning, Security & Safety Hub (CPSSH) | Crisis management | You will be part of the Maritime and Port Security team to assist in developing a self-audit system which would aid respective port operators to perform regular checks, and the in-built algorithm would provide scores and identify trends to aid the operator to take timely intervention and necessary preventive measures. |
+| Crisis Planning, Security & Safety Hub (CPSSH) | Emergency preparedness | You will be part of the Emergency Preparedness team to assist in proactively put in place measures and safeguards to mitigate the risks, constantly review and redesign our exercises to enhance our operational readiness and future proof our systems |
+| Crisis Planning, Security & Safety Hub (CPSSH) | Policy | You will be part of the Safety Governance and Promotion team to assist in reviewing and implementing a open reporting system and analysis to aid our senior management in development of policies and line divisions to explore solutions to design out the risks or strengthening of SOPs for risk mitigation via processes and procedures. |
+| Ops Planning (OP) | Business; Economics; Data Science; Humanities | You will be part of the Maritime Space and Drone Capability team to assist in Plume Model Simulation projects, business development and cross-department work assignments. |
+| Business Capability Development (BCD) | Accountancy; Business; IT/data analytics | You will be part of the BCD Director Office team to assist in areas of tax, grants, and other internal processes and workflows. This includes working with project teams to assist with research and assigned project tasks as well as provide key insights/ findings, draft deliverables, suggestions and feedback and engaging companies independently on audits and surveys, with guidance from project leads. |
+| International Maritime Centre (IMC) | Business; Economics & Data Science; Maritime Studies; Philosophy Politics & Economics | You will be part of the IMC Promotion team to assist in analysis of key issues that are impacting the maritime sector including identified policies relating to the development of the sector,  market trends across identified industry segments as well as focus areas such as maritime decarbonisation. |
+| Innovation, Technology & Talent Development (ITTD) | IT; Computer engineering; Business; MS Office; Interest in people engagement; Organising of raw data | Text |
+| Transformation Office (TO) | Visual communication design and toolkit; Multimedia communication | You will be part of the Transformation Office team to assist in conceptualising and designing of visual communication materials for Innovation Challenge e.g. Business Process Re-engineering toolkit and templates and working in cross-functional teams to design digital products & processes for innovation and transformation projects. |
 
 More details can be found here - (insert PDF)
 
