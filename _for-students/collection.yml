@@ -2,7 +2,7 @@ collections:
   for-students:
     output: true
     order:
-      - Engineering.md
+      - Engineering and Operations.md
       - Computing and Analytics.md
       - Business and Social Sciences.md
       - Scholarships/MPA Scholarships.md
