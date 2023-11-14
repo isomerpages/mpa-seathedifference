@@ -6,7 +6,7 @@ third_nav_title: Sustainability
 variant: markdown
 ---
 ### Innovation for Maritime Sustainability
-Over 80% of trade is conducted via shipping, and sulphur content emissions from ships is a big concern. In this video, we see how a methanol-fuelled injection system that can be packed onto existing diesel engines is developed.
+Alternative ship fuel such as biofuel, hydrogen, ammonia and methanol could reduce greenhouse gas emission. In this video, we see how a methanol-fuelled injection system that can be packed onto existing diesel engines is developed.
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Lfqk1nmNaMg?si=vFMVvXn62sS4pvpc" height="480" width="854"></iframe>
 
 
