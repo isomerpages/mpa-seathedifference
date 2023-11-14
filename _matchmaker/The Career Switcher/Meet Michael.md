@@ -5,19 +5,18 @@ variant: markdown
 description: ""
 third_nav_title: The Career Switcher
 ---
+**A seasoned flight attendant with a flair for tech and passion for sustainability, crosses paths with Gloria, a maritime veteran with a treasure trove of stories.**
+
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="385" width="100%"></iframe>
 
-**In a serendipitous blend of yoga stretches and casual banter, Michael, a seasoned flight attendant with a flair for tech, crosses paths with Gloria, a maritime veteran with a treasure trove of stories. Amidst the gentle hum of a cooling fan, the two delve into a refreshing dialogue, unearthing the vibrant fusion of technology and tradition in the maritime sector.**
 
 ### MEET MICHAEL
 <img border="0" alt="3" src="https://i.ibb.co/KmtnTm0/3.png">
 
-Amid the bustling skies and the transient halls of airports, Michael, a seasoned flight attendant, has sailed the clouds, met faces from every walk of life, and tucked away tales from across the globe. Yet, amidst the routine hum of jet engines, a whisper of curiosity beckons, nudging him towards the unexplored terrains of his tech-savvy essence. The years have flown by, yet the reflections in the window panes echo with a resonance of something more, something awaiting amidst the waves of change.
-
-A casual stretch on the yoga mat unfolds the first chapter of a new narrative as Gloria, a maritime maestro with a knack for tech, steps into his frame. Their camaraderie blossoms amidst gentle laughter and shared whims about technology, unfolding a canvas where Michael's tech inklings find a new horizon.
+A flight attendant with a keen interest in problem-solving, Michael has developed an application that can help track his personal carbon footprint. He has enjoyed travelling the world as part of his job for many years. Nonetheless, he never considered the possibility of a career in a different industry that would allow him to make a positive impact while pursuing his passions. 
 
 ### INSPIRED BY REAL PEOPLE
 
 <img border="0" alt="2" src="https://i.ibb.co/cyKv4B4/2.png">
 
-Meet Norhakim, the visionary behind Mascon Technologies, a venture designed to bridge the communication gap between vessels and ports. His narrative unfolds from the deck of commercial oil tankers, where the whispering waves ignited a spark to enhance vessel-port dialogues. Transitioning from a seafarer to a digital navigator, he now steers the helm of Mascon Technologies, awaiting the venture-funded tide to propel his maritime-focused startup into the digital horizon.
+Meet Norhakim, the visionary behind Mascon Technologies, a venture aimed at bridging the communication gap between vessels and ports. Drawing on his years of seafaring experience, Hakim hopes that his company will develop innovative solutions to tackle the challenges he has observed firsthand. With his unique perspective and passion for improving the maritime industry, Norhakim is poised to make a significant impact in the field. 
