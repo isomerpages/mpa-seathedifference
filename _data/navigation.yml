@@ -20,20 +20,6 @@ links:
   - title: MAKE A SPLASH
     collection: make-a-splash
   - title: For Students
-    url: /scholarships/mpa-scholarship/
-    sublinks:
-      - title: Scholarships
-        url: /scholarships/maritimeone-scholarship/
-      - title: Internships
-        url: /internships/gia/
-      - title: Courses
-        url: /courses/diploma-programmes/
+    collection: for-students
   - title: For Jobseekers
-    url: /for-jobseekers/mpa-careers/sustainability/
-    sublinks:
-      - title: MPA Careers
-        url: /for-jobseekers/mpa-careers/sustainability/
-      - title: Maritime Careers
-        url: /for-jobseekers/maritime-careers
-      - title: Career Conversion Programme
-        url: /for-jobseekers/ccp
+    collection: for-jobseekers
