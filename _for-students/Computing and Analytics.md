@@ -8,8 +8,12 @@ Are you a business or social sciences student looking to partake in a dynamic wo
 
 Check out our current available internships placements below:
 
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
 
 More details can be found here - (insert PDF)
 
 To apply, submit your CV here!
-
