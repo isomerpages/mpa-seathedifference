@@ -21,7 +21,7 @@ sections:
         - title: Explore Maritime's offerings
           description: Start your maritime journey
           url: /maritime-singapore/
-      background: /images/MPA_See_the_Difference_HERO_GROUP_KV_1200x630_3_page_0001.jpg
+      background: /images/1test.png
       variant: image
       button: Explore Maritime's offerings
   - infopic:
