@@ -5,8 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: Scholarships
 ---
-If you want a stuffy and stereotypical future - you will be disappointed.
-
 The Maritime and Port Authority of Singapore (MPA) scholarship offers exciting opportunities to live life on the edge a little. You will study at world-class universities, work on overseas assignments, and gain valuable exposure to the thriving maritime industry.
 
 In other words, you will be embarking on an amazing career at the heart of MPA, the national agency that drives Singapore's premier global hub port and international maritime center.
