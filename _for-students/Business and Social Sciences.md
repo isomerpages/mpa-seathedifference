@@ -8,10 +8,10 @@ Are you a business or social sciences student looking to partake in a dynamic wo
 
 Check out our current available internships placements below:
 
-| Division / Department | Recommended field of study or skillset | Scope of work |
+| Division | Recommended field of study or skillset | Scope of work |
 | -------- | -------- | -------- |
-| Talent Attraction and Development Intern / Human Resource (HR) | ??? | You will be part of the Talent & Development team to assist in organising corporate engagement events, designing eDMs for engagement communications, plan outreach activities, and refresh the professional learning roadmap for MPA officers. |
-| Licensing Intern / Operations & Marine Services (OMS) | ???? | You will be part of the Standards and Investigation team to assist in the administration of licens and engagement with industry stakeholders. |
+| Human Resource (HR) | Human Resource (Learning and Development / Organisation Development); Communications & Engagement; Events & Project Management | You will be part of the Talent & Development team to assist in organising corporate engagement events, designing eDMs for engagement communications, plan outreach activities, and refresh the professional learning roadmap for MPA officers. |
+| Operations & Marine Services (OMS) | ???? | You will be part of the Standards and Investigation team to assist in the administration of licens and engagement with industry stakeholders. |
 | Text | Text | Text |
 | Text | Text | Text |
 | Text | Text | Text |
