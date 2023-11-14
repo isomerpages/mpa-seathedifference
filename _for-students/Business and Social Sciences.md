@@ -20,11 +20,11 @@ Check out our current available internships placements below:
 | Engineering and Project Management (EPM) | Property and Building Management / Project Management | You will be part of the Space Management (SPM) team to assist in pier related assignments such as maintenance repairs and property inspections, stakeholder management and pier safety. |
 | Maritime Decarbonisation (MDD) | Environmental science/engineering; Marine engineering; Chemical engineering; Chemistry | You will be part of the Sustainable Energy and Decarbonisation team to assist in implementing MPA's decarbonisation strategies and analyse future technical and operational energy efficiency of ships, taking into consideration regulatory developments and market-driven efficiency changes. |
 | Maritime Decarbonisation (MDD) | Building science; Environmental management; Energy management | You will be part of the Decarbonisation Planning and Infrastructure team to assist in identifying new mitigation and abatement solutions that can be implemented during property rejuvenation, and develop the performance management tools. |
-| Finance, Procurement & Admin (FPA) | Accountancy; Business | You will be part of the Finance, Procurement and Admin (FPA) team to assist in sustainability reporting and green procurement and identify green opportunities for MPA. |
-| MPA Academy (MPAA) | Maritime Studies; Events Management; Project Facilitation | You will be part of the Training and Curriculum Department (TCD) team to assist in training coordination, publicity, events and IP. |
-| Text | Text | Text |
-| Text | Text | Text |
-| Text | Text | Text |
+| Finance, Procurement & Admin (FPA) | Accountancy; Business | You will be part of the Finance, Procurement and Admin team to assist in sustainability reporting and green procurement and identify green opportunities for MPA. |
+| MPA Academy (MPAA) | Maritime Studies; Events Management; Project Facilitation | You will be part of the Training and Curriculum Department team to assist in training coordination, publicity, events and IP. |
+| MPA Academy (MPAA) | Maritime studies; Business; Marketing | You will be part of the Maritime Singapore Programme Office (MNPO) team to assist in media and publicity and logistic support of the MPA Academy. |
+| Communication and Community (C&C) | Communications; Marketing; Graphic design; Digital media; Visual Communication; Video production; Well verse in content creation for Social Media channels (e.g. Instagram, TikTok, Facebook) and using video production softwares | You will be part of the Content and Marketing team to assist in content curation, conceptualisation and execution, and tracking and monitoring of social media campaign and video production. |
+| Communication and Community (C&C) | Maritime studies; Design; Mass communication; Marketing | You will be part of the Community Engagement team to assist in driving public engagement efforts for external stakeholders and curating various engagement maritime-related initiatives such as guided tours, outreach funds and workshops. |
 | Text | Text | Text |
 | Text | Text | Text |
 | Text | Text | Text |
