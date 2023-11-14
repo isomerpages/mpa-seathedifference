@@ -7,7 +7,7 @@ third_nav_title: The Freelancer
 ---
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="385" width="100%"></iframe>
 
-**A charismatic gig worker meandering through the hustle of daily gigs, each day a repetition of the last. His life takes an unexpected turn when a whimsical encounter with Gloria, the lively Matchmaker, unfolds a realm of possibilities in the maritime sector.**
+**A young man looking to settle down is tired of jumping between jobs. His life takes an unexpected turn when he meets Gloria, the enigmatic Matchmaker, as he discovers opportunities in the maritime sector.**
 
 ### MEET SELVAM
 <img border="0" alt="1" src="https://i.ibb.co/QX1fCRZ/1.png">
@@ -20,4 +20,4 @@ One day, a quirky ad leads him to Gloria, a maritime veteran with a whimsy for t
 
 <img border="0" alt="2" src="https://i.ibb.co/H7bcTj2/2.png">
 
-Meet Justin Chua, an applications and operations specialist at eLSA. Transitioning from various gig jobs to a structured role in maritime, Justin found a realm where his artistic flair meets the logical core of maritime operations. His journey, punctuated with continuous learning and mentoring in a novel field, reflects the dynamic opportunities within maritime, especially for those with unconventional backgrounds. 
+Meet Justin Chua, an applications and operations specialist at eLSA. Transitioning from various gig jobs to a structured role in maritime, Justin found a realm where his artistic flair meets the logical core of maritime operations. His journey, punctuated with continuous learning and mentoring in a novel field, reflects the dynamic opportunities within maritime, especially for those with unconventional backgrounds.
