@@ -15,6 +15,13 @@ Check out our current available internships placements below:
 | Operations & Marine Services (OMS) | Maritime Business | You will be part of the Marine Environment and Safety team to assist in the designing, testing, and feedback of digitalisation projects. |
 | Operations & Marine Services (OMS) | Maritime Business | You will be part of the Marine Licensing and Permits team to assist in managing the licensing requirements related to harbour crafts and pleasure crafts. |
 | Engineering and Project Management (EPM) | Project Management with training in Civil Engineering | You will be part of the Tuas Port Reclamation 1 team to assist in undertaking and learning from Tuas Port development related and department related activities. |
+| Engineering and Project Management (EPM) | Real Estate or Business in Leasing | You will be part of the Space Management team to assist in related duties such as leasing processes, market research, property listing and schedule, and customer service in a professional manner. |
+| Engineering and Project Management (EPM) | Property and Building Management / Project Management | You will be part of the Space Management (SPM) team to assist in office related duties such as maintenance and repairs and property inspections, stakeholder management, and green initiatives. |
+| Engineering and Project Management (EPM) | Property and Building Management / Project Management | You will be part of the Space Management (SPM) team to assist in pier related assignments such as maintenance repairs and property inspections, stakeholder management and pier safety. |
+| Maritime Decarbonisation (MDD) | Environmental science/engineering; Marine engineering; Chemical engineering; Chemistry | You will be part of the Sustainable Energy and Decarbonisation team to assist in implementing MPA's decarbonisation strategies and analyse future technical and operational energy efficiency of ships, taking into consideration regulatory developments and market-driven efficiency changes. |
+| Maritime Decarbonisation (MDD) | Building science; Environmental management; Energy management | You will be part of the Decarbonisation Planning and Infrastructure team to assist in identifying new mitigation and abatement solutions that can be implemented during property rejuvenation, and develop the performance management tools. |
+| Finance, Procurement & Admin (FPA) | Accountancy; Business | You will be part of the Finance, Procurement and Admin (FPA) team to assist in sustainability reporting and green procurement and identify green opportunities for MPA. |
+| MPA Academy (MPAA) | Maritime Studies; Events Management; Project Facilitation | You will be part of the Training and Curriculum Department (TCD) team to assist in training coordination, publicity, events and IP. |
 | Text | Text | Text |
 | Text | Text | Text |
 | Text | Text | Text |
@@ -22,10 +29,6 @@ Check out our current available internships placements below:
 | Text | Text | Text |
 | Text | Text | Text |
 | Text | Text | Text |
-| Text | Text | Text |
-| Text | Text | Text |
-| Text | Text | Text |
-
 
 More details can be found here - (insert PDF)
 
