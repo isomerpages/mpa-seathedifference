@@ -18,7 +18,7 @@ Check out our current available internships placements below:
 | Port Systems (PS)      | Electrical and Electronics Engineering; Computer Engineering     | You will be part of the Port Systems Capability Development team to assist in projects such as C2 Systems, video technology, drone & unmanned technology, and wireless connectivity in the maritime industry.     |
 | Port Systems (PS)      | Electrical and Electronics Engineering; Computer Engineering     | You will be part of the Port Systems Operations and Support team to assist in system management concepts and be involved in the transformation maintenance management or port systems.     |
 | Operations & Marine Services (OMS)     | Maritime Business     | You will be part of the Operations Planning and Pilotage team to assist in coordinating efforts with stakeholders to ensure seamless execution of operation activities, research on new technologies, and administrative support during SAR operations.     |
-| Engineering and Project Management (EPM)      | Civil Structural Engineering; Project Management     | You will be part of the Building and Infrastructure Department (BID) team to assist the Resident Engineer for supervision of land reclamation works.     |
+| Engineering and Project Management (EPM)      | Civil Structural Engineering; Project Management     | You will be part of the Building and Infrastructure Department team to assist the Resident Engineer for supervision of land reclamation works.     |
 
 More details can be found here - (insert PDF)
 
