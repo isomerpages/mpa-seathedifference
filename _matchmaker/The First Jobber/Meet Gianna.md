@@ -6,7 +6,7 @@ image: /images/microsite logo.png
 third_nav_title: The First Jobber
 variant: markdown
 ---
-**In a whirlwind of fate, coffee mix-ups, and insightful conversations, Gianna, a young professional feeling out of place in her first job, encounters Gloria, a well-traveled, experienced individual in the maritime industry. Over a forgotten book titled IKIGAI, the two delve into the hidden depths of the maritime sector.**
+**In a whirlwind of fate, coffee mix-ups, and insightful conversations, Gianna, a young professional feeling out of place in her first job, encounters Gloria, a well-traveled, experienced individual in the maritime industry.**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="385" width="100%"></iframe>
 
