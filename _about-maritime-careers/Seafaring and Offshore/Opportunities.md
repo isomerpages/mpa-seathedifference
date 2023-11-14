@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Seafaring and Offshore
 variant: markdown
 ---
-## Seafaring is not just enjoying the sun and sea
+## Seafaring is not just about enjoying the sun and the sea
 
-Seafaring and offshore jobs are vital in Singapore's maritime sector. The country's strategic location as a global maritime hub relies on skilled seafarers for port navigation and international trade. Offshore roles, like drilling and wind energy, boost energy security and the economy. These roles align with sustainability efforts, ensuring Singapore's maritime industry remains economically sound and environmentally responsible worldwide.
+Seafaring and offshore jobs are vital in Singapore's maritime sector. Seafarers ensure that ships navigate safely, and all equipment onboard are maintained properly and operate optimally. 
 
 #### Chief Officer
 The job scope of a deck officer includes ensuring safe navigation of the ship, passengers, crew and cargo onboard by monitoring and maintaining procedures for fire hazard and damage control requirements.
