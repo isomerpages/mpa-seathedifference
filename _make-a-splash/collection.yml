@@ -2,7 +2,7 @@ collections:
   make-a-splash:
     output: true
     order:
-      - A Day In Life Of.md
+      - A Day In A Life Of.md
       - Design Engineer.md
       - Hydrographic Surveyor.md
       - Vessel Traffic Officer.md
