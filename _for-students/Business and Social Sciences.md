@@ -25,6 +25,12 @@ Check out our current available internships placements below:
 | MPA Academy (MPAA) | Maritime studies; Business; Marketing | You will be part of the Maritime Singapore Programme Office (MNPO) team to assist in media and publicity and logistic support of the MPA Academy. |
 | Communication and Community (C&C) | Communications; Marketing; Graphic design; Digital media; Visual Communication; Video production; Well verse in content creation for Social Media channels (e.g. Instagram, TikTok, Facebook) and using video production softwares | You will be part of the Content and Marketing team to assist in content curation, conceptualisation and execution, and tracking and monitoring of social media campaign and video production. |
 | Communication and Community (C&C) | Maritime studies; Design; Mass communication; Marketing | You will be part of the Community Engagement team to assist in driving public engagement efforts for external stakeholders and curating various engagement maritime-related initiatives such as guided tours, outreach funds and workshops. |
+| International 2 (IN2) | Research and Analysis; Communication; Political Science; Global Studies; Maritime Studies  | You will be part of the International 2 team to assist in green shipping related research and analysis on ASEAN countries on green topics. |
+| International 2 (IN2) | Communications; Global Studies; International Relations; relevant experience in event management and planning | You will be part of the International 2 team to assist in the preparation for the hosting of high-level government representatives at the 1st GA, as well as Singapore's campaign for our IALA Council candidature, including the lobbying of the IALA National Members, in the run up to the IALA Assembly. |
+| International 2 (IN2) | Research and Analysis; Sustainability; International policy-related disciplines | You will be part of the International 1 (IN1) team to assist in the development of green and digital shipping corridors by conducting research on potential partners in this field. |
+| Crisis Planning, Security & Safety Hub (CPSSH) | Text | Text |
+| Text | Text | Text |
+| Text | Text | Text |
 | Text | Text | Text |
 | Text | Text | Text |
 | Text | Text | Text |
