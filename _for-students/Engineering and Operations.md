@@ -4,7 +4,7 @@ permalink: /for-students/engineering-and-operations/
 variant: markdown
 description: ""
 ---
-Digitalisation is the future for the maritime industry. Be ready to unlock your fullest potential with the immersive internship experience here at MPA. 
+Digitalisation is the future for the maritime industry. Operations are vital to keep the industry going round the clock. Be ready to unlock your fullest potential with the immersive internship experience here at MPA. 
 
 Check out our current available internships placements below:
 
@@ -16,6 +16,8 @@ Check out our current available internships placements below:
 | Maritime Decarbonisation (MDD)      | Electrical engineering     | You will be part of the Decarbonisation Planning and Infrastructure team to assist in sizing up energy demand and supply, and perform feasibility analysis for the infrastructure plan and potential clean harbour craft projects.     |
 | Port Systems (PS)      | Electrical and Electronics Engineering; Computer Engineering     | You will be part of the Port Systems Capability Development team to assist in projects such as C2 Systems, video technology, drone & unmanned technology, and wireless connectivity in the maritime industry.     |
 | Port Systems (PS)      | Electrical and Electronics Engineering; Computer Engineering     | You will be part of the Port Systems Operations and Support team to assist in system management concepts and be involved in the transformation maintenance management or port systems.     |
+| Operations & Marine Services (OMS)     | Maritime Business     | You will be part of the Operations Planning and Pilotage (OPP) team to assist in coordinating efforts with stakeholders to ensure seamless execution of operation activities, research on new technologies, and administrative support during SAR operations.     |
+| Engineering and Project Management (EPM)      | Civil Structural Engineering; Project Management     | You will be part of the Building and Infrastructure Department (BID) team to assist the Resident Engineer for supervision of land reclamation works.     |
 
 More details can be found here - (insert PDF)
 
