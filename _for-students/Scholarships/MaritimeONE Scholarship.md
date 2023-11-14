@@ -19,7 +19,6 @@ The MaritimeONE Scholarship
 
 Sponsored by maritime companies, the MaritimeONE Scholarship aims to sponsor students who are interested in a maritime career to enrol in maritime-related courses of study.
 
-Other scholarships on the Maritime Careers Web Portal
------------------------------------------------------
+#### Watch the MaritimeONE and TMSS Scholarships Awards Ceremony 2022
 
-Students interested in pursuing maritime-related studies have a wide-range of scholarship possibilities to choose from sponsored by major industry players. These cover studies in shore-based maritime services, offshore & marine engineering and seafaring.
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5ki-9aeWgfA?si=Nzegs0S0z9MUZJ_n" height="315" width="560"></iframe>
