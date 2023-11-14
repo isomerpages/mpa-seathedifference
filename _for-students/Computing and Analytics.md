@@ -4,9 +4,7 @@ permalink: /for-students/computing-and-analytics/
 variant: markdown
 description: ""
 ---
-Are you a business or social sciences student looking to partake in a dynamic working environment? Or do you want to try out different roles in a corporate setting?
-
-
+Digitalisation is the future for the maritime industry. Be ready to unlock your fullest potential with the immersive internship experience here at MPA. 
 
 Check out our current available internships placements below:
 
@@ -23,4 +21,4 @@ Check out our current available internships placements below:
 
 More details can be found here - (insert PDF)
 
-To apply, submit your CV here!
+To apply, submit your CV [here](forms.sg)!
