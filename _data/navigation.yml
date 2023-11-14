@@ -1,13 +1,13 @@
 logo: /images/microsite logo.png
 links:
-  - title: About Maritime Careers
-    collection: about-maritime-careers
   - title: the MATCHMAKER
     collection: matchmaker
   - title: SHORE OR NOT
     collection: shore-or-not
   - title: MAKE A SPLASH
     collection: make-a-splash
+  - title: About Maritime Careers
+    collection: about-maritime-careers
   - title: For Students
     collection: for-students
   - title: For Jobseekers
