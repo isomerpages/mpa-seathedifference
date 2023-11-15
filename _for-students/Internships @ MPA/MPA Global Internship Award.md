@@ -11,7 +11,7 @@ The MPA Global Internship Award (GIA) gives students an opportunity to immerse i
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RVzeNxuXHHU?si=XfosNM27KLNncI_w" height="480" width="854"></iframe>
 
-The fully sponsored MPA GIA programme was introduced by MPA to provide high-achieving students with a meaningful and enriching maritime experience in Singapore and abroad. MPA GIA will be administered by the Singapore Maritime Foundation (SMF) with effect 2024. This programme also enhances your future employability and career opportunities within the maritime industry.
+MPA GIA is a fully sponsored programme for high-achieving students to gain valuable maritime experience locally and overseas. Administered by the Singapore Maritime Foundation (SMF) from 2024 onwards, it enhances future employability and career opportunities in the industry by providing a meaningful and enriching maritime experience.
 
 The MPA GIA programme hosts reputable maritime companies. Students gain exposure to diverse career paths and train with experienced practitioners who mentor them throughout the programme.
 
