@@ -12,7 +12,7 @@ Embark on a voyage of discovery with Yong Gang, a former naval officer turned Ve
 
 With Joakim as his trainee, Yong Gang unveils the intricacies of maritime radio communication and the demanding yet rewarding role of a Vessel Traffic Officer. Through rigorous training sessions, role-play scenarios, and real-time challenges, Joakim gets a taste of the decisive actions required to prevent "close quarters situations" - potential collisions in the maritime language.
 
-Intrigued to learn more? Set sail to other episodes of&nbsp;**Make A Splash**&nbsp;and explore diverse maritime professions that are steering the industry into a new era
+Intrigued to learn more? Set sail to other episodes of&nbsp;**Make A Splash**&nbsp;and explore diverse maritime professions that are steering the industry into a new era.
 
 <br>
 <br>
