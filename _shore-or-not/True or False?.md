@@ -22,7 +22,7 @@ variant: markdown
 
 <img border="0" alt="6" src="https://i.ibb.co/zJ1h7Yw/6.png">
 
-##### Maritime is a sunset industry due to technological advancement reducing the need for human roles.
+##### Maritime is a sunset industry with limited growth.
 
 <img border="0" alt="7" src="https://i.ibb.co/HH67j0k/7.png">
 
@@ -34,6 +34,6 @@ variant: markdown
 
 <img border="0" alt="9" src="https://i.ibb.co/dt8RzTY/9.png">
 
-##### The Maritime industry is not environmentally friendly
+##### The maritime industry is not environmentally friendly
 
 <img border="0" alt="10" src="https://i.ibb.co/pxcYgtp/10.png">
