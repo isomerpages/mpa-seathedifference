@@ -12,7 +12,7 @@ third_nav_title: The Freelancer
 ### MEET SELVAM
 <img border="0" alt="1" src="https://i.ibb.co/QX1fCRZ/1.png">
 
-Selvam is a food delivery rider, who enjoys the flexibility his job but feels that it lacks stability. One day, he meets Gloria, who introduces him to the maritime sector. Initially, he does not think that his passion and talent in the arts would be relevant to the sector, but Gloria soon changes his mind. 
+Selvam is a food delivery rider, who enjoys the flexibility in his job but feels that it lacks stability. One day, he meets Gloria, who introduces him to the maritime sector. Initially, he does not think that his passion and talent in the arts would be relevant to the sector, but Gloria soon changes his mind. 
 
 ### INSPIRED BY REAL PEOPLE
 
