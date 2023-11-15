@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: MPA Careers
 ---
-Sustainability is taking care of the way resources are being used so that the needs of our future generations can continue to be met.
+Sustainability involves responsible management of resources to ensure that the needs of future generations can be met.
 
 ### Available Positions 
 Indicate your interest for any of the jobs below by uploading your CV [here](https://go.gov.sg/mpa-job-application) or clicking on the links below.
