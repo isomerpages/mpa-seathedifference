@@ -13,7 +13,7 @@ Dive into the intricate world of underwater surveys with Syakir, Senior Technica
 
 From unveiling secrets of the seabed, updating navigational charts, to his department's symbiotic relationship with cartography, we'll get an immersive view into the dynamic waters of Singapore. 
 
-Intrigued to learn more? Set sail to other episodes of&nbsp;**Make A Splash**&nbsp;and explore diverse maritime professions that are steering the industry into a new era
+Intrigued to learn more? Set sail to other episodes of&nbsp;**Make A Splash**&nbsp;and explore diverse maritime professions that are steering the industry into a new era.
 
 <br>
 <br>
