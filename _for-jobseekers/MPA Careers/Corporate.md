@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: MPA Careers
 ---
-In the maritime industry, everyone is welcomed with their prior experience and expertise across various industries. In corporate, we are the key pillar of support for the industry's main talent pool and business operations.
+The maritime industry values individuals with diverse experience and expertise from various industries. In the corporate sector, we play a crucial role as a key support pillar for the industry's talent pool and business operations.
 
 ### Available Positions 
 Indicate your interest for any of the jobs below by uploading your CV [here](https://go.gov.sg/mpa-job-application) or clicking on the links below.
