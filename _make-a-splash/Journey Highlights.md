@@ -23,7 +23,7 @@ With a background in product design and logistics, Naazira sheds light on the im
 <img border="0" alt="3" src="https://i.ibb.co/YP5qW4B/3.png">
 <img border="0" alt="2" src="https://i.ibb.co/MgmRpj3/2.png">
 
-A mix of excitement and focus envelops Joakim as he gets hands-on experience operating the underwater survey vessel (USV) under Syakir’s guidance.
+A mix of excitement and focus envelops Joakim as he gets hands-on experience operating the Underwater Survey Vessel (USV) under Syakir’s guidance.
 
 <a href="https://ibb.co/GRh6kLq"><img border="0" alt="1" src="https://i.ibb.co/gJn2wpx/1.png"></a>
 <img border="0" alt="5" src="https://i.ibb.co/g6hT39v/5.png">
