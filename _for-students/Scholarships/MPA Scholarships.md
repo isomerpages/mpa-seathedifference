@@ -20,9 +20,9 @@ In other words, you will be embarking on an amazing career at the heart of MPA, 
 
 *   Tuition and other compulsory fees
 *   Monthly maintenance allowance
-*   Other allowance e.g. pre studies allowance
+*   Other allowance e.g. pre-studies allowance
 *   Opportunity for sponsorship of approved student exchange/summer school programme
-*   Internship opportunties before and during studies for exposure to the culture of and work in MPA as well as gain insights into the maritime industry
+*   Internship opportunities before and during studies for exposure to the culture of and work in MPA as well as gain insights into the maritime industry
 
 To help you understand the maritime industry better, we will also be updating you on the latest developments in the industry as well as within MPA during your studies.
 
