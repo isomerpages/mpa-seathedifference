@@ -19,4 +19,4 @@ Amidst a pile of bills and flyers, one titled “Career Advice by The Matchmaker
 
 <img border="0" alt="2" src="https://i.ibb.co/5c04nvj/2.png">
 
-Thayaalan (or Dylan, as he is known to his industry counterparts) is a shipbroker and an Associate Director at Braemar Shipbroking Pte. Ltd. Like Alvin, Dylan made the transition from an entirely different industry to maritime later in his career. A former uniformed serviceman, he joined the maritime industry as a shipbroker. From a solo contributor, he now leads a finds fulfilment in mentoring a team of junior shipbrokers.  
+Thayaalan (or Dylan, as he is known to his industry counterparts) is a shipbroker and an Associate Director at Braemar Shipbroking Pte. Ltd. Like Alvin, Dylan made the transition from an entirely different industry to maritime later in his career. A former uniformed serviceman, he joined the maritime industry as a shipbroker. From a solo contributor, he now leads a finds fulfilment in mentoring a team of junior shipbrokers.
