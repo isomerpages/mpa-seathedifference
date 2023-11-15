@@ -25,7 +25,7 @@ You may apply for the programme if you are:
 
 **Duration of Programme**
 
-Students will undergo the 12-week programme between May to Oct 2024 (exact dates to be determined between host companies and interns), inclusive of an overseas component of up to 6 weeks.
+Students will undergo the 12-week programme between May to Oct (exact dates to be determined between host companies and interns), inclusive of an overseas component of up to 6 weeks.
 
 **Award Benefits**
 
