@@ -27,7 +27,7 @@ For more information on Diploma in Maritime Business, visit the course site [her
 
 We all know that more than 80% of the world's trade is carried by the international shipping.
 
-The Diploma in Nautical Studies (DNS) is catered for self motivated, independent and adventurous young people who love a sea career. It's a direct fast track to becoming a ship's captain.
+The Diploma in Nautical Studies (DNS) is catered for self-motivated, independent and adventurous young people who love a sea career. It's a direct fast track to becoming a ship's captain.
 
 For more information on Diploma in Nautical Studies, visit the course site [here](https://www.sp.edu.sg/sma/courses/full-time-diplomas/nautical-studies)
 
