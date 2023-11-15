@@ -27,8 +27,8 @@ sections:
   - infopic:
       title: THE MATCHMAKER
       subtitle: Short film series
-      description: Navigating career crossroads, they meet an unconventional
-        matchmaker. Skepticism turns to curiosity as they journey to explore new
+      description: Whilst navigating career crossroads, they meet an unorthodox
+        matchmaker. Skepticism turns into curiosity as they seek out new
         horizons.
       button: More Here
       url: /matchmaker/short-film-series/
@@ -39,17 +39,17 @@ sections:
       button: More Here
       alt: Image alt text
       subtitle: explore jobs in maritime
-      description: "Dive in and 'Make a Splash': Joakim Gomez explores modern
-        maritime. From steering vessels to embracing tech, it's a journey of
-        innovation and the future."
+      description: "Dive in and 'Make a Splash': with Joakim Gomez! Explore modern
+        maritime careers, ranging from self-steering vessels to electronic
+        delivery notes. "
       url: /make-a-splash/a-day-in-life-of/
       image: /images/mpa_shore or not_kv_1200x630_3oct23-2 (1).jpg
   - infopic:
       title: SHORE OR NOT?
       subtitle: Street Interviews
       button: More here
-      description: What are some common misconceptions about maritime? Join Joakim
-        Gomez, as he hits Singapore's streets to find out.
+      description: What are some common misconceptions about the maritime industry?
+        Join Joakim Gomez as he hits the streets to debunk maritime myths!
       image: /images/mpa_shore or not_kv_1200x630_3oct23-2 (1).jpg
       url: /shore-or-not/street-interview-series/
       alt: Shore or Not
