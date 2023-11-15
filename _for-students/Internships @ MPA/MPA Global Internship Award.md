@@ -7,6 +7,8 @@ third_nav_title: Internships @ MPA
 ---
 The MPA Global Internship Award (GIA) gives students an opportunity to immerse in an experiential learning with international maritime companies in Singapore and around the world.
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RVzeNxuXHHU?si=XfosNM27KLNncI_w" height="480" width="854"></iframe>
+
 The fully sponsored MPA GIA programme was introduced by MPA to provide high-achieving students with a meaningful and enriching maritime experience in Singapore and abroad. MPA GIA will be administered by the Singapore Maritime Foundation (SMF) with effect 2024. This programme also enhances your future employability and career opportunities within the maritime industry.
 
 The MPA GIA programme hosts reputable maritime companies. Students gain exposure to diverse career paths and train with experienced practitioners who mentor them throughout the programme.
@@ -28,7 +30,7 @@ Students will undergo the 12-week programme between May to Oct 2024 (exact dates
 The award will cover the following:
 
 *   Internship allowance of S$3,600 (for 12 weeks internship)
-*   Overseas Daily Allowance (for up to 6 weeks overseas attachment) 
+*   Overseas Daily Allowance (for up to 6 weeks overseas attachment)&nbsp;
 *   Cost of return economy-class airfare
 *   Accommodation
 *   Travel insurance and other travel-related expenses
