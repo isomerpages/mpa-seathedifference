@@ -13,7 +13,7 @@ As a Maritime Data Scientist, Zheng Yang helps the industry unlock the most ener
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/8wTYE-d1NYc?si=5YxxuhAlzi9UgfB1" height="480" width="854"></iframe>
 
 ### Meet Shao Wei, a Maritime Data Analyst
-Interested in developing data processing tools to enable maritime companies to make  Develop and monitor data processing tools as well as provide business intelligence solutions os other companies can 
+As a Data Analyst, Shao Wei develops and monitors data processing tools, and provides business intelligence solutions at the same time.
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/2e9oMzZHff4?si=hIfrEFNkzvqyzkxE" height="480" width="854"></iframe>
 
 ### Top job listings for you
