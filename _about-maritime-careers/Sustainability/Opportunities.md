@@ -6,7 +6,7 @@ third_nav_title: Sustainability
 variant: markdown
 ---
 ## Help Singapore achieve net zero emissions by 2030
-Climate change is undoubtedly one of the most pressing issue of our&nbsp;generation. Sustainability is taking care of the way resources are being used so that the needs of our future generations can continue to be met. As one of the world’s busiest ports, Singapore plays an important role in ensuring environmental responsibility is at the forefront of maritime operations.
+Climate change is undoubtedly one of the most pressing issues of our&nbsp;generation. Sustainability is taking care of the way resources are being used so that the needs of our future generations can continue to be met. As one of the world’s busiest ports, Singapore plays an important role in ensuring environmental responsibility is at the forefront of maritime operations.
 
 
 ### Why is sustainability important?
