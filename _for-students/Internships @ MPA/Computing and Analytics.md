@@ -7,7 +7,7 @@ third_nav_title: Internships @ MPA
 ---
 Digitalisation is the future for the maritime industry. Be ready to unlock your fullest potential with the immersive internship experience here at MPA. 
 
-Check out our current available internships placements below:
+Check out our current available internship placements below:
 
 | Division | Recommended field of study or skillset | Scope of work |
 | -------- | -------- | -------- |
