@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Internships @ MPA
 ---
-Digitalisation is the future for the maritime industry. Operations are vital to keep the industry going round the clock. Be ready to unlock your fullest potential with the immersive internship experience here at MPA. 
+As the maritime industry moves towards digitalisation, efficient operations are crucial to keep it running 24/7. Prepare to unleash your full potential with MPA's immersive internship experience and be at the forefront of this exciting transformation.
 
 Check out our current available internship placements below:
 
