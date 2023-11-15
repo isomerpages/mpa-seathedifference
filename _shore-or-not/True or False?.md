@@ -4,7 +4,7 @@ permalink: /shore-or-not/true-or-false/
 description: ""
 variant: markdown
 ---
-##### Maritime Singapore is a global trade powerhouse, often misunderstood as just about ship-handling. These myths mask its diverse opportunities and vibrant career paths. Whether eyeing a career switch or just curious, let's embark on a voyage to unveil its dynamic essence.
+##### Maritime Singapore is a global trade powerhouse, often misunderstood as just about ship-handling. These myths mask its diverse opportunities and vibrant career paths. Whether you're considering a career switch or just curious, let's explore Maritime Singapore's dynamic essence together.
 
 ##### Is Maritime Singapore solely about ship handling and physical labour?
 
