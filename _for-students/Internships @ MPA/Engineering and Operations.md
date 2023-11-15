@@ -22,4 +22,4 @@ Check out our current available internships placements below:
 
 More details can be found here - (insert PDF)
 
-To apply, submit your CV [here](forms.sg)!
+To apply, submit your CV [here](https://go.gov.sg/mpa-internships-application)!
