@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Internships @ MPA
 ---
+### Exploring the world with the MPA Global Internship Award (GIA)
+
 The MPA Global Internship Award (GIA) gives students an opportunity to immerse in an experiential learning with international maritime companies in Singapore and around the world.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RVzeNxuXHHU?si=XfosNM27KLNncI_w" height="480" width="854"></iframe>
