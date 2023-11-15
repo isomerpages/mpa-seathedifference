@@ -13,12 +13,12 @@ variant: markdown
 ### MEET GIANNA
 <img border="0" alt="2" src="https://i.ibb.co/GTDFLDh/2.jpg">
 
-Gianna is in her first job after graduation and has been feeling unfulfilled in her career. She does not feel like she has learnt anything newShe and dreams of the possibilities of a job that allows her to combine what she loves and is good at. 
+Gianna is in her first job after graduation and has been feeling unfulfilled in her career. She does not feel like she has learnt anything new and dreams of the possibilities of a job that allows her to combine what she loves and is good at. 
 
-A mix-up at a local coffee shop leads to a conversation  with Gloria, a seasoned maritime professional who is deeply passionate about the industry. Their conversation centres around a forgotten book about ‘IKIGAI’, as Gloria regales her with stories about individuals who are in similar situations. . 
+A mix-up at a local coffee shop leads to a conversation with Gloria, a seasoned maritime professional who is deeply passionate about the industry. Their conversation centres around a forgotten book about ‘IKIGAI’, as Gloria regales her with stories about individuals who are in similar situations. . 
 
 ### INSPIRED BY REAL PEOPLE
 
 <img border="0" alt="1" src="https://i.ibb.co/WvWgNhw/1.png">
 
-Meet Gladys See, a shipbroker at Howe Robinson Partners. Like Gianna, she felt like that job she was in was not a right fit for her and was yearning for something different.  Gladys’ career transition showcases the potential of diversifying one’s professional horizon. Initially in the Food &amp; Beverage and marketing domains, her venture into the maritime sector is unexpected and anything but conventional. Her analytical and networking capabilities, along with her outgoing personality and can-do mind-set have put her in good stead in her maritime journey.  
+Meet Gladys See, a shipbroker at Howe Robinson Partners. Like Gianna, she felt like that job she was in was not a right fit for her and was yearning for something different. Gladys’ career transition showcases the potential of diversifying one’s professional horizon. Initially in the Food &amp; Beverage and marketing domains, her venture into the maritime sector is unexpected and anything but conventional. Her analytical and networking capabilities, along with her outgoing personality and can-do mind-set have put her in good stead in her maritime journey.
