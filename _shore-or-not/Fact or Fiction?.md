@@ -23,7 +23,7 @@ variant: markdown
 
 <img border="0" alt="7" src="https://i.ibb.co/HH67j0k/7.png">
 
-##### You can enter the maritime industry without any prior experienme in Maritime.
+##### You can enter the maritime industry without any prior experience in Maritime.
 
 <img border="0" alt="8" src="https://i.ibb.co/m5f5YpL/8.png">
 
