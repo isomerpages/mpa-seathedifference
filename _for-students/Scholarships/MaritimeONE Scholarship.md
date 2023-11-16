@@ -9,15 +9,9 @@ variant: markdown
 MaritimeONE Scholarship
 =======================
 
+The&nbsp;[MaritimeONE Scholarship](https://brightsparks.com.sg/profile/smf/index.php)&nbsp;identifies and cultivates young maritime talent by preparing them for the industry.
 
-The MaritimeONE scholarship and other maritime-related scholarships for students interested in working in the maritime industry.
-
-The Maritime Outreach Network (MaritimeONE) is an industry-led tripartite partnership comprising the industry, government and institutes of higher learning. With the Singapore Maritime Foundation (SMF), Association of Singapore Marine Industries (ASMI) and Singapore Shipping Association (SSA) representing the industry, in cooperation with the Maritime and Port Authority of Singapore (MPA), MaritimeONE serves as a platform for maritime stakeholders to both raise awareness of the maritime industry and to attract quality personnel into this diverse and interesting sector
-
-The MaritimeONE Scholarship
----------------------------
-
-Sponsored by maritime companies, the MaritimeONE Scholarship aims to sponsor students who are interested in a maritime career to enrol in maritime-related courses of study.
+The Singapore Maritime Foundation (SMF) works closely with leading maritime organisations that sponsor the scholarships. The scholarship extends across a wide range of local and overseas diploma as well as degree courses. Beyond financial support, SMF matches MaritimeONE scholars to industry mentors through a structured mentorship programme that will guide young talent throughout their educational journey.
 
 #### Watch the MaritimeONE and TMSS Scholarships Awards Ceremony 2022
 
