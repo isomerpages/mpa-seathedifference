@@ -15,12 +15,3 @@ As a Maritime Data Scientist, Zheng Yang helps the industry unlock the most ener
 ### Meet Shao Wei, a Maritime Data Analyst
 As a Data Analyst, Shao Wei develops and monitors data processing tools, and provides business intelligence solutions at the same time.
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/2e9oMzZHff4?si=hIfrEFNkzvqyzkxE" height="480" width="854"></iframe>
-
-### Top job listings for you
-
-| Job Title | Apply by | How to Apply |
-| -------- | -------- | -------- |
-| Business Analyst/Senior Business Analyst (Digital Solutions, Digitalisation) | 31 Dec | [Jurong Port](https://ephv.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/48/?utm_medium=jobshare) |
-| System Specialist | 21 Oct |[MaritimeONE Portal](https://www.maritimeone.sg/job-detail/SX3O3GSKHPYJX6LGAAO1) |
-| Engineer (Autonomous Vehicle) | 31 Dec | [PSA Careers](https://psacareers.singaporepsa.com/en/job/493427/engineer-autonomous-vehicle) |
-| Cyber Security Network Engineer | 31 Dec |[PSA Careers](https://psacareers.singaporepsa.com/en/job/493388/cyber-security-network-engineer) |
