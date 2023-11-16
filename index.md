@@ -9,8 +9,8 @@ sections:
   - hero:
       url: /maritime-singapore/
       key_highlights:
-        - title: Watch The Matchmaker
-          description: A short film series
+        - title: The Matchmaker
+          description: Seek new horizons
           url: /matchmaker/short-film-series
         - title: Shore or Not?
           description: Maritime myths debunked
