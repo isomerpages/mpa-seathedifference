@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Innovation for Maritime Sustainability
 Alternative ship fuel such as biofuel, hydrogen, ammonia and methanol could reduce greenhouse gas emission. In this video, we see how a methanol-fuelled injection system that can be packed onto existing diesel engines is developed.
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Lfqk1nmNaMg?si=vFMVvXn62sS4pvpc" height="480" width="854"></iframe>
+<iframe title="Embedded post" allowfullscreen="" frameborder="0" width="710" height="399" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7112371183559315456?compact=1"></iframe>
 
 
 ### Sustainability This or That?
