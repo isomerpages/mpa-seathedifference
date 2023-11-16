@@ -12,4 +12,3 @@ variant: markdown
 Dive into the intricate world of underwater surveys with Syakir, Senior Technical Executive in Hydrography at MPA. Through detailed surveys, Syakir ensures ships navigate Singapore's busy waters safely. Discover the blend of technology and marine know-how as we shadow him use advanced equipment like multibeam sonar systems to ensure nautical charts are up to date. 
 
 Intrigued to learn more? Set sail to other episodes of&nbsp;**Make A Splash**&nbsp;and explore diverse maritime professions that are steering the industry into a new era.
-
