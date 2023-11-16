@@ -6,7 +6,7 @@ third_nav_title: Maritime Services
 variant: markdown
 ---
 ### Life of a Marine Insurance Broker
-Acting as an intermediaries between her clients and insurers, Michelle shares how marine insurance is one of the oldest forms of insurance worldwide, and how she provides sound advice in her clients' interest.
+Acting as an intermediary between her clients and insurers, Michelle shares how marine insurance is one of the oldest forms of insurance worldwide, and how she provides sound advice in her clients' interest.
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/R2tgSThQGyw?si=fDrpJmGUJbXGQO7c" height="480" width="854"></iframe>
 
 ### Financial, legal, insurance services in the spotlight
