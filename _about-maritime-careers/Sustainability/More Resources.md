@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Sustainability
 variant: markdown
 ---
-### Innovation for Maritime Sustainability
-Alternative ship fuel such as biofuel, hydrogen, ammonia and methanol could reduce greenhouse gas emission. In this video, we see how a methanol-fuelled injection system that can be packed onto existing diesel engines is developed.
+### Incorporating sustainability in port design and infrastructure
+Discover how MPA is tackling decarbonisation – by optimising port design and infrastructure, efficiency and digitalisation, and sustainable practices and policies.
 <iframe title="Embedded post" allowfullscreen="" frameborder="0" width="710" height="399" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7112371183559315456?compact=1"></iframe>
 
 
