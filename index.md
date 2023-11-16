@@ -27,9 +27,9 @@ sections:
   - infopic:
       title: THE MATCHMAKER
       subtitle: Short film series
-      description: Whilst navigating career crossroads, they meet an unorthodox
-        matchmaker. Skepticism turns into curiosity as they seek out new
-        horizons.
+      description: Whilst navigating career crossroads, four individuals meet an
+        unorthodox matchmaker. Skepticism turns into curiosity as they seek out
+        new horizons.
       button: More Here
       url: /matchmaker/short-film-series/
       image: /images/matchmaker.png
@@ -39,9 +39,9 @@ sections:
       button: More Here
       alt: Image alt text
       subtitle: explore jobs in maritime
-      description: "Dive in and 'Make a Splash': with Joakim Gomez! Explore modern
-        maritime careers, ranging from self-steering vessels to electronic
-        delivery notes."
+      description: Dive in and 'Make a Splash' with Joakim Gomez! Explore new,
+        futuristic maritime careers, ranging from operating self-steering
+        vessels to e-delivery notes.
       url: /make-a-splash/a-day-in-life-of/
       image: /images/mpa_shore or not_kv_1200x630_3oct23-2 (1).jpg
   - infopic:
