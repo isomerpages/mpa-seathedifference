@@ -6,8 +6,7 @@ third_nav_title: Sustainability
 variant: markdown
 ---
 ### Incorporating sustainability in port design and infrastructure
-Discover how MPA is tackling decarbonisation – by optimising port design and infrastructure, efficiency and digitalisation, and sustainable practices and policies. Watch the video [here](https://www.linkedin.com/posts/mpasingapore_experts-answer-questions-from-googletwitter-activity-7112371907361968128-0Z2r?utm_source=share&amp;utm_medium=member_desktop)
-<iframe title="Embedded post" allowfullscreen="" frameborder="0" width="710" height="399" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7112371183559315456?compact=1"></iframe>
+Discover how MPA is tackling decarbonisation – by optimising port design and infrastructure, efficiency and digitalisation, and sustainable practices and policies. Watch the video [here](https://www.linkedin.com/posts/mpasingapore_experts-answer-questions-from-googletwitter-activity-7112371907361968128-0Z2r?utm_source=share&amp;utm_medium=member_desktop).
 
 
 ### Sustainability This or That?
