@@ -32,7 +32,7 @@ sections:
         new horizons.
       button: More Here
       url: /matchmaker/short-film-series/
-      image: /images/matchmaker.png
+      image: /images/WhatsApp_Image_2023_11_16_at_20_48_03_fbfaedb5.jpg
       alt: The Matchmaker
   - infopic:
       title: MAKE A SPLASH
