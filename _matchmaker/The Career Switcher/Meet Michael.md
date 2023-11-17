@@ -13,7 +13,7 @@ third_nav_title: The Career Switcher
 ### MEET MICHAEL
 <img border="0" alt="3" src="https://i.ibb.co/KmtnTm0/3.png">
 
-A flight attendant with a keen interest in problem-solving, Michael has developed an application that can help track his personal carbon footprint. He has enjoyed travelling the world as part of his job for many years. Nonetheless, he never considered the possibility of a career in a different industry that would allow him to make a positive impact while pursuing his passions. 
+A flight attendant with a keen interest in problem-solving, Michael has developed an application that can help track his personal carbon footprint. He has enjoyed travelling the world as part of his job for many years. Nonetheless, he never considered the possibility of a career in a different industry that would allow him to make a positive impact while pursuing his passions.
 
 ### INSPIRED BY REAL PEOPLE
 
