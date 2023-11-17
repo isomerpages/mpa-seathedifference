@@ -6,4 +6,4 @@ image: /images/microsite logo.png
 third_nav_title: The Experienced Worker
 variant: markdown
 ---
-<img border="0" alt="Dylan" src="https://i.ibb.co/xCn1jNW/Dylan.png">
+<img border="0" alt="Dylan" src="https://i.ibb.co/w6yv7Ys/Dylan.png">
