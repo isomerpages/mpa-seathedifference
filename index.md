@@ -21,7 +21,7 @@ sections:
         - title: Explore Maritime's offerings
           description: Start your maritime journey
           url: /maritime-singapore/
-      background: /images/final.png
+      background: /images/Final.png
       variant: image
       button: Explore Maritime's offerings
   - infopic:
