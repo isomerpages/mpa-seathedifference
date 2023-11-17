@@ -6,4 +6,4 @@ image: /images/microsite logo.png
 third_nav_title: The Career Switcher
 variant: markdown
 ---
-<img border="0" alt="Norhakim" src="https://i.ibb.co/6NTHqL3/Norhakim.png">
+<img border="0" alt="Norhakim" src="https://i.ibb.co/946bxtd/Norhakim.png">
