@@ -43,7 +43,7 @@ sections:
         futuristic maritime careers, ranging from operating self-steering
         vessels to e-delivery notes.
       url: /make-a-splash/a-day-in-life-of/
-      image: /images/mpa_shore or not_kv_1200x630_3oct23-2 (1).jpg
+      image: /images/Option_2.jpg
   - infopic:
       title: SHORE OR NOT?
       subtitle: Street Interviews
