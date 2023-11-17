@@ -7,7 +7,7 @@ variant: markdown
 Maritime Singapore is more than just shipping. Whether you're considering a career switch or just curious, join us as we explore some common misconceptions about Maritime Singapore and discover why it is such an exciting and rewarding field to be a part of.
 
 ### The maritime industry is just about shipping.
-(Infographic by viddsee)
+<img border="0" alt="test" src="https://i.ibb.co/RbNgs1Q/test.png">
 
 ### Only those with the specialised maritime skills or qualifications can enter the industry.
 (Infographic by viddsee)
@@ -23,6 +23,3 @@ Maritime Singapore is more than just shipping. Whether you're considering a care
 
 ### Working in maritime means I have to wear a hard hat and work under the hot sun all the time.
 (Infographic by viddsee)
-
-
-
