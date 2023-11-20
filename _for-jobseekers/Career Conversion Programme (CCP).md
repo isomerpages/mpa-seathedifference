@@ -4,7 +4,7 @@ permalink: /for-jobseekers/ccp/
 description: ""
 variant: markdown
 ---
-As more companies under the Sea Transport sector continue to digitalise and transform, new jobs are created and cross-disciplinary skills in areas such as data analytics, automation and robotics, and sustainability are required to meet the changing demands of the maritime workforce.
+As more maritime companies continue to digitalise and transform, new jobs are created and cross-disciplinary skills in areas such as data analytics, automation and robotics, and sustainability are required to meet the changing demands of the maritime workforce.
 
 ### **WHAT IT IS**
 The Career Conversion Programme (CCP) for Sea Transport Professionals and Associates is targeted at mid-career switchers to undergo skills conversion and take on new roles in the area of Port Operations and Services, Shipping.
