@@ -40,8 +40,8 @@ sections:
       alt: Image alt text
       subtitle: explore jobs in maritime
       description: Dive in and 'Make a Splash' with Joakim Gomez! Explore new,
-        futuristic maritime careers, ranging from operating self-steering
-        vessels to e-delivery notes.
+        exciting maritime careers, from operating self-steering vessels to
+        e-delivery notes.
       url: /make-a-splash/a-day-in-life-of/
       image: /images/Option_2.jpg
   - infopic:
