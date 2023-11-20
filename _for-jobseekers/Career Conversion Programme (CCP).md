@@ -20,7 +20,7 @@ Applicants under the programme must fulfil the following criteria:
 *   New job role trained for under the CCP should be substantially different from previous job role, hence require reskilling for career switch
 *   Meet employer or course-specific selection criteria, where applicable
 
-Beyond the general eligibility criteria for the CCP, applicants should also not be:
+Beyond the general eligibility criteria for the CCP, applicants should not be:
 
 *   Shareholders of the participating company or its related entities
 *   Immediate ex-employees of the participating company or its related entities
