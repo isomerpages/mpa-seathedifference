@@ -19,6 +19,7 @@ Check out our current available internship placements below:
 | Maritime Business | You will help to coordinate operational activities with various stakeholders; look out for new technologies that could improve port operations; and provide admin support. |
 | Civil Structural Engineering; Project Management     | You will assist the resident engineer with land reclamation work including dredging, stone revetment protection work, reclamation fill and soil improvement works.       |
 | Building and Civil Structural Engineering; Mechanical and Electrical Engineering; Project Management     | You will be involved in projects building works including attending meetings, reviewing engineering design reports, assisting with project management and aligning projects with BCA Green Mark Certification requirements.        |
-
+| Electrical and Electronics Engineering; Computer Engineering     | You will be part of the Command & Control Systems Engineering team to assist in the development and implementation of capabilities such as Next Generation Vessel Traffic Management System, Integrated Port Operations C3, MPA Video Hub and OT Data Hub.       |
+| Electrical and Electronics Engineering; Computer Engineering     | You will be part of the Communications and Datalink Engineering team to assist in the development, implementation and sustainment of capabilities such as Maritime 5G, VHF Data Exchange System (VDES), Maritime Communications System (MCS) Automatic Identification System (AIS).       |
 
 To apply, submit your CV [here](https://go.gov.sg/mpa-internships-application)!
