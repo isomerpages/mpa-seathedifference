@@ -9,7 +9,7 @@ Are you a business or social sciences student looking to partake in a dynamic wo
 
 Check out our current available internship placements below:
 
-| Division | Recommended field of study or skillset | Scope of work |
+| Division | Field of study | Scope of work |
 | -------- | -------- | -------- |
 | Human Resource (HR) | Human Resource (Learning and Development / Organisation Development); Communications & Engagement; Events & Project Management | You will be part of the Talent Attraction & Development (TAD) team to assist in organising corporate engagement events, designing eDMs for engagement communications, plan outreach activities, and refresh the learning roadmap for MPA officers. |
 | Engineering and Project Management (EPM) | Project Management with training in Civil Engineering | You will be part of the Tuas Port Reclamation 1 (TPR1) team to assist in project management of the Tuas Port development related and department related activities. |
