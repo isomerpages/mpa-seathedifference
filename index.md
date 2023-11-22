@@ -29,7 +29,7 @@ sections:
       subtitle: Short film series
       description: Whilst navigating career crossroads, four individuals meet an
         unconventional matchmaker. Skepticism turns into curiosity as they seek
-        out new horizons.
+        new horizons.
       button: More Here
       url: /matchmaker/short-film-series/
       image: /images/WhatsApp_Image_2023_11_16_at_20_48_03_fbfaedb5.jpg
