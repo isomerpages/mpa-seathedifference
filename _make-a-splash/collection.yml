@@ -2,4 +2,4 @@ collections:
   make-a-splash:
     output: true
     order:
-      - A Day In A Life Of.md
+      - A Day In the Life Of.md
