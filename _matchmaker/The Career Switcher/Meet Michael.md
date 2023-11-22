@@ -7,7 +7,7 @@ third_nav_title: The Career Switcher
 ---
 **A seasoned flight attendant with a flair for tech and passion for sustainability, crosses paths with Gloria, a maritime veteran with a treasure trove of stories.**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="385" width="100%"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wj73T74nTvs?si=VjwyCCpV4Taf_OiB" height="315" width="560"></iframe>
 
 
 ### MEET MICHAEL
