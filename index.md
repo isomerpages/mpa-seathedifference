@@ -43,14 +43,14 @@ sections:
         exciting maritime careers, from operating self-steering vessels to
         e-delivery notes.
       url: /make-a-splash/a-day-in-life-of/
-      image: /images/Option_2.jpg
+      image: /images/Mediacorp_Personality__Joakim_GFomez.jpg
   - infopic:
       title: SHORE OR NOT?
       subtitle: Street Interviews
       button: More here
       description: What are some common misconceptions about the maritime industry?
         Join Joakim Gomez as he hits the streets to debunk maritime myths!
-      image: /images/mpa_shore or not_kv_1200x630_3oct23-2 (1).jpg
+      image: /images/Mediacorp_Liner_on_MASSON_KVs.jpg
       url: /shore-or-not/street-interview-series/
       alt: Shore or Not
   - infobar:
