@@ -9,17 +9,13 @@ Digitalisation is the future for the maritime industry. Be ready to unlock your 
 
 Check out our current available internship placements below:
 
-| Division | Field of study | Scope of work |
-| -------- | -------- | -------- |
-| Shipping (SG)      | Degree in Business analysis; Information technology; Robotics; Data science; computer engineering     | You will be part of the Singapore Ship Registry (SSR) team to assist in streamlining and enhancing operations and processes to increase efficiency and productivity through data analysis and robotic process automation     |
-| Operations & Marine Services (OMS)      | Data Science     | You will be part of the Marine Environment and Safety (MES) team to assist in utilising data to generate insights using data visualisation tools such as dashboards and maps. You are also required to develop data analytics-related training material to prepare the monthly ASI management report.     |
-| Finance, Procurement & Admin (FPA)      | Data science; Analytics; Accountancy; Business     | You will be part of the Finance, Procurement and Admin (FPA) team to assist in conducting data analytics to suggest preliminary proposals for upcoming fee review exercises and opportunities for policies.     |
-| Communication and Community (C&C)      | Communications Research; Digital and data analytics; Data science     | You will be part of the Research and Planning team to assist in data and statistical analysis for MPA strategic communications efforts, including conducting focus group studies and public perception surveys.     |
-| Infotechnology (ITD)      | Degree in Computer Science, Computer Engineering or related Engineering discipline     | You will be part of the Maritime Cyber Security team to assist in developing computational programme for analysing tactic, techniques and procedure for cyber big data.     |
-| Infotechnology (ITD)      | Computer Science; Analytics     | You will be part of the Enterprise Systems Development team to assist in Agile development lifecycle, developing applications using different programming languages and framework, and MPA enterprise collaboration tool using different programming languages and frameworks such as Java, .NET Core, NodeJS, React JS, React Native and many more.     |
-| Statistics & Data Systems (SDSD)      | Data Analytics; Computer Science     | You will be part of the Statistics and Data Systems team to assist in data studies and modelling, and artificial learning or machine learning modelling including survey operations and dashboard development.     |
-| Statistics & Data Systems (SDSD)      | Business; Economics; Maritime Studies      | You will be part of the Statistics and Data Systems team to assist in developing survey questions for future-facing insights and conducting comprehensive research and analysis to develop insights and recommendations.     |
-
-More details can be found here - (insert PDF)
+| Field of study | Scope of work |
+| -------- | -------- |
+| Degree in Business analysis; Information technology; Robotics; Data science; computer engineering     | You will help to automate and digitalise operations of the ship registry; participate in design of digital ship registry system; perform data validation and quality control.     |
+| Data Science     | You will utilise data to generate insights for data-driven decision making; prepare dashboards and reports; develop training materials; and identify opportunities for policy review.      |
+| Data science; Analytics; Accountancy; Business     | You will analyse financial and operational data to propose fee or policy review.     |
+| Communications Research; Digital and data analytics; Data science     | You will analyse news coverage and online sentiments; provide insights and recommend communications strategies. You will also assist with surveys and focus group discussions.       |
+| Data Analytics; Computer Science     | You will assist in quantitative analysis and communication of findings, leveraging on techniques in statistics, machine learning, data modelling and dashboards. You will also assist to employ AI/ML methods to aid and improve business processes.     |
+| Statistics; Business; Economics; Maritime Studies      | You will assist to design and implement industry surveys to derive insights that aid policymaking, using relevant survey and sampling methodologies. You will also apply statistical and econometric techniques to generate analyses that address users’ data problem statements.     |
 
 To apply, submit your CV [here](https://go.gov.sg/mpa-internships-application)!
