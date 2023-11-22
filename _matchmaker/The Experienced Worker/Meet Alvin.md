@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: The Experienced Worker
 ---
-**After his company restructured, a dedicated engineer worries about how he would land another job.  An unexpected journey begins as he steps into 45 Marine Drive, crossing paths with Gloria, a seasoned maritime maven.**
+**After his company's restructuring, a senior engineer worries about how to find another job. An unexpected pamphlet in the letter box brings him to the office of Gloria, the seasoned maritime maven.**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/depPvl7Zt-g?si=j0vqTHlP8EfLstQB" height="315" width="560"></iframe>
 
@@ -13,7 +13,7 @@ third_nav_title: The Experienced Worker
 ### MEET ALVIN
 <img border="0" alt="9" src="https://i.ibb.co/CwjzdnB/9.png">
 
-Amidst a pile of bills and flyers, one titled “Career Advice by The Matchmaker” intrigues him. He steps into the Matchmaker’s office and shares his worries about keeping up in a fast-paced environment where his skills may be rendered obsolete.  
+Amidst a stack of bills and flyers, one about meeting a certain “Matchmaker”, stands out. Stepping into her office, he pours out his worries about how his years of experience may be rendered obsolete in this new, fast-paced environment, that is all about 'tech'.  
 
 ### INSPIRED BY REAL PEOPLE
 
