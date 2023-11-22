@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Street Interviews.md
-      - Public Perspectives.md
       - Professional Insights.md
       - Fact or Fiction?.md
