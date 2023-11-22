@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: The Freelancer
 ---
-**A young man looking to settle down is tired of jumping between jobs. His life takes an unexpected turn when he meets Gloria, the enigmatic Matchmaker, as he discovers opportunities in the maritime sector.**
+**A young man, tired of hopping from one gig to another, is hoping to finally settle down. His life takes an unexpected turn when he meets Gloria, the enigmatic Matchmaker, who opens his eyes to the maritime sector.**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gZW2FxengMw?si=KAsHM64-zacMBEAM" height="315" width="560"></iframe>
 
