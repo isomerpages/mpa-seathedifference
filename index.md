@@ -42,12 +42,12 @@ sections:
       description: "Dive in and 'Make a Splash' with Joakim Gomez! Explore new,
         exciting maritime careers, from operating self-steering vessels to
         managing vessel traffic. "
-      url: test
+      url: make-a-splash/a-day-in-a-life-of/
       image: /images/Mediacorp_Personality__Joakim_GFomez.jpg
   - infopic:
       title: SHORE OR NOT?
       subtitle: Street Interviews
-      button: More here
+      button: Coming Soon
       description: What are some common misconceptions about the maritime industry?
         Join Joakim Gomez as he hits the streets to debunk maritime myths!
       image: /images/Mediacorp_Liner_on_MASSON_KVs.jpg
