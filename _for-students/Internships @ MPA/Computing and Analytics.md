@@ -9,7 +9,7 @@ Digitalisation is the future for the maritime industry. Be ready to unlock your 
 
 Check out our current available internship placements below:
 
-| Division | Recommended field of study or skillset | Scope of work |
+| Division | Field of study | Scope of work |
 | -------- | -------- | -------- |
 | Shipping (SG)      | Degree in Business analysis; Information technology; Robotics; Data science; computer engineering     | You will be part of the Singapore Ship Registry (SSR) team to assist in streamlining and enhancing operations and processes to increase efficiency and productivity through data analysis and robotic process automation     |
 | Operations & Marine Services (OMS)      | Data Science     | You will be part of the Marine Environment and Safety (MES) team to assist in utilising data to generate insights using data visualisation tools such as dashboards and maps. You are also required to develop data analytics-related training material to prepare the monthly ASI management report.     |
