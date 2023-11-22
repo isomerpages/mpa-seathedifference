@@ -39,10 +39,10 @@ sections:
       button: Coming soon
       alt: Image alt text
       subtitle: explore jobs in maritime
-      description: "Dive in and 'Make a Splash' with Joakim Gomez! Explore new,
+      description: Dive in and 'Make a Splash' with Joakim Gomez! Explore new,
         exciting maritime careers, from operating self-steering vessels to
-        managing vessel traffic. "
-      url: make-a-splash/a-day-in-a-life-of/
+        managing vessel traffic.
+      url: make-a-splash/a-day-in-the-life-of/
       image: /images/Mediacorp_Personality__Joakim_GFomez.jpg
   - infopic:
       title: SHORE OR NOT?
