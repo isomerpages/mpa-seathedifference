@@ -9,7 +9,7 @@ As the maritime industry moves towards digitalisation, efficient operations are 
 
 Check out our current available internship placements below:
 
-| Division | Recommended field of study or skillset | Scope of work |
+| Division | Field of study | Scope of work |
 | -------- | -------- | -------- |
 | Shipping (SG)      | Degree in Marine Engineering / Naval Architecture / Mechanical Engineering / Electrical Engineering / Maritime Studies     | You will be part of the Ship Regulatory, Design and Standards (SRDS) team to assist in evaluation of energy efficiency and suitability of new harbour crafts, participate in new resolutions related to decarbonisation in the maritime industry.     |
 | Operations & Marine Services (OMS)      | Data science; Chemical engineering; Marine engineering     | You will be part of the Standards and Investigation (SIMF) team to assist in analysing data on deliveries of bunker in Singapore and prepare an interactive dashboard with a view to guide future fuel policies.     |
