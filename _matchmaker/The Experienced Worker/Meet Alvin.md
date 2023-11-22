@@ -7,7 +7,7 @@ third_nav_title: The Experienced Worker
 ---
 **After his company restructured, a dedicated engineer worries about how he would land another job.  An unexpected journey begins as he steps into 45 Marine Drive, crossing paths with Gloria, a seasoned maritime maven.**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="385" width="100%"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/depPvl7Zt-g?si=j0vqTHlP8EfLstQB" height="315" width="560"></iframe>
 
 
 ### MEET ALVIN
