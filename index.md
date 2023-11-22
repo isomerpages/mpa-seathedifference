@@ -39,9 +39,9 @@ sections:
       button: Coming soon
       alt: Image alt text
       subtitle: explore jobs in maritime
-      description: Dive in and 'Make a Splash' with Joakim Gomez! Explore new,
+      description: "Dive in and 'Make a Splash' with Joakim Gomez! Explore new,
         exciting maritime careers, from operating self-steering vessels to
-        e-delivery notes.
+        managing vessel traffic. "
       url: test
       image: /images/Mediacorp_Personality__Joakim_GFomez.jpg
   - infopic:
