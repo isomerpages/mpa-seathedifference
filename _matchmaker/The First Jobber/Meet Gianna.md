@@ -19,6 +19,6 @@ Gianna is in her first job after graduation and has been feeling unfulfilled in 
 
 <img border="0" alt="1" src="https://i.ibb.co/WvWgNhw/1.png">
 
-Meet Gladys See, a shipbroker at Howe Robinson Partners. Similar to Gianna's quest for fulfillment, Gladys realised her initial career in a marketing department of the Food &amp; Beverage sector wasn't her true calling. This sparked her venture into a different, yet exciting, new industry — maritime. With her analytical mind and networking capabilities, along with her outgoing personality and can-do mindset, Gladys is breaking new ground in her newfound maritime career.
+Meet Gladys See, a shipbroker at Howe Robinson Partners. Like Gianna, Gladys' quest for fulfillment made her realise that her initial career in a marketing department of the Food &amp; Beverage sector wasn't her true calling. This sparked her venture into a different, yet exciting, new industry — maritime. With her analytical mind and networking capabilities, along with her outgoing personality and can-do mindset, Gladys is breaking new ground in her newfound maritime career.
 
 Read her story next.
