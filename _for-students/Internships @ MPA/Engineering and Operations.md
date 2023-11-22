@@ -9,19 +9,17 @@ As the maritime industry moves towards digitalisation, efficient operations are 
 
 Check out our current available internship placements below:
 
-| Division | Field of study | Scope of work |
-| -------- | -------- | -------- |
-| Shipping (SG)      | Degree in Marine Engineering / Naval Architecture / Mechanical Engineering / Electrical Engineering / Maritime Studies     | You will be part of the Ship Regulatory, Design and Standards (SRDS) team to assist in evaluation of energy efficiency and suitability of new harbour crafts, participate in new resolutions related to decarbonisation in the maritime industry.     |
-| Operations & Marine Services (OMS)      | Data science; Chemical engineering; Marine engineering     | You will be part of the Standards and Investigation (SIMF) team to assist in analysing data on deliveries of bunker in Singapore and prepare an interactive dashboard with a view to guide future fuel policies.     |
-| Operations & Marine Services (OMS)      | Maritime related diploma     | You will be part of the Standards and Investigation (SIMF) team to assist in the administration of licenses and engagement with industry stakeholders.     |
-| Operations & Marine Services (OMS)      | Maritime Business     | You will be part of the Marine Environment and Safety (MES) team to assist in the designing, testing, and feedback of digitalisation projects.     |
-| Operations & Marine Services (OMS) | Maritime Business | You will be part of the Marine Licensing and Permits (MLP) team to assist in managing the licensing requirements related to harbour crafts and pleasure crafts. |
-| Operations & Marine Services (OMS) | Maritime Business | You will be part of the Operations Planning and Pilotage (OPP) team to assist in coordinating efforts with stakeholders to ensure seamless execution of operation activities, research on new technologies, and administrative support during SAR operations. |
-| Engineering and Project Management (EPM)      | Civil Structural Engineering; Project Management     | You will be part of the Building and Infrastructure Department (BID) team to assist the Resident Engineer for supervision of land reclamation works.      |
-| Engineering and Project Management (EPM)      | Building and Civil Structural Engineering; Mechanical and Electrical Engineering; Project Management     | You will be part of the Building and Infrastructure Department (BID) team to assist in building works projects, following the BCA Green Mark Certification Requirements.       |
-| Maritime Decarbonisation (MDD)      | Electrical engineering     | You will be part of the Decarbonisation Planning and Infrastructure team to assist in sizing up energy demand and supply, understanding renewable energy, and perform feasibility analysis for the infrastructure plan and potential clean harbour craft projects.     |
-| Port Systems (PS)      | Electrical and Electronics Engineering; Computer Engineering     | You will be part of the Port Systems Capability Development team to assist in projects such as C2 Systems, video technology, drone & unmanned technology, and wireless connectivity in the maritime industry.     |
-| Port Systems (PS)      | Electrical and Electronics Engineering; Computer Engineering     | You will be part of the Port Systems Operations and Support team to assist in system management concepts and be involved in the transformation maintenance management or port systems.     |
+| Field of study | Scope of work |
+| -------- | -------- |
+| Degree in Marine Engineering / Naval Architecture / Mechanical Engineering / Electrical Engineering / Maritime Studies     | You will assist to evaluate energy efficiency of new harbour craft to ensure it meets national and international requirements; participate in engineering review and guidelines for safe delivery of electrical propulsion; and assist with policies formulation.         |
+| Data science; Chemical engineering; Marine engineering     | You will utilise data to generate insights for data-driven decision making; prepare dashboards and reports; develop training materials; and identify opportunities for policy review.     |
+| Maritime related diploma     | You will help to administer bunker licences; engage industry stakeholders; and compile and analyse data for management reporting.      |
+| Maritime Business     | You will assist in the designing and testing of digitalisation projects; and training of the new systems. You will use data to improve enforcement and incident response as well as provide support in meetings.      |
+| Maritime Business | You will manage the licensing requirements related to harbour crafts and pleasure crafts and identify collaboration opportunities with companies.  |
+| Maritime Business | You will help to coordinate operational activities with various stakeholders; look out for new technologies that could improve port operations; and provide admin support. |
+| Civil Structural Engineering; Project Management     | You will assist the resident engineer with land reclamation work including dredging, stone revetment protection work, reclamation fill and soil improvement works.       |
+| Building and Civil Structural Engineering; Mechanical and Electrical Engineering; Project Management     | You will be involved in projects building works including attending meetings, reviewing engineering design reports, assisting with project management and aligning projects with BCA Green Mark Certification requirements.        |
+
 
 More details can be found here - (insert PDF)
 
