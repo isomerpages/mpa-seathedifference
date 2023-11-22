@@ -8,7 +8,7 @@ variant: markdown
 ---
 **In a whirlwind of fate, coffee mix-ups, and insightful conversations, Gianna, a young professional feeling out of place in her first job, encounters Gloria, a well-travelled, experienced individual in the maritime industry.**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1rbu6PWARtw?si=dDuz8BSxvPsLGLPx" height="385" width="100%"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Ujo0Qtx2kQM?si=pLgkACsSj8h9U2RT" height="315" width="560"></iframe>
 
 ### MEET GIANNA
 <img border="0" alt="2" src="https://i.ibb.co/GTDFLDh/2.jpg">
