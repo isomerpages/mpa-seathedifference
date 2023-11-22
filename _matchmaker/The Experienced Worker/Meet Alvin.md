@@ -13,10 +13,12 @@ third_nav_title: The Experienced Worker
 ### MEET ALVIN
 <img border="0" alt="9" src="https://i.ibb.co/CwjzdnB/9.png">
 
-Amidst a stack of bills and flyers, one about meeting a certain “Matchmaker”, stands out. Stepping into her office, he pours out his worries about how his years of experience may be rendered obsolete in this new, fast-paced environment, that is all about 'tech'.  
+Amidst a stack of bills and flyers, one about meeting a certain “Matchmaker”, stands out. Stepping into her office, he pours out his fears about how his years of experience may be rendered obsolete in this new, fast-paced world that is all about 'tech'.  
 
 ### INSPIRED BY REAL PEOPLE
 
 <img border="0" alt="2" src="https://i.ibb.co/5c04nvj/2.png">
 
-Thayaalan (or Dylan, as he is known to his industry counterparts) is a shipbroker and an Associate Director at Braemar Shipbroking Pte. Ltd. Like Alvin, Dylan made the transition from an entirely different industry to maritime later in his career. A former uniformed serviceman, he joined the maritime industry as a shipbroker. From a solo contributor, he now leads a finds fulfilment in mentoring a team of junior shipbrokers.
+Thayaalan (or Dylan, as he is known to his industry counterparts) is a shipbroker and an Associate Director at Braemar Shipbroking Pte. Ltd. Like Alvin, Dylan made the transition to maritime late in his career from an entirely different industry — the uniformed services. From a solo contributor, he now leads a finds fulfillment in mentoring a team of junior shipbrokers.
+
+Read his story next.
