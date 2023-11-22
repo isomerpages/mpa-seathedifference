@@ -9,7 +9,7 @@ Are you a business or social sciences student looking to partake in a dynamic wo
 
 Check out our current available internship placements below:
 
-Field of study | Scope of work |
+| Field of study | Scope of work |
 | -------- | -------- |
 | Human Resource (Learning and Development / Organisation Development); Communications & Engagement; Events & Project Management | You will help to organise corporate engagement events, design eDMs; plan outreach activities; research suitable programmes for learning and development; and refresh the learning roadmap. |
 | Project Management with training in Civil Engineering | You will assist with project management of the Tuas Port. These include monitoring progress of the project; provide inputs to project design and specifications in tender documents; and preparing reports to management. |
