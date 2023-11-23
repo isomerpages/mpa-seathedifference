@@ -1,0 +1,17 @@
+collections:
+  matchmaker:
+    output: true
+    order:
+      - A Short Film Series.md
+      - The First Jobber/Meet Gianna.md
+      - The First Jobber/.keep
+      - The First Jobber/Inspired by Gladys.md
+      - The Freelancer/Meet Selvam.md
+      - The Freelancer/.keep
+      - The Freelancer/Inspired by Justin.md
+      - The Career Switcher/Meet Michael.md
+      - The Career Switcher/.keep
+      - The Career Switcher/Inspired by Norhakim.md
+      - The Experienced Worker/Meet Alvin.md
+      - The Experienced Worker/.keep
+      - The Experienced Worker/Inspired by Thayaalan.md

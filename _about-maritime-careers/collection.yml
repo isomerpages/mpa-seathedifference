@@ -1,0 +1,23 @@
+collections:
+  about-maritime-careers:
+    output: true
+    order:
+      - Maritime Singapore.md
+      - Sustainability/.keep
+      - Sustainability/About.md
+      - Sustainability/More Resources.md
+      - Digitalisation/.keep
+      - Digitalisation/About.md
+      - Digitalisation/More Resources.md
+      - Operations and Marine Services/.keep
+      - Operations and Marine Services/About.md
+      - Operations and Marine Services/More Resources.md
+      - Maritime Services/.keep
+      - Maritime Services/About.md
+      - Maritime Services/More Resources.md
+      - Seafaring and Offshore/.keep
+      - Seafaring and Offshore/About.md
+      - Seafaring and Offshore/More Resources.md
+      - Corporate Roles/.keep
+      - Corporate Roles/About.md
+      - Corporate Roles/More Resources.md

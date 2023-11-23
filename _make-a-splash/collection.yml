@@ -1,0 +1,5 @@
+collections:
+  make-a-splash:
+    output: true
+    order:
+      - A Day In the Life Of.md

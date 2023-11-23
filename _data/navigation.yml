@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/microsite logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: the MATCHMAKER
+    collection: matchmaker
+  - title: SHORE OR NOT
+    collection: shore-or-not
+  - title: MAKE A SPLASH
+    collection: make-a-splash
+  - title: About Maritime Careers
+    collection: about-maritime-careers
+  - title: For Students
+    collection: for-students
+  - title: For Jobseekers
+    collection: for-jobseekers

@@ -1,32 +1,61 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Sea the Difference
+description: An Isomer site of the Singapore Government
+image: /images/maritime_and_port_authority_of_singapore_(logo).png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      url: /maritime-singapore/
+      key_highlights:
+        - title: The Matchmaker
+          description: Seek new horizons
+          url: /matchmaker/short-film-series
+        - title: Shore or Not?
+          description: Maritime myths debunked
+          url: /shore-or-not/street-interview-series/
+        - title: Make a Splash!
+          description: A day-in-the-life
+          url: /make-a-splash/a-day-in-life-of/
+        - title: Explore Maritime's offerings
+          description: Start your maritime journey
+          url: /maritime-singapore/
+      background: /images/final_final.png
+      variant: image
+      button: Explore Maritime's offerings
+  - infopic:
+      title: THE MATCHMAKER
+      subtitle: Short film series
+      description: Whilst navigating career crossroads, four individuals meet an
+        unconventional matchmaker. Skepticism turns into curiosity as they seek
+        new horizons.
+      button: More Here
+      url: /matchmaker/short-film-series/
+      image: /images/WhatsApp_Image_2023_11_16_at_20_48_03_fbfaedb5.jpg
+      alt: The Matchmaker
+  - infopic:
+      title: MAKE A SPLASH
+      button: Coming soon
+      alt: Image alt text
+      subtitle: explore jobs in maritime
+      description: Dive in and 'Make a Splash' with Joakim Gomez! Explore new,
+        exciting maritime careers, from operating self-steering vessels to
+        managing vessel traffic.
+      url: make-a-splash/a-day-in-the-life-of/
+      image: /images/Mediacorp_Personality__Joakim_GFomez.jpg
+  - infopic:
+      title: SHORE OR NOT?
+      subtitle: Street Interviews
+      button: Coming Soon
+      description: What are some common misconceptions about the maritime industry?
+        Join Joakim Gomez as he hits the streets to debunk maritime myths!
+      image: /images/Mediacorp_Liner_on_MASSON_KVs.jpg
+      url: /shore-or-not/street-interview-series/
+      alt: Shore or Not
+  - infobar:
+      title: Seen the Difference?
+      description: Are you ready to kickstart your maritime career?
+      button: Start Here
+      url: /maritime-singapore
 ---
-
