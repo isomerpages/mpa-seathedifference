@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Courses
 variant: markdown
 ---
-![](/images/sp-logo.png)
-
 ### Diploma in Marine Engineering
 
 The Diploma in Marine Engineering (DMR) course encompasses various engineering disciplines; mechanical engineering, electrical and electronic engineering, engineering design and control technology that are required to make a ship an independent power plant and the course curriculum is planned in consultation and in accordance with the International Maritime Organisation and Maritime and Port Authority of Singapore (MPA).
@@ -32,8 +30,6 @@ The Diploma in Nautical Studies (DNS) is catered for self-motivated, independent
 For more information on Diploma in Nautical Studies, visit the course site [here](https://www.sp.edu.sg/sma/courses/full-time-diplomas/nautical-studies)
 
 <hr>
-
-![](/images/ngee_ann_polytechnic_logo.png)
 
 ### Diploma in Marine &amp; Offshore Technology
 In the first two years, you will be grounded with strong fundamentals of engineering, together with naval architecture, marine engineering and offshore design technology. In your final year, you will intern at a host company in the marine and offshore industry for six months.
