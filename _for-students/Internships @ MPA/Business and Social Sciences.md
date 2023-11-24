@@ -19,5 +19,6 @@ Check out our current available internship placements below:
 | Communications, Global Studies, International Relations; relevant experience in event management and planning will be helpful | You will assist in the preparation for the hosting of high-level government representatives at the 1st General Assembly of IALA, and support Singapore's campaign for our IALA Council candidature. |
 | Research and Analysis; Communication; Political Science; Global Studies; Maritime Studies; Sustainability. | You will assist in advancing MPA's work in green and digital shipping corridors by conducting research on potential partners as well as the maritime digitalisation and decarbonisation landscape in various geographical regions. |
 
+More details can be found in the downloadable PDF [here](https://go.gov.sg/mpa-internships-2024)
 
 To apply, submit your CV [here](https://go.gov.sg/mpa-internships-application)!
