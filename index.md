@@ -18,7 +18,7 @@ sections:
         - title: Make a Splash!
           description: A day-in-the-life
           url: /make-a-splash/a-day-in-life-of/
-        - title: Explore Maritime's offerings
+        - title: Explore offerings
           description: Start your maritime journey
           url: /maritime-singapore/
       background: /images/final_final.png
