@@ -11,11 +11,11 @@ Check out our current available internship placements below:
 
 | Field of study | Scope of work |
 | -------- | -------- |
-| Degree in Business analysis; Information technology; Robotics; Data science; computer engineering     | You will help to automate and digitalise operations of the ship registry; participate in design of digital ship registry system; perform data validation and quality control.     |
-| Data Science     | You will utilise data to generate insights for data-driven decision making; prepare dashboards and reports; develop training materials; and identify opportunities for policy review.      |
-| Data science; Analytics; Accountancy; Business     | You will analyse financial and operational data to propose fee or policy review.     |
 | Communications Research; Digital and data analytics; Data science     | You will analyse news coverage and online sentiments; provide insights and recommend communications strategies. You will also assist with surveys and focus group discussions.       |
+| Data Analytics; Computer Science     | You will be part the Product Development & Engineering team to assist in the end-to-end agile development lifecycle and develop applications using different programming languages, frameworks and MPA enterprise collaboration tool such as Java, .NET Core, NodeJS, React JS, React Native and many more.     |
 | Data Analytics; Computer Science     | You will be part of the Statistics and Data Systems team to assist in quantitative analysis and communication of findings, leveraging on techniques in statistics, machine learning, data modelling and dashboards. You will also assist to employ AI/ML methods to aid and improve business processes.     |
 | Statistics; Business; Economics; Maritime Studies      | You will be part of the Statistics and Data Systems team to assist in designing and implementing industry surveys to derive insights that aid policymaking, using relevant survey and sampling methodologies. You will also apply statistical and econometric techniques to generate analyses that address users’ data problem statements.     |
+
+More details can be found in the downloadable PDF [here](https://go.gov.sg/mpa-internships-2024)
 
 To apply, submit your CV [here](https://go.gov.sg/mpa-internships-application)!

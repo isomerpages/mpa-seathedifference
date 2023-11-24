@@ -17,7 +17,7 @@ For more information, visit the course website [here](https://www.ntu.edu.sg/edu
 
 Students will be able to take up modules which are exclusive to these joint degree programmes such as marine classifications, which cover the rules and regulations applied during the design, production and maintenance phases of marine platforms. Naval Architecture and Offshore Engineering students will learn about the engineering behind the design, structure, operation and management of ships and other large floating structures. Marine Engineering students will be exposed to marine engineering systems, from the main propulsion engines to auxiliary machineries like power generators, pumps, heat exchangers and other machinery within water, air and hydraulic systems.
 
-For more information, visit the course website [here](https://www.singaporetech.edu.sg/undergraduate-programmes/marine-engineering-teachout)
+For more information, visit the course website [here](https://www.singaporetech.edu.sg/undergraduate-programmes/marine-engineering)
 
 ### Bachelor of Engineering (with Honours) in Naval Architecture and Marine Engineering
 

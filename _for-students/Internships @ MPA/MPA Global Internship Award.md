@@ -38,4 +38,4 @@ The award will cover the following:
 *   Travel insurance and other travel-related expenses
 
 
-For more information on the latest application timeline and process, please visit [here](https://safe.menlosecurity.com/https://www.mpa.gov.sg/events-careers/education-and-scholarships/maritime-attachments/mpa-global-internship-award).
+For more information on the latest application timeline and process, please visit [here](https://www.mpa.gov.sg/events-careers/education-and-scholarships/maritime-attachments/mpa-global-internship-award).
