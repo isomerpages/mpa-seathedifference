@@ -11,7 +11,7 @@ third_nav_title: The Career Switcher
 
 
 ### MEET MICHAEL
-![](/images/Screenshot_2023_11_28_at_3_26_06_PM__1_.png)
+![](/images/Screenshot_2023_11_28_at_5_36_59_PM.png)
 
 A well-travelled flight attendant with a keen interest in problem-solving, Michael even developed a mobile app to track his personal carbon footprint. While he still enjoys scaling the skies and reaching every continent by flight, Michael is about to "sea" how his problem-solving skills can still bring about positive impact in another industry.
 
