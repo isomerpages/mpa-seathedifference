@@ -21,7 +21,7 @@ sections:
         - title: Explore offerings
           description: Start your maritime journey
           url: /maritime-singapore/
-      background: /images/final_final.png
+      background: /images/Hero_KV_squeezed.png
       variant: image
       button: Explore Maritime's offerings
   - infopic:
@@ -32,7 +32,8 @@ sections:
         new horizons.
       button: More Here
       url: /matchmaker/short-film-series/
-      image: /images/WhatsApp_Image_2023_11_16_at_20_48_03_fbfaedb5.jpg
+      image: /images/Homepage
+        Banners/WhatsApp_Image_2023_11_16_at_20_48_03_fbfaedb5.jpg
       alt: The Matchmaker
   - infopic:
       title: MAKE A SPLASH
@@ -43,14 +44,14 @@ sections:
         exciting maritime careers, from operating self-steering vessels to
         managing vessel traffic.
       url: make-a-splash/a-day-in-the-life-of/
-      image: /images/Mediacorp_Personality__Joakim_GFomez.jpg
+      image: /images/Homepage Banners/Mediacorp_Personality__Joakim_GFomez.jpg
   - infopic:
       title: SHORE OR NOT?
       subtitle: Street Interviews
       button: Coming Soon
       description: What are some common misconceptions about the maritime industry?
         Join Joakim Gomez as he hits the streets to debunk maritime myths!
-      image: /images/Mediacorp_Liner_on_MASSON_KVs.jpg
+      image: /images/Homepage Banners/Mediacorp_Liner_on_MASSON_KVs.jpg
       url: /shore-or-not/street-interview-series/
       alt: Shore or Not
   - infobar:

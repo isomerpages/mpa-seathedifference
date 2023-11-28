@@ -35,7 +35,7 @@ For existing students at the Singapore Maritime Academy (SMA)
 
 • TMSS recipients will be required to serve a bond of 3 years with a sponsoring company on a seagoing appointment.
 
-**APPLICATION FOR TMSS**
+**APPLICATION FOR TMSS (Applications open in March)**
 
 • Please&nbsp;[click here](https://form.gov.sg/640ed3eaeb5f8e0011c759d6)&nbsp;to apply.
 
