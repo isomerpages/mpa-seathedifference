@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Sea the Difference - Explore maritime career opportunities
+title: Sea the Difference - Explore maritime careers
 description: ‘Sea the Difference’ is a Maritime Singapore marketing campaign by
   the Maritime and Port Authority of Singapore (MPA) that celebrates
   opportunities and highlights the diversity of jobs in the maritime industry,
