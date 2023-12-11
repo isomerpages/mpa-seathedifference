@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Sea the Difference
+title: Sea the Difference - Explore maritime career opportunities
 description: An Isomer site of the Singapore Government
 image: /images/maritime_and_port_authority_of_singapore_(logo).png
 permalink: /
