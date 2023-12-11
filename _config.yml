@@ -53,8 +53,8 @@ staging: https://staging.d1gd0hiaqdc0wr.amplifyapp.com
 prod: https://master.d1gd0hiaqdc0wr.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/maritime_and_port_authority_of_singapore_(logo).png
-is_government: false
+is_government: true
 google_analytics: ""
 google_analytics_ga4: G-1JLZMKZMMK
-linkedin-insights: ""
+linkedin-insights: "5609004"
 resources_name: resources
