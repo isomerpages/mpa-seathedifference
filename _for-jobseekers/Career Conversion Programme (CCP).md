@@ -27,4 +27,4 @@ Beyond the general eligibility criteria for the CCP, applicants should not be:
 *   Related to the owners of the participating company
 
 
-For the full information on this programme, please refer to this [link](https://conversion.mycareersfuture.gov.sg/portal/ProgramDetails.aspx?ProgID=P00000429).
+Learn more about the [Career Conversion Programme (CCP)](https://conversion.mycareersfuture.gov.sg/portal/ProgramDetails.aspx?ProgID=P00000429).
