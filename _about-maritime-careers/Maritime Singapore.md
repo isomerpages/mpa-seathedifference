@@ -1,7 +1,9 @@
 ---
 title: Maritime Singapore
 permalink: /maritime-singapore/
-description: ""
+description: Uncover Maritime Singapore, a global hub port and a leading
+  maritime centre. Singapore is connected to more than 600 ports worldwide. We
+  offer a comprehensive range of maritime services.
 variant: markdown
 ---
 ![](/images/Homepage%20Banners/maritime%20std-kv%20795x380-04.jpg)

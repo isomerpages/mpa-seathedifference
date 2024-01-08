@@ -1,7 +1,8 @@
 ---
 title: A Short Film Series
 permalink: /matchmaker/short-film-series/
-description: ""
+description: Embark on a transformative journey with an enigmatic matchmaker,
+  who guides individuals to discover new opportunities in maritime careers.
 image: /images/microsite logo.png
 variant: markdown
 ---

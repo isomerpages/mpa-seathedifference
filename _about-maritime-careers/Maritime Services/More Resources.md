@@ -1,7 +1,7 @@
 ---
 title: More Resources
 permalink: /maritime-singapore/maritime-services/more-resources/
-description: ""
+description: Explore the role of finance, law and insurance in the maritime industry.
 third_nav_title: Maritime Services
 variant: markdown
 ---

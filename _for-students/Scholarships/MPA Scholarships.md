@@ -2,7 +2,8 @@
 title: MPA Scholarships
 permalink: /for-students/scholarships/mpa-scholarship/
 variant: markdown
-description: ""
+description: Discover the MPA scholarship offering exciting opportunities for
+  students to pursue maritime careers and gain valuable exposure.
 third_nav_title: Scholarships
 ---
 The Maritime and Port Authority of Singapore (MPA) scholarship offers exciting opportunities to live life on the edge a little. You will study at world-class universities, work on overseas assignments, and gain valuable exposure to the thriving maritime industry.

@@ -2,13 +2,14 @@
 title: Sustainability
 permalink: /for-jobseekers/mpa-careers/sustainability/
 variant: markdown
-description: ""
+description: Find available positions in sustainability management and reporting
+  at MPA, contributing to maritime sustainability and decarbonisation efforts.
 third_nav_title: MPA Careers
 ---
 Sustainability involves responsible management of resources to ensure that the needs of future generations can be met.
 
 ### Available Positions 
-Indicate your interest for any of the jobs below by uploading your CV [here](https://go.gov.sg/mpa-job-applications) or clicking on the links below.
+Indicate your interest for any of the jobs below by [uploading your CV](https://go.gov.sg/mpa-job-applications) or clicking on the links below.
 
 |Job Role | Brief Description | 
 | -------- | -------- | 

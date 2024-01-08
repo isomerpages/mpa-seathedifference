@@ -1,7 +1,8 @@
 ---
 title: MaritimeONE Scholarship
 permalink: /scholarships/maritimeone-scholarship/
-description: ""
+description: Explore the MaritimeONE Scholarship nurturing young maritime talent
+  for industry readiness and career development.
 image: /images/maritime_and_port_authority_of_singapore_(logo).png
 third_nav_title: Scholarships
 variant: markdown

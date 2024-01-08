@@ -1,7 +1,8 @@
 ---
 title: Inspired by Justin
 permalink: /matchmaker/justinchua/
-description: ""
+description: Explore Justin Chua's diverse career journey and his creative role
+  as an Applications and Operations Specialist in the maritime industry.
 image: /images/microsite logo.png
 third_nav_title: The Freelancer
 variant: markdown

@@ -1,7 +1,7 @@
 ---
 title: Tripartite Maritime Scholarship
 permalink: /scholarships/tripartite-maritime-scholarship/
-description: ""
+description: Explore the Tripartite Maritime Scholarship (TMSS) for a career at sea.
 image: /images/maritime_and_port_authority_of_singapore_(logo).png
 third_nav_title: Scholarships
 variant: markdown
@@ -41,7 +41,7 @@ For existing students at the Singapore Maritime Academy (SMA)
 
 **TMSS Milestone Achievement Bonuses**
 
-Eligible TMSS scholars who have received their Certificate of Competencies (COC) may request their milestone bonus at this&nbsp;[link](https://form.gov.sg/5da0114f458d72001f8ee0d8). Please take note of the following timelines for disbursement as follows:
+Eligible TMSS scholars who have received their Certificate of Competencies (COC) may [request their milestone bonus](https://form.gov.sg/5da0114f458d72001f8ee0d8). Please take note of the following timelines for disbursement as follows:
 
 • For Certificate of Competencies (COC) attained from&nbsp;Jan to June, please submit the claim form by&nbsp;15 July&nbsp;to enable disbursement to be made to you by Sep of the same year.
 

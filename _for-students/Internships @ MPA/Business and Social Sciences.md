@@ -2,7 +2,9 @@
 title: Business and Social Sciences
 permalink: /for-students/internships-at-mpa/business-and-social-sciences/
 variant: markdown
-description: ""
+description: Explore diverse internship opportunities in communications,
+  marketing, design, law, and business at MPA for business and social sciences
+  students.
 third_nav_title: Internships @ MPA
 ---
 Are you a business or social sciences student looking to partake in a dynamic working environment? Or do you want to try out different roles in a corporate setting?
@@ -19,6 +21,6 @@ Check out our current available internship placements below:
 | Communications, Global Studies, International Relations; relevant experience in event management and planning will be helpful | You will assist in the preparation for the hosting of high-level government representatives at the 1st General Assembly of IALA, and support Singapore's campaign for our IALA Council candidature. |
 | Research and Analysis; Communication; Political Science; Global Studies; Maritime Studies; Sustainability. | You will assist in advancing MPA's work in green and digital shipping corridors by conducting research on potential partners as well as the maritime digitalisation and decarbonisation landscape in various geographical regions. |
 
-More details can be found in the downloadable PDF [here](https://go.gov.sg/mpa-internships-2024)
+More details can be found in the [downloadable PDF](https://go.gov.sg/mpa-internships-2024)
 
-To apply, submit your CV [here](https://go.gov.sg/mpa-internships-application)!
+To apply, simply [submit your CV](https://go.gov.sg/mpa-internships-application)!

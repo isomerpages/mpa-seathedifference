@@ -1,7 +1,8 @@
 ---
 title: Fact or Fiction?
 permalink: /shore-or-not/fact-or-fiction/
-description: ""
+description: Explore the exciting and rewarding opportunities in Maritime
+  Singapore, debunking misconceptions and uncovering its diverse facets.
 variant: markdown
 ---
 Maritime Singapore is more than just shipping. Whether you're considering a career switch or just curious, join us as we explore some common misconceptions about Maritime Singapore and discover why it is such an exciting and rewarding field to be a part of.

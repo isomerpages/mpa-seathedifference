@@ -1,7 +1,8 @@
 ---
 title: About
 permalink: /maritime-singapore/digitalisation/about/
-description: ""
+description: Read about Singapore's leadership in maritime digital technologies
+  for enhanced efficiency, safety, and sustainability.
 third_nav_title: Digitalisation
 variant: markdown
 ---

@@ -2,13 +2,14 @@
 title: Operations and Marine Services
 permalink: /for-jobseekers/mpa-careers/operations-and-marine-services/
 variant: markdown
-description: ""
+description: Find available positions in port operations, hydrography survey,
+  cartography, marine investigation, and vessel traffic management at MPA.
 third_nav_title: MPA Careers
 ---
 As one of the world’s busiest ports, ensuring smooth port operation is key. Careers in port operations and marine services ensure that ships can move in and out of Singapore port safely.
 
 ### Available Positions 
-Indicate your interest for any of the jobs below by uploading your CV [here](https://go.gov.sg/mpa-job-applications) or clicking on the links below.
+Indicate your interest for any of the jobs below by [uploading your CV](https://go.gov.sg/mpa-job-applications) or clicking on the links below.
 
 |Job Role | Brief Description | 
 | -------- | -------- | 

@@ -2,7 +2,8 @@
 title: Meet Michael
 permalink: /matchmaker/michael/
 variant: markdown
-description: ""
+description: Explore the intersection of aviation and maritime as a seasoned
+  flight attendant and a maritime veteran share their stories and passions.
 third_nav_title: The Career Switcher
 ---
 **A seasoned flight attendant — with a flair for tech and a passion for sustainability — crosses paths with Gloria — a maritime veteran with a treasure trove of stories.**
@@ -21,4 +22,4 @@ A well-travelled flight attendant with a keen interest in problem-solving, Micha
 
 Meet Norhakim, the visionary behind Mascon Technologies, a venture aimed at bridging the communication gap between vessels and ports. Like Michael, Hakim’s penchant for problem-solving, along with his years of seafaring experience, led him to start a company in developing innovative solutions to tackle the challenges he observed firsthand. With his unique perspective and passion for improving the maritime industry, Norhakim is poised to make a significant impact in the field.
 
-Read his story next.
+[Read his story next.](https://www.seathedifference.gov.sg/matchmaker/norhakimsanwan/)

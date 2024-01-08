@@ -2,7 +2,9 @@
 title: Computing and Analytics
 permalink: /for-students/internships-at-mpa/computing-and-analytics/
 variant: markdown
-description: ""
+description: Discover MPA's immersive internship experience in communications
+  research, data analytics, computer science, and statistics for maritime
+  digitalisation.
 third_nav_title: Internships @ MPA
 ---
 Digitalisation is the future for the maritime industry. Be ready to unlock your fullest potential with the immersive internship experience here at MPA. 
@@ -16,6 +18,6 @@ Check out our current available internship placements below:
 | Data Analytics; Computer Science     | You will be part of the Statistics and Data Systems team to assist in quantitative analysis and communication of findings, leveraging on techniques in statistics, machine learning, data modelling and dashboards. You will also assist to employ AI/ML methods to aid and improve business processes.     |
 | Statistics; Business; Economics; Maritime Studies      | You will be part of the Statistics and Data Systems team to assist in designing and implementing industry surveys to derive insights that aid policymaking, using relevant survey and sampling methodologies. You will also apply statistical and econometric techniques to generate analyses that address users’ data problem statements.     |
 
-More details can be found in the downloadable PDF [here](https://go.gov.sg/mpa-internships-2024)
+More details can be found in the [downloadable PDF](https://go.gov.sg/mpa-internships-2024)
 
-To apply, submit your CV [here](https://go.gov.sg/mpa-internships-application)!
+To apply, simply [submit your CV](https://go.gov.sg/mpa-internships-application)!

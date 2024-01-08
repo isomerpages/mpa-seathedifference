@@ -2,7 +2,8 @@
 title: MPA Global Internship Award
 permalink: /for-students/internships-at-mpa/mpa-global-internship-award/
 variant: markdown
-description: ""
+description: Discover the MPA Global Internship Award (GIA) offering students
+  valuable maritime experience locally and overseas.
 third_nav_title: Internships @ MPA
 ---
 ### Exploring the world with the MPA Global Internship Award (GIA)
@@ -38,4 +39,4 @@ The award will cover the following:
 *   Travel insurance and other travel-related expenses
 
 
-For more information on the latest application timeline and process, please visit [here](https://www.mpa.gov.sg/events-careers/education-and-scholarships/maritime-attachments/mpa-global-internship-award).
+Read more information on the [latest application timeline and process](https://www.mpa.gov.sg/events-careers/education-and-scholarships/maritime-attachments/mpa-global-internship-award).

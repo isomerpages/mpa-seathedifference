@@ -1,7 +1,8 @@
 ---
 title: Maritime Careers
 permalink: /for-jobseekers/maritime-careers/
-description: ""
+description: Discover diverse career opportunities in the maritime sector and
+  explore job openings at MaritimeONE Career Portal.
 variant: markdown
 ---
 The maritime sector offers many career opportunities in various job roles.

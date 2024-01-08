@@ -1,7 +1,8 @@
 ---
 title: Inspired by Thayaalan
 permalink: /matchmaker/thayaalan/
-description: ""
+description: Explore Dylan's transition from the uniformed services to
+  shipbroking, where he now leads and mentors a team of junior shipbrokers.
 image: /images/microsite logo.png
 third_nav_title: The Experienced Worker
 variant: markdown

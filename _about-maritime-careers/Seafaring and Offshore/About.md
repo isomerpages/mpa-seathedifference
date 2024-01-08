@@ -1,7 +1,8 @@
 ---
 title: About
 permalink: /maritime-singapore/seafaring-and-offshore/about/
-description: ""
+description: Unveil the vital role of seafaring and offshore jobs in the
+  maritime sector, featuring insights from a Chief Officer.
 third_nav_title: Seafaring and Offshore
 variant: markdown
 ---

@@ -1,7 +1,8 @@
 ---
 title: More Resources
 permalink: /maritime-singapore/corporate-roles/more-resources/
-description: ""
+description: Explore the role of a ship charterer and insights from Audrey Wu on
+  her inspiration for joining the maritime industry.
 third_nav_title: Corporate Roles
 variant: markdown
 ---

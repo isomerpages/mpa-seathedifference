@@ -1,7 +1,9 @@
 ---
 title: Career Conversion Programme (CCP)
 permalink: /for-jobseekers/ccp/
-description: ""
+description: Explore the Career Conversion Programme (CCP) for Sea Transport
+  Professionals and Associates, offering mid-career switchers opportunities in
+  maritime roles.
 variant: markdown
 ---
 As more maritime companies continue to digitalise and transform, new jobs are created and cross-disciplinary skills in areas such as data analytics, automation and robotics, and sustainability are required to meet the changing demands of the maritime workforce.
@@ -27,4 +29,4 @@ Beyond the general eligibility criteria for the CCP, applicants should not be:
 *   Related to the owners of the participating company
 
 
-For the full information on this programme, please refer to this [link](https://conversion.mycareersfuture.gov.sg/portal/ProgramDetails.aspx?ProgID=P00000429).
+Learn more about the [Career Conversion Programme (CCP)](https://conversion.mycareersfuture.gov.sg/portal/ProgramDetails.aspx?ProgID=P00000429).

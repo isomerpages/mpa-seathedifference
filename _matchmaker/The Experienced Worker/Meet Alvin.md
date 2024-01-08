@@ -2,7 +2,9 @@
 title: Meet Alvin
 permalink: /matchmaker/the-experienced-worker/
 variant: markdown
-description: ""
+description: Experience the journey of a senior engineer as he encounters
+  Gloria, the seasoned maritime maven, and navigates career transitions in the
+  fast-paced world of technology.
 third_nav_title: The Experienced Worker
 ---
 **After his company's restructuring, a senior engineer worries about how to find another job. An unexpected pamphlet in the letter box brings him to the office of Gloria, the seasoned maritime maven.**
@@ -21,4 +23,4 @@ Amidst a stack of bills and flyers, one about meeting a certain “Matchmaker”
 
 Thayaalan (or Dylan, as he is known to his industry counterparts) is a shipbroker and an Associate Director at Braemar Shipbroking Pte. Ltd. Like Alvin, Dylan made the transition to maritime late in his career from an entirely different industry — the uniformed services. From a solo contributor, he now leads a finds fulfillment in mentoring a team of junior shipbrokers.
 
-Read his story next.
+[Read his story next.](https://www.seathedifference.gov.sg/matchmaker/thayaalan/)

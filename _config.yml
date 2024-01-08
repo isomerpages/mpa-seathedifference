@@ -1,4 +1,4 @@
-title: Sea the Difference
+title: Sea the Difference - Explore maritime careers
 url: https://www.seathedifference.gov.sg
 favicon: /images/sea_the_difference_insignia__BLUE.png
 colors:
@@ -15,7 +15,10 @@ colors:
       color: "#f0a528"
     - title: media-color-five
       color: "#0f8ce6"
-description: ""
+description: ‘Sea the Difference’ is a Maritime Singapore marketing campaign by
+  the Maritime and Port Authority of Singapore (MPA) that celebrates
+  opportunities and highlights the diversity of jobs in the maritime industry,
+  including in digitalisation and decarbonisation.
 permalink: none
 baseurl: ""
 exclude:
@@ -53,8 +56,8 @@ staging: https://staging.d1gd0hiaqdc0wr.amplifyapp.com
 prod: https://master.d1gd0hiaqdc0wr.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/maritime_and_port_authority_of_singapore_(logo).png
-is_government: false
+is_government: true
 google_analytics: ""
 google_analytics_ga4: G-1JLZMKZMMK
-linkedin-insights: ""
+linkedin-insights: "5609004"
 resources_name: resources
