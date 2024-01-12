@@ -2,11 +2,11 @@ collections:
   for-students:
     output: true
     order:
-      - Internships @ MPA/MPA Global Internship Award.md
+      - Internships @ MPA/.keep
       - Internships @ MPA/Engineering and Operations.md
       - Internships @ MPA/Computing and Analytics.md
       - Internships @ MPA/Business and Social Sciences.md
-      - Internships @ MPA/.keep
+      - Internships @ MPA/MPA Global Internship Award.md
       - Scholarships/MPA Scholarships.md
       - Scholarships/.keep
       - Scholarships/MaritimeONE Scholarship.md
