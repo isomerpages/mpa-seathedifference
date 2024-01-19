@@ -41,7 +41,7 @@ sections:
   - infopic:
       title: SHORE OR NOT?
       subtitle: Street Interviews
-      button: Coming Soon
+      button: More here
       description: What are some common misconceptions about the maritime industry?
         Join Joakim Gomez as he hits the streets to debunk maritime myths!
       image: /images/Homepage Banners/Mediacorp_Liner_on_MASSON_KVs.jpg
