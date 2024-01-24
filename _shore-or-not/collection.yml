@@ -1,0 +1,6 @@
+collections:
+  shore-or-not:
+    output: true
+    order:
+      - Street Interviews.md
+      - Fact or Fiction?.md
