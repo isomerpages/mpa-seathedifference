@@ -13,7 +13,7 @@ Maritime Singapore is more than just shipping. Whether you're considering a care
 ### Only those with the specialised maritime skills or qualifications can enter the industry - *FICTION!*
 ![](/images/Fact%20or%20Fiction/2.png)
 
-### If I work in maritime, I must be willing to work on a ship at sea - *FACT!*
+### If I work in maritime, I must be willing to work on a ship at sea - *FICTION!*
 ![](/images/Fact%20or%20Fiction/3.png)
 
 ### Maritime is a sunset industry with limited growth  - *FICTION!*
