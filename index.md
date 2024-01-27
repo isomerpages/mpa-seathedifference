@@ -20,7 +20,7 @@ sections:
           url: /shore-or-not/street-interview-series/
         - title: Make a Splash!
           description: A day-in-the-life
-          url: /make-a-splash/a-day-in-life-of/
+          url: "make-a-splash/a-day-in-the-life-of/ "
         - title: Explore offerings
           description: Start your maritime journey
           url: /maritime-singapore/
