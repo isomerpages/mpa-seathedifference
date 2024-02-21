@@ -2,4 +2,5 @@ collections:
   make-a-splash:
     output: true
     order:
+      - Design Engineer.md
       - A Day In the Life Of.md
