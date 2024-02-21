@@ -2,6 +2,7 @@ collections:
   make-a-splash:
     output: true
     order:
+      - Vessel Traffic Officer.md
       - Hydrographic Surveyor.md
       - Design Engineer.md
       - A Day In the Life Of.md
