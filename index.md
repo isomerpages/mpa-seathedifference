@@ -20,7 +20,7 @@ sections:
           url: /shore-or-not/street-interview-series/
         - title: Make a Splash!
           description: A day-in-the-life
-          url: "make-a-splash/a-day-in-the-life-of/ "
+          url: make-a-splash/a-day-in-the-life-of/
         - title: Explore offerings
           description: Start your maritime journey
           url: /maritime-singapore/
@@ -49,7 +49,7 @@ sections:
       alt: Shore or Not
   - infopic:
       title: MAKE A SPLASH
-      button: Coming soon
+      button: More Here
       alt: Image alt text
       subtitle: explore jobs in maritime
       description: Dive in and 'Make a Splash' with Joakim Gomez! Explore new,
