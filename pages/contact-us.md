@@ -16,8 +16,8 @@ locations:
     title: Main Office
 contacts:
   - content:
-      - phone: +65 6375 1600
-      - email: marine@mpa.gov.sg
+      - phone: 1800 272 7777
+      - email: ""
       - other: ""
     title: General Enquiries & Feedback
   - content:
@@ -25,4 +25,5 @@ contacts:
       - email: mco@sgmf.com.sg
       - other: ""
     title: Careers
+feedback: https://www.mpa.gov.sg/footer/contact-info
 ---
