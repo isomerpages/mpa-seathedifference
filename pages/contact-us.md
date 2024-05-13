@@ -20,10 +20,5 @@ contacts:
       - email: ""
       - other: ""
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: mco@sgmf.com.sg
-      - other: ""
-    title: Careers
 feedback: https://www.mpa.gov.sg/footer/contact-info
 ---
