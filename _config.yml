@@ -3,12 +3,12 @@ url: https://www.seathedifference.gov.sg
 favicon: /images/sea_the_difference_insignia__BLUE.png
 colors:
   primary-color: "#00838f"
-  secondary-color: "#00aaff"
+  secondary-color: "#0000aa"
   media-colors:
     - title: media-color-one
       color: "#f0a528"
     - title: media-color-two
-      color: "#0000aa"
+      color: "#00aaff"
     - title: media-color-three
       color: "#23aa46"
     - title: media-color-four
