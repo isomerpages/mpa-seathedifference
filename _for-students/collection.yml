@@ -2,7 +2,6 @@ collections:
   for-students:
     output: true
     order:
-      - Internships @ MPA/Others.md
       - Internships @ MPA/.keep
       - Internships @ MPA/Engineering and Operations.md
       - Internships @ MPA/Computing and Analytics.md
