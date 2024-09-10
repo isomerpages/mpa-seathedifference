@@ -22,5 +22,3 @@ We got Noorendi, a senior technical executive in our hydrographic division, to s
 For aspiring seafarers, read more on obtaining your [Certificate of Competency (CoC) or endorsement](https://www.mpa.gov.sg/singapore-registry-of-ships/seafarer-training-and-certification/seafarer-certification)
 
 For [MPA-recognised training courses](https://www.mpa.gov.sg/singapore-registry-of-ships/seafarer-training-and-certification/training-courses).
-
-For more information, [contact us](/contact-us/).
