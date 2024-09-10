@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Corporate Roles
 permalink: /maritime-singapore/corporate-roles/about/
 description: Unveil corporate roles shaping the maritime sector's success,
   featuring insights from an asset management executive, ambassador, and

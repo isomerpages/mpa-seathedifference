@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Operations and Marine Services
 permalink: /about-maritime-careers/operations-and-marine-services/about/
 description: Learn the dynamic and challenging roles of Singapore’s marine
   operations and services. Watch industry professionals share insights.

@@ -1,5 +1,5 @@
 ---
-title: More Resources
+title: More Resources on Operations and Marine Services
 permalink: /about-maritime-careers/operations-and-marine-services/more-resources/
 description: Discover the dynamic career of an Operations Executive in the
   fast-paced environment.

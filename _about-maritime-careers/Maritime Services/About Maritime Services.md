@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Maritime Services
 permalink: /maritime-singapore/maritime-services/about/
 description: Learn key roles of maritime services for the smooth operations of
   the maritime industry. A ship financier and lawyer share more about their

@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Sustainability
 permalink: /maritime-singapore/sustainability/about/
 description: Learn about Singapore's efforts to achieve net zero emissions by
   2030 and the maritime sector's role in reducing greenhouse gas emissions.

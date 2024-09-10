@@ -1,5 +1,5 @@
 ---
-title: More Resources
+title: More Resources on Sustainability
 permalink: /maritime-singapore/sustainability/more-resources/
 description: Discover how MPA tackles decarbonisation and incorporate
   sustainability practices in port design and infrastructure.

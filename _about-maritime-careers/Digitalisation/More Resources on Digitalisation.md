@@ -1,5 +1,5 @@
 ---
-title: More Resources
+title: More Resources on Digitalisation
 permalink: /maritime-singapore/digitalisation/more-resources/
 description: Delve into the implementation of 5G network at sea and the
   challenges and innovations in digitalising maritime Singapore.
