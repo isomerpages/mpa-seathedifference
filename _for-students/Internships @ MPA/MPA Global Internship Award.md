@@ -21,8 +21,10 @@ The MPA GIA programme hosts reputable maritime companies. Students gain exposure
 You may apply for the programme if you are:
 
 *   A Singapore Citizen or Singapore Permanent Resident;
-*   Studying at NTU, NUS, SMU, SUTD or SIT* at the point of application.
+*   Studying full-time at NTU, NUS, SIT, SMU, SUSS, SUTD at the point of application.
 
+All scholarship holders with an existing bond are **not eligible** for MPA GIA. 
+MPA GIA can be part of a work-study programme. Participating companies, students and IHLs should jointly work out the internship period accordingly. 
 
 **Duration of Programme**
 
