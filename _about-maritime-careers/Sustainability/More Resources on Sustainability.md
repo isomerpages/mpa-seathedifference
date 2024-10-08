@@ -17,3 +17,5 @@ Decarbonisation comes in all shapes and sizes, and there are millions of ways to
 
 
 Read more on our [sustainability efforts](https://www.mpa.gov.sg/regulations-advisory/maritime-singapore/sustainability).
+
+Explore available positions [here](https://safe.menlosecurity.com/https://www.seathedifference.gov.sg/for-jobseekers/mpa-careers/sustainability/).
