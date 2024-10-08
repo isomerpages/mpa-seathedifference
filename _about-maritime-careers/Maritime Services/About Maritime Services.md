@@ -22,3 +22,7 @@ From disputes to ship collisions, ship arrests and facilitating financing deals,
 #### Shipbroker
 With a friendly smile and entrepreneurial spirit, Dion, a shipbroker at Clarksons, uses his finance skills, sharp mind, and industry knowledge to facilitate deals and build long-lasting relationships with his ship and cargo owners.
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/fGDMrHOwFv8?si=NyhXOIMTTtsLaSRG" height="315" width="560"></iframe>
+
+#### Maritime Claims Executive
+From cargo claims to missing crew members, as a maritime claims executive at Gard, Zirui solves problems for her insurance clients. Each new day presents her with unique challenges, incidents and claims to navigate and mediate.
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/_4NE3Kk3A0A?si=1cvenH9Qu_U7iY7P" height="315" width="560"></iframe>
