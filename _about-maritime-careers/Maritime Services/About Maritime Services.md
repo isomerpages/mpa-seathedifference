@@ -18,3 +18,7 @@ As a ship financier, Chih Chwen works closely with his clients to work out the b
 #### Maritime Lawyer 
 From disputes to ship collisions, ship arrests and facilitating financing deals, Fahmy ensures justice is served to the letter of maritime law. In a fast-paced industry, where disputes are common and minute details can make a big difference in the outcomes, he advises clients on the best course of action.
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/43vB98x66jg?si=EN-pEGmAfY_xWvjX" height="480" width="854"></iframe>
+
+#### Shipbroker
+With a friendly smile and entrepreneurial spirit, Dion, a shipbroker at Clarksons, uses his finance skills, sharp mind, and industry knowledge to facilitate deals and build long-lasting relationships with his ship and cargo owners.
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/fGDMrHOwFv8?si=NyhXOIMTTtsLaSRG" height="315" width="560"></iframe>
