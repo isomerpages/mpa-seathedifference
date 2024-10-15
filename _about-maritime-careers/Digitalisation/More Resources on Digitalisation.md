@@ -15,3 +15,5 @@ In this video, we look at what are some of the challenges faced in the industry 
 
 [](https://www.youtube.com/@MPASingaporeOfficial)
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/_xRJdQoMkJc?si=cf-23LpCowBfY9_i" height="480" width="854"></iframe>
+
+Explore available positions [here](https://safe.menlosecurity.com/https://www.seathedifference.gov.sg/for-jobseekers/mpa-careers/digitalisation/).

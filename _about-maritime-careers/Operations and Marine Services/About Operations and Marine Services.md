@@ -17,3 +17,7 @@ With a bubbly personality and passion for people, Crew Personnel Executive, Juli
 MPA’s vessel traffic operators are the true unsung heroes. They work tirelessly behind the scenes 24/7 a day to avoid collisions by managing movements from a port control centre.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/IC__7Lw5Itk?si=E-5Kxejzi2eMePrT" height="480" width="854"></iframe>
+
+#### Aditya, Shipping Operations Manager
+From managing up to 12 ships, to coordinating with captains, port agents and charterers, time, precision, and attention to detail are paramount in Aditya’s role as a shipping operations manager at Oldendorff Carriers.
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7IT-taXKjaQ?si=qEtoj5X3-O1LE7l9" height="315" width="560"></iframe>
