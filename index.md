@@ -27,6 +27,15 @@ sections:
       background: /images/HERO_KV_microsite.png
       variant: image
       button: Explore Maritime's offerings
+  - infobar:
+      title: Protect Yourself from Scams
+      subtitle: Advisory
+      id: infobar
+      description: We will never ask you to transfer money or disclose bank login
+        details over a phone call. Call 1799 (24/7 ScamShield Helpline) if you
+        are unsure.
+      button: Learn more about protecting yourself from scams
+      url: www.scamshield.gov.sg
   - infopic:
       title: THE MATCHMAKER
       subtitle: Short film series
